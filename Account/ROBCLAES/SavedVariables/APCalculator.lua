@@ -1,0 +1,3 @@
+
+hideText = nil
+hideCalcButton = nil

@@ -1,0 +1,92 @@
+
+TradeSkillMaster_AppHelperDB = {
+	["blackMarket"] = {
+	},
+	["region"] = "EU-BCC",
+	["errorReports"] = {
+		["data"] = {
+		},
+		["updateTime"] = 0,
+	},
+	["shoppingMaxPrices"] = {
+	},
+	["analytics"] = {
+		["data"] = {
+			"[\"AC\",\"v4.10.43\",1625157024981,1625157025,1,\"ADDON_INITIALIZE\",176]", -- [1]
+			"[\"AC\",\"v4.10.43\",1625157039496,1625157025,2,\"ADDON_ENABLE\",119]", -- [2]
+			"[\"AC\",\"v4.10.43\",1625157060935,1625157025,3,\"ADDON_DISABLE\",2]", -- [3]
+			"[\"AC\",\"v4.10.43\",1625157516215,1625157516,1,\"ADDON_INITIALIZE\",63]", -- [4]
+			"[\"AC\",\"v4.10.43\",1625157516215,1625157516,2,\"ADDON_ENABLE\",46]", -- [5]
+			"[\"AC\",\"v4.10.43\",1625157519272,1625157516,3,\"UI_NAVIGATION\",\"\",\"auction\"]", -- [6]
+			"[\"AC\",\"v4.10.43\",1625157519272,1625157516,4,\"UI_NAVIGATION\",\"auction\",\"auction/shopping\"]", -- [7]
+			"[\"AC\",\"v4.10.43\",1625157519272,1625157516,5,\"UI_NAVIGATION\",\"auction/shopping\",\"auction/shopping/selection\"]", -- [8]
+			"[\"AC\",\"v4.10.43\",1625157521557,1625157516,6,\"WHATS_NEW_TIME\",2284,1]", -- [9]
+			"[\"AC\",\"v4.10.43\",1625157524756,1625157516,7,\"UI_NAVIGATION\",\"auction/shopping/selection\",\"auction/shopping/scan\"]", -- [10]
+			"[\"AC\",\"v4.10.43\",1625157525384,1625157516,8,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",126]", -- [11]
+			"[\"AC\",\"v4.10.43\",1625157525976,1625157516,9,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",179]", -- [12]
+			"[\"AC\",\"v4.10.43\",1625157529569,1625157516,10,\"UI_NAVIGATION\",\"auction/shopping/scan\",\"auction/shopping/selection\"]", -- [13]
+			"[\"AC\",\"v4.10.43\",1625157529569,1625157516,11,\"UI_NAVIGATION\",\"auction/shopping/selection\",\"auction/shopping/scan\"]", -- [14]
+			"[\"AC\",\"v4.10.43\",1625157529768,1625157516,12,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",199]", -- [15]
+			"[\"AC\",\"v4.10.43\",1625157530321,1625157516,13,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",149]", -- [16]
+			"[\"AC\",\"v4.10.43\",1625157537283,1625157516,14,\"UI_NAVIGATION\",\"auction/shopping/scan\",\"auction/shopping/selection\"]", -- [17]
+			"[\"AC\",\"v4.10.43\",1625157537283,1625157516,15,\"UI_NAVIGATION\",\"auction/shopping/selection\",\"auction/shopping/scan\"]", -- [18]
+			"[\"AC\",\"v4.10.43\",1625157537395,1625157516,16,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",112]", -- [19]
+			"[\"AC\",\"v4.10.43\",1625157588409,1625157516,17,\"UI_NAVIGATION\",\"auction/shopping/scan\",\"auction/shopping/selection\"]", -- [20]
+			"[\"AC\",\"v4.10.43\",1625157588409,1625157516,18,\"UI_NAVIGATION\",\"auction/shopping/selection\",\"auction/shopping/scan\"]", -- [21]
+			"[\"AC\",\"v4.10.43\",1625157588519,1625157516,19,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",110]", -- [22]
+			"[\"AC\",\"v4.10.43\",1625157589025,1625157516,20,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",160]", -- [23]
+			"[\"AC\",\"v4.10.43\",1625157589537,1625157516,21,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",102]", -- [24]
+			"[\"AC\",\"v4.10.43\",1625157590154,1625157516,22,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",206]", -- [25]
+			"[\"AC\",\"v4.10.43\",1625157590667,1625157516,23,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",96]", -- [26]
+			"[\"AC\",\"v4.10.43\",1625157591229,1625157516,24,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",141]", -- [27]
+			"[\"AC\",\"v4.10.43\",1625157591799,1625157516,25,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",154]", -- [28]
+			"[\"AC\",\"v4.10.43\",1625157592276,1625157516,26,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",60]", -- [29]
+			"[\"AC\",\"v4.10.43\",1625157592787,1625157516,27,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",103]", -- [30]
+			"[\"AC\",\"v4.10.43\",1625157593383,1625157516,28,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",183]", -- [31]
+			"[\"AC\",\"v4.10.43\",1625157593998,1625157516,29,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",207]", -- [32]
+			"[\"AC\",\"v4.10.43\",1625157594662,1625157516,30,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",251]", -- [33]
+			"[\"AC\",\"v4.10.43\",1625157595238,1625157516,31,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",157]", -- [34]
+			"[\"AC\",\"v4.10.43\",1625157595833,1625157516,32,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",176]", -- [35]
+			"[\"AC\",\"v4.10.43\",1625157596345,1625157516,33,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",102]", -- [36]
+			"[\"AC\",\"v4.10.43\",1625157596857,1625157516,34,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",103]", -- [37]
+			"[\"AC\",\"v4.10.43\",1625157597449,1625157516,35,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",180]", -- [38]
+			"[\"AC\",\"v4.10.43\",1625157598009,1625157516,36,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",157]", -- [39]
+			"[\"AC\",\"v4.10.43\",1625157598653,1625157516,37,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",235]", -- [40]
+			"[\"AC\",\"v4.10.43\",1625157599193,1625157516,38,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",137]", -- [41]
+			"[\"AC\",\"v4.10.43\",1625157599715,1625157516,39,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",117]", -- [42]
+			"[\"AC\",\"v4.10.43\",1625157600290,1625157516,40,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",170]", -- [43]
+			"[\"AC\",\"v4.10.43\",1625157600808,1625157516,41,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",113]", -- [44]
+			"[\"AC\",\"v4.10.43\",1625157601334,1625157516,42,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",121]", -- [45]
+			"[\"AC\",\"v4.10.43\",1625157601953,1625157516,43,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",214]", -- [46]
+			"[\"AC\",\"v4.10.43\",1625157602525,1625157516,44,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",155]", -- [47]
+			"[\"AC\",\"v4.10.43\",1625157603031,1625157516,45,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",-1]", -- [48]
+			"[\"AC\",\"v4.10.43\",1625157603031,1625157516,46,\"UI_NAVIGATION\",\"auction/shopping/scan\",\"\"]", -- [49]
+			"[\"AC\",\"v4.10.43\",1625157664126,1625157516,47,\"ADDON_DISABLE\",0]", -- [50]
+			"[\"AC\",\"v4.11.8\",1626167362568,1626167362,1,\"ADDON_INITIALIZE\",66]", -- [51]
+			"[\"AC\",\"v4.11.8\",1626167366136,1626167362,2,\"ADDON_ENABLE\",44]", -- [52]
+			"[\"AC\",\"v4.11.8\",1626167386971,1626167362,3,\"UI_NAVIGATION\",\"\",\"auction\"]", -- [53]
+			"[\"AC\",\"v4.11.8\",1626167386971,1626167362,4,\"UI_NAVIGATION\",\"auction\",\"auction/shopping\"]", -- [54]
+			"[\"AC\",\"v4.11.8\",1626167386971,1626167362,5,\"UI_NAVIGATION\",\"auction/shopping\",\"auction/shopping/selection\"]", -- [55]
+			"[\"AC\",\"v4.11.8\",1626167389372,1626167362,6,\"WHATS_NEW_TIME\",2401,2]", -- [56]
+			"[\"AC\",\"v4.11.8\",1626167394963,1626167362,7,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",5739]", -- [57]
+			"[\"AC\",\"v4.11.8\",1626167429128,1626167362,8,\"UI_NAVIGATION\",\"auction/shopping/selection\",\"\"]", -- [58]
+			"[\"AC\",\"v4.11.8\",1626167443047,1626167362,9,\"ADDON_DISABLE\",0]", -- [59]
+			"[\"AC\",\"v4.11.8\",1626167443047,1626167443,1,\"ADDON_INITIALIZE\",66]", -- [60]
+			"[\"AC\",\"v4.11.8\",1626167443047,1626167443,2,\"ADDON_ENABLE\",44]", -- [61]
+			"[\"AC\",\"v4.11.8\",1626167445477,1626167443,3,\"UI_NAVIGATION\",\"\",\"auction\"]", -- [62]
+			"[\"AC\",\"v4.11.8\",1626167445477,1626167443,4,\"UI_NAVIGATION\",\"auction\",\"auction/shopping\"]", -- [63]
+			"[\"AC\",\"v4.11.8\",1626167445477,1626167443,5,\"UI_NAVIGATION\",\"auction/shopping\",\"auction/shopping/selection\"]", -- [64]
+			"[\"AC\",\"v4.11.8\",1626167448383,1626167443,6,\"UI_NAVIGATION\",\"auction/shopping/selection\",\"auction/shopping/scan\"]", -- [65]
+			"[\"AC\",\"v4.11.8\",1626167448983,1626167443,7,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",98]", -- [66]
+			"[\"AC\",\"v4.11.8\",1626167449501,1626167443,8,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",175]", -- [67]
+			"[\"AC\",\"v4.11.8\",1626167449964,1626167443,9,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",79]", -- [68]
+			"[\"AC\",\"v4.11.8\",1626167490469,1626167443,10,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",113]", -- [69]
+			"[\"AC\",\"v4.11.8\",1626167497230,1626167443,11,\"UI_NAVIGATION\",\"auction/shopping/scan\",\"auction/shopping/selection\"]", -- [70]
+			"[\"AC\",\"v4.11.8\",1626167497230,1626167443,12,\"UI_NAVIGATION\",\"auction/shopping/selection\",\"auction/shopping/scan\"]", -- [71]
+			"[\"AC\",\"v4.11.8\",1626167497335,1626167443,13,\"AH_API_TIME\",\"EU-BCC-Noggenfogger\",\"QueryAuctionItems\",105]", -- [72]
+			"[\"AC\",\"v4.11.8\",1626167509002,1626167443,14,\"UI_NAVIGATION\",\"auction/shopping/scan\",\"\"]", -- [73]
+			"[\"AC\",\"v4.11.8\",1626167510576,1626167443,15,\"ADDON_DISABLE\",2]", -- [74]
+		},
+		["updateTime"] = 1626167510,
+	},
+}

@@ -1,0 +1,10 @@
+
+ArenaStatsTBC = {
+	["profileKeys"] = {
+		["Feretuse - Ashbringer"] = "Feretuse - Ashbringer",
+	},
+	["profiles"] = {
+		["Feretuse - Ashbringer"] = {
+		},
+	},
+}

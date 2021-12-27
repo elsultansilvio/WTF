@@ -1,0 +1,5 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+Gladdy: disabled
+ActionMirroringFrame: disabled
+Bartender4: disabled

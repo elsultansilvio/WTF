@@ -1,0 +1,83 @@
+VER 3 0000000001000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip drain mana
+/cast [nochanneling] drain mana
+END
+VER 3 0000000001000021 " " "INV_MISC_QUESTIONMARK"
+/use Dark Iron Smoking Pipe
+/cast Amplify Curse
+END
+VER 3 0000000001000020 " " "INV_MISC_QUESTIONMARK"
+/use Scryer's Bloodgem
+/cast Immolate
+END
+VER 3 0000000001000012 " " "135814"
+/cast Aquadynamic Fish Attractor
+/use Big Iron Fishing Pole
+END
+VER 3 0000000001000015 " ALT" "INV_MISC_QUESTIONMARK"
+#showtooltip fear
+/use [nomod, target=target] Fear
+/use [mod:alt, target=focus] Fear
+END
+VER 3 0000000001000016 " ALT" "INV_MISC_QUESTIONMARK"
+#showtooltip life tap
+/cast [mod:alt] Life Tap(Rank 3);
+/cast [nomod] Life Tap
+END
+VER 3 0000000001000008 " DL" "INV_MISC_QUESTIONMARK"
+#showtooltip drain life
+/cast [nochanneling] drain life
+END
+VER 3 0000000001000022 " EXH" "INV_MISC_QUESTIONMARK"
+/cast [nomodifier] curse of exhaustion
+/cast [modifier:shift, target=focus] curse of exhaustion
+END
+VER 3 000000000100001F " FCS" "INV_MISC_QUESTIONMARK"
+/cast [@focus] devour magic
+END
+VER 3 000000000100001E " FOCUS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/target focus
+/cast spell lock
+/targetlasttarget
+END
+VER 3 0000000001000013 " STLT" "INV_MISC_QUESTIONMARK"
+#showtooltip fel domination
+/cleartarget [stealth]
+/console targetNearestDistance 10.000
+/targetenemyplayer [noharm][dead]
+/console targetNearestDistance 41
+/cast [harm,nodead] Curse of Exhaustion
+/cleartarget
+END
+VER 3 000000000100001A "DM" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nochanneling] drain mana
+END
+VER 3 0000000001000019 "dn rob" "INV_MISC_QUESTIONMARK"
+/cast [@joeyjoejoe] devour magic
+END
+VER 3 000000000100000A "FEL" "INV_MISC_QUESTIONMARK"
+/cast Fel Domination
+/use [nomod] Summon Felhunter(Summon);
+/use [mod:alt] Summon Voidwalker(Summon);
+/cast Soul Link
+END
+VER 3 0000000001000014 "FOCUS" "132130"
+/focus
+END
+VER 3 000000000100001D "FOCUS" "136223"
+/target focus
+/cast devour magic
+/targetlasttarget
+END
+VER 3 000000000100001B "LIDL" "INV_MISC_QUESTIONMARK"
+/cast [@lidle] devour magic
+END
+VER 3 000000000100000B "PA " "132097"
+/petattack [target=tremor totem]
+/petattack [target=grounding totem]
+/petattack [target=mana tide totem]
+/petattack [target=Earthbind totem]
+/petattack [target=windfury totem]
+END

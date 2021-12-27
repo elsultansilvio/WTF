@@ -1,0 +1,19 @@
+
+AtlasLootClassicDB = {
+	["profileKeys"] = {
+		["Joeyjoejoe - Ashbringer"] = "Joeyjoejoe - Ashbringer",
+		["Karaamja - Ashbringer"] = "Karaamja - Ashbringer",
+	},
+	["global"] = {
+		["__addonrevision"] = 2040000,
+	},
+	["profiles"] = {
+		["Joeyjoejoe - Ashbringer"] = {
+		},
+		["Karaamja - Ashbringer"] = {
+			["minimap"] = {
+				["minimapPos"] = 263.8879249908426,
+			},
+		},
+	},
+}

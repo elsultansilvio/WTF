@@ -1,0 +1,4 @@
+VER 3 0000000001000001 "Attack" "132094"
+/cast Charge(Rank 1)
+/cast Rend(Rank 2)
+END

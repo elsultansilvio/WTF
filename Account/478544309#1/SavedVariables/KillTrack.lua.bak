@@ -1,0 +1,60 @@
+
+KILLTRACK = {
+	["LOAD_MESSAGE"] = false,
+	["COUNT_GROUP"] = false,
+	["PRINTKILLS"] = false,
+	["SHOW_EXP"] = false,
+	["TOOLTIP"] = true,
+	["PRINTNEW"] = false,
+	["MOBS"] = {
+		[94] = {
+			["AchievCount"] = 0,
+			["Kills"] = 0,
+			["Name"] = "Defias Cutpurse",
+			["Exp"] = 4,
+		},
+		[299] = {
+			["AchievCount"] = 0,
+			["Kills"] = 0,
+			["Name"] = "Young Wolf",
+			["Exp"] = 30,
+		},
+		[38] = {
+			["AchievCount"] = 0,
+			["Kills"] = 1,
+			["Name"] = "Defias Thug",
+			["Exp"] = 26,
+		},
+		[2442] = {
+			["AchievCount"] = 0,
+			["Kills"] = 0,
+			["Name"] = "Cow",
+		},
+		[69] = {
+			["AchievCount"] = 0,
+			["Kills"] = 1,
+			["Name"] = "Timber Wolf",
+			["Exp"] = 36,
+		},
+		[525] = {
+			["AchievCount"] = 0,
+			["Kills"] = 0,
+			["Name"] = "Mangy Wolf",
+			["Exp"] = 2,
+		},
+	},
+	["IMMEDIATE"] = {
+		["THRESHOLD"] = 0,
+		["POSITION"] = {
+		},
+	},
+	["BROKER"] = {
+		["MINIMAP"] = {
+			["hide"] = true,
+		},
+		["SHORT_TEXT"] = false,
+	},
+	["DISABLE_DUNGEONS"] = false,
+	["DISABLE_RAIDS"] = false,
+	["ACHIEV_THRESHOLD"] = 1000,
+}

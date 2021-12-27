@@ -1,0 +1,1174 @@
+
+TradeSkillMasterDB = {
+	["g@ @destroyingOptions@deAbovePrice"] = "0c",
+	["r@Noggenfogger@internalData@saveTimeCancels"] = "",
+	["c@Hordescums - Noggenfogger@bankingUIContext@auctioningGroupTree"] = {
+		["collapsed"] = {
+		},
+		["unselected"] = {
+		},
+	},
+	["r@Noggenfogger@internalData@csvCancelled"] = "itemString,stackSize,quantity,player,time",
+	["_hash"] = 2053049,
+	["c@Hordescums - Noggenfogger@bankingUIContext@mailingGroupTree"] = {
+		["collapsed"] = {
+		},
+		["unselected"] = {
+		},
+	},
+	["g@ @craftingOptions@defaultMatCostMethod"] = "min(dbmarket, crafting, vendorbuy, convert(dbmarket))",
+	["g@ @craftingUIContext@gatheringDividedContainer"] = {
+		["leftWidth"] = 284,
+	},
+	["c@Hordescums - Noggenfogger@mainUIContext@groupsManagementGroupTree"] = {
+		["collapsed"] = {
+		},
+	},
+	["r@Noggenfogger@internalData@saveTimeExpires"] = "",
+	["g@ @mailingOptions@deMaxQuality"] = 2,
+	["s@Hordescums - Horde - Noggenfogger@internalData@goldLog"] = "minute,copper\n27085959,0",
+	["g@ @sniperOptions@sniperSound"] = "TSM_NO_SOUND",
+	["g@ @tooltipOptions@deTooltip"] = true,
+	["g@ @auctionUIContext@sniperScrollingTable"] = {
+		["colWidth"] = {
+			["ilvl"] = 32,
+			["pct"] = 40,
+			["seller"] = 86,
+			["item"] = 230,
+			["bidPct"] = 40,
+			["posts"] = 40,
+			["buyout"] = 115,
+			["itemBuyout"] = 115,
+			["bid"] = 115,
+			["itemBid"] = 115,
+			["icon"] = 24,
+			["stack"] = 40,
+		},
+		["colHidden"] = {
+			["bid"] = true,
+			["buyout"] = true,
+			["bidPct"] = true,
+		},
+	},
+	["g@ @vendoringUIContext@buyScrollingTable"] = {
+		["colWidth"] = {
+			["item"] = 310,
+			["qty"] = 40,
+			["ilvl"] = 32,
+			["cost"] = 150,
+		},
+		["colHidden"] = {
+			["ilvl"] = true,
+		},
+	},
+	["g@ @shoppingOptions@maxDeSearchPercent"] = 100,
+	["g@ @shoppingOptions@pctSource"] = "dbmarket",
+	["f@Horde - Noggenfogger@internalData@auctionDBScanHash"] = 0,
+	["g@ @shoppingOptions@maxDeSearchLvl"] = 500,
+	["g@ @shoppingOptions@buyoutAlertSource"] = "min(100000g, 200% dbmarket)",
+	["f@Horde - Noggenfogger@userData@craftingCooldownIgnore"] = {
+	},
+	["g@ @auctioningOptions@disableInvalidMsg"] = false,
+	["g@ @vendoringUIContext@showDefault"] = false,
+	["g@ @auctionUIContext@auctioningSelectionVerticalDividedContainer"] = {
+		["leftWidth"] = 220,
+	},
+	["g@ @internalData@destroyingHistory"] = {
+	},
+	["c@Hordescums - Noggenfogger@auctionUIContext@auctioningGroupTree"] = {
+		["collapsed"] = {
+		},
+		["unselected"] = {
+		},
+	},
+	["g@ @destroyingOptions@includeSoulbound"] = false,
+	["r@Noggenfogger@internalData@csvSales"] = "itemString,stackSize,quantity,price,otherPlayer,player,time,source",
+	["r@Noggenfogger@internalData@csvExpense"] = "type,amount,otherPlayer,player,time",
+	["c@Hordescums - Noggenfogger@internalData@auctionMessages"] = {
+	},
+	["_lastModifiedVersion"] = {
+		["r@internalData@csvSales"] = 10,
+		["g@coreOptions@groupPriceSource"] = 41,
+		["g@userData@destroyingIgnore"] = 10,
+		["s@internalData@classKey"] = 19,
+		["r@internalData@saveTimeBuys"] = 10,
+		["c@internalData@auctionPrices"] = 10,
+		["g@coreOptions@chatFrame"] = 10,
+		["g@destroyingUIContext@itemsScrollingTable"] = 55,
+		["g@internalData@appMessageId"] = 10,
+		["g@craftingOptions@defaultCraftPriceMethod"] = 89,
+		["g@mailingOptions@keepMailSpace"] = 10,
+		["g@debug@chatLoggingEnabled"] = 19,
+		["g@mailingUIContext@mailsScrollingTable"] = 81,
+		["g@auctionUIContext@shoppingSearchesTabGroup"] = 55,
+		["g@mainUIContext@frame"] = 59,
+		["g@craftingUIContext@professionScrollingTable"] = 103,
+		["g@mainUIContext@ledgerOtherScrollingTable"] = 59,
+		["p@gatheringOptions@sources"] = 32,
+		["r@internalData@saveTimeExpires"] = 10,
+		["g@bankingUIContext@tab"] = 55,
+		["g@userData@operations"] = 10,
+		["r@internalData@csvExpense"] = 10,
+		["r@internalData@csvBuys"] = 10,
+		["f@userData@craftingCooldownIgnore"] = 99,
+		["c@bankingUIContext@mailingGroupTree"] = 80,
+		["g@mailingOptions@recentlyMailedList"] = 38,
+		["g@mainUIContext@importExportDividedContainer"] = 55,
+		["g@destroyingOptions@includeSoulbound"] = 10,
+		["g@shoppingOptions@buyoutConfirm"] = 46,
+		["g@vendoringUIContext@showDefault"] = 55,
+		["g@craftingOptions@ignoreCharacters"] = 10,
+		["g@auctioningOptions@scanCompleteSound"] = 10,
+		["g@auctionUIContext@auctioningLogScrollingTable"] = 55,
+		["g@destroyingOptions@autoStack"] = 10,
+		["g@vendoringOptions@displayMoneyCollected"] = 10,
+		["g@mainUIContext@ledgerAuctionsScrollingTable"] = 59,
+		["g@mainUIContext@dashboardUnselectedCharacters"] = 78,
+		["r@internalData@csvCancelled"] = 10,
+		["g@auctionUIContext@frame"] = 55,
+		["s@internalData@goldLogLastUpdate"] = 83,
+		["g@tooltipOptions@customPriceTooltips"] = 10,
+		["g@craftingUIContext@frame"] = 55,
+		["g@vendoringUIContext@buybackScrollingTable"] = 55,
+		["f@gatheringContext@professions"] = 32,
+		["g@mainUIContext@ledgerDetailScrollingTable"] = 59,
+		["g@mailingUIContext@showDefault"] = 55,
+		["g@shoppingOptions@searchAutoFocus"] = 88,
+		["s@internalData@auctionQuantity"] = 19,
+		["p@userData@items"] = 10,
+		["c@internalData@auctionSaleHints"] = 45,
+		["g@auctionUIContext@auctioningSelectionVerticalDividedContainer"] = 66,
+		["g@shoppingOptions@minDeSearchLvl"] = 10,
+		["g@mailingOptions@deMaxQuality"] = 10,
+		["f@internalData@mailExcessGoldLimit"] = 49,
+		["c@mainUIContext@exportGroupTree"] = 80,
+		["g@internalData@vendorItems"] = 10,
+		["f@internalData@mailExcessGoldChar"] = 49,
+		["g@accountingOptions@autoTrackTrades"] = 10,
+		["f@internalData@crafts"] = 99,
+		["c@bankingUIContext@warehousingGroupTree"] = 80,
+		["g@mainUIContext@dashboardDividedContainer"] = 59,
+		["r@internalData@saveTimeSales"] = 10,
+		["g@mailingUIContext@frame"] = 55,
+		["s@internalData@bagQuantity"] = 19,
+		["g@vendoringUIContext@buyScrollingTable"] = 92,
+		["g@destroyingUIContext@frame"] = 55,
+		["g@destroyingOptions@deAbovePrice"] = 10,
+		["s@internalData@reagentBankQuantity"] = 19,
+		["g@tooltipOptions@groupNameTooltip"] = 10,
+		["g@destroyingOptions@deMaxQuality"] = 10,
+		["g@mainUIContext@operationsSummaryScrollingTable"] = 76,
+		["g@tooltipOptions@moduleTooltips"] = 10,
+		["r@internalData@csvExpired"] = 10,
+		["g@craftingUIContext@matsScrollingTable"] = 55,
+		["p@userData@operations"] = 10,
+		["g@craftingOptions@ignoreGuilds"] = 10,
+		["g@mainUIContext@operationsDividedContainer"] = 55,
+		["c@internalData@craftingCooldowns"] = 99,
+		["c@bankingUIContext@auctioningGroupTree"] = 80,
+		["g@bankingUIContext@frame"] = 55,
+		["g@coreOptions@minimapIcon"] = 10,
+		["g@sniperOptions@sniperSound"] = 10,
+		["g@craftingUIContext@craftsScrollingTable"] = 86,
+		["g@vendoringOptions@qsMarketValue"] = 10,
+		["r@internalData@accountingTrimmed"] = 10,
+		["g@mailingOptions@sendItemsIndividually"] = 10,
+		["c@auctionUIContext@shoppingGroupTree"] = 80,
+		["g@taskListUIContext@frame"] = 55,
+		["f@internalData@csvAuctionDBScan"] = 50,
+		["g@mainUIContext@ledgerTransactionsScrollingTable"] = 62,
+		["g@shoppingOptions@maxDeSearchPercent"] = 23,
+		["g@tooltipOptions@vendorBuyTooltip"] = 10,
+		["g@internalData@whatsNewVersion"] = 94,
+		["g@appearanceOptions@showTotalMoney"] = 95,
+		["g@auctionUIContext@sniperScrollingTable"] = 103,
+		["p@internalData@createdDefaultOperations"] = 11,
+		["c@mainUIContext@importGroupTree"] = 80,
+		["g@shoppingOptions@pctSource"] = 12,
+		["g@craftingOptions@defaultMatCostMethod"] = 10,
+		["g@craftingUIContext@showDefault"] = 55,
+		["g@userData@vendoringIgnore"] = 10,
+		["g@mainUIContext@dashboardTimeRange"] = 78,
+		["f@internalData@mailDisenchantablesChar"] = 49,
+		["g@shoppingOptions@buyoutAlertSource"] = 46,
+		["g@tooltipOptions@embeddedTooltip"] = 10,
+		["g@coreOptions@protectAuctionHouse"] = 77,
+		["g@mainUIContext@ledgerResaleScrollingTable"] = 62,
+		["f@gatheringContext@crafter"] = 32,
+		["g@craftingUIContext@gatheringScrollingTable"] = 55,
+		["f@internalData@pendingMail"] = 10,
+		["g@tooltipOptions@transformTooltip"] = 10,
+		["g@destroyingOptions@autoShow"] = 10,
+		["g@internalData@destroyingHistory"] = 10,
+		["f@internalData@isCraftFavorite"] = 56,
+		["g@auctionUIContext@showDefault"] = 55,
+		["f@coreOptions@ignoreGuilds"] = 10,
+		["g@userData@savedAuctioningSearches"] = 96,
+		["g@tooltipOptions@detailedDestroyTooltip"] = 10,
+		["g@auctioningOptions@disableInvalidMsg"] = 10,
+		["g@tooltipOptions@inventoryTooltipFormat"] = 10,
+		["c@internalData@auctionMessages"] = 10,
+		["g@mainUIContext@ledgerInventoryScrollingTable"] = 69,
+		["f@auctioningOptions@whitelist"] = 10,
+		["g@vendoringUIContext@frame"] = 55,
+		["g@tooltipOptions@enabled"] = 20,
+		["g@userData@savedShoppingSearches"] = 96,
+		["f@internalData@guildGoldLogLastUpdate"] = 83,
+		["g@tooltipOptions@tooltipShowModifier"] = 10,
+		["g@auctioningOptions@matchWhitelist"] = 10,
+		["f@internalData@auctionDBScanTime"] = 50,
+		["g@auctionUIContext@shoppingAuctionScrollingTable"] = 103,
+		["g@auctionUIContext@auctioningAuctionScrollingTable"] = 103,
+		["g@auctioningOptions@cancelWithBid"] = 10,
+		["g@appearanceOptions@colorSet"] = 75,
+		["r@internalData@saveTimeCancels"] = 10,
+		["g@tooltipOptions@millTooltip"] = 10,
+		["g@auctionUIContext@auctioningSelectionDividedContainer"] = 55,
+		["f@internalData@guildGoldLog"] = 25,
+		["s@internalData@goldLog"] = 25,
+		["g@tooltipOptions@operationTooltips"] = 10,
+		["s@internalData@money"] = 74,
+		["g@auctionUIContext@auctioningBagScrollingTable"] = 55,
+		["g@taskListUIContext@isOpen"] = 55,
+		["g@tooltipOptions@vendorSellTooltip"] = 10,
+		["c@craftingUIContext@groupTree"] = 80,
+		["g@vendoringUIContext@sellScrollingTable"] = 55,
+		["g@tooltipOptions@deTooltip"] = 10,
+		["g@mainUIContext@groupsDividedContainer"] = 55,
+		["r@internalData@csvIncome"] = 10,
+		["f@internalData@mats"] = 10,
+		["g@internalData@optionalMatTextLookup"] = 97,
+		["c@auctionUIContext@auctioningGroupTree"] = 80,
+		["g@accountingOptions@trackTrades"] = 10,
+		["f@internalData@expiringAuction"] = 47,
+		["g@auctioningOptions@confirmCompleteSound"] = 10,
+		["g@userData@customPriceSources"] = 10,
+		["g@mailingOptions@openMailSound"] = 10,
+		["g@coreOptions@globalOperations"] = 10,
+		["f@internalData@characterGuilds"] = 10,
+		["s@internalData@mailQuantity"] = 19,
+		["g@mailingOptions@inboxMessages"] = 10,
+		["c@mainUIContext@groupsManagementGroupTree"] = 71,
+		["g@tooltipOptions@prospectTooltip"] = 10,
+		["s@internalData@playerProfessions"] = 36,
+		["g@craftingUIContext@gatheringDividedContainer"] = 55,
+		["s@internalData@bankQuantity"] = 19,
+		["g@appearanceOptions@customColorSet"] = 98,
+		["g@craftingUIContext@professionDividedContainer"] = 55,
+		["f@internalData@guildVaults"] = 10,
+		["p@userData@groups"] = 10,
+		["g@coreOptions@auctionSaleSound"] = 10,
+		["g@bankingUIContext@isOpen"] = 55,
+		["c@mailingUIContext@groupTree"] = 80,
+		["g@shoppingOptions@maxDeSearchLvl"] = 79,
+		["g@tooltipOptions@tooltipPriceFormat"] = 10,
+		["g@internalData@lastCharacter"] = 90,
+		["c@vendoringUIContext@groupTree"] = 80,
+		["f@internalData@craftingQueue"] = 101,
+		["f@internalData@expiringMail"] = 47,
+		["g@coreOptions@destroyValueSource"] = 10,
+		["g@appearanceOptions@taskListBackgroundLock"] = 87,
+		["g@mailingOptions@sendMessages"] = 10,
+		["g@mailingOptions@resendDelay"] = 10,
+		["g@auctionUIContext@myAuctionsScrollingTable"] = 103,
+		["f@internalData@auctionDBScanHash"] = 50,
+		["g@auctionUIContext@auctioningTabGroup"] = 93,
+		["g@auctionUIContext@shoppingSelectionDividedContainer"] = 55,
+	},
+	["f@Horde - Noggenfogger@gatheringContext@crafter"] = "",
+	["g@ @userData@savedShoppingSearches"] = {
+		["name"] = {
+		},
+		["isFavorite"] = {
+		},
+		["filters"] = {
+			"shadowcloth", -- [1]
+			"primal mooncloth", -- [2]
+			"havok", -- [3]
+			"unyielding", -- [4]
+		},
+	},
+	["g@ @mailingUIContext@showDefault"] = false,
+	["g@ @auctionUIContext@myAuctionsScrollingTable"] = {
+		["colWidth"] = {
+			["stackSize"] = 30,
+			["buyout"] = 100,
+			["currentBid"] = 100,
+			["group"] = 110,
+			["item"] = 248,
+			["timeLeft"] = 40,
+			["highbidder"] = 110,
+		},
+		["colHidden"] = {
+		},
+	},
+	["s@Hordescums - Horde - Noggenfogger@internalData@mailQuantity"] = {
+	},
+	["s@Hordescums - Horde - Noggenfogger@internalData@reagentBankQuantity"] = {
+	},
+	["g@ @craftingUIContext@professionDividedContainer"] = {
+		["leftWidth"] = 520,
+	},
+	["g@ @tooltipOptions@customPriceTooltips"] = {
+	},
+	["f@Horde - Noggenfogger@internalData@expiringMail"] = {
+	},
+	["s@Hordescums - Horde - Noggenfogger@internalData@bankQuantity"] = {
+	},
+	["g@ @mainUIContext@operationsDividedContainer"] = {
+		["leftWidth"] = 306,
+	},
+	["r@Noggenfogger@internalData@csvIncome"] = "type,amount,otherPlayer,player,time",
+	["c@Hordescums - Noggenfogger@mainUIContext@importGroupTree"] = {
+		["collapsed"] = {
+		},
+		["selected"] = {
+		},
+	},
+	["r@Noggenfogger@internalData@saveTimeSales"] = "",
+	["g@ @mainUIContext@ledgerOtherScrollingTable"] = {
+		["colWidth"] = {
+			["type"] = 200,
+			["time"] = 110,
+			["amount"] = 120,
+			["otherCharacter"] = 122,
+			["character"] = 110,
+		},
+		["colHidden"] = {
+		},
+	},
+	["g@ @auctionUIContext@shoppingAuctionScrollingTable"] = {
+		["colWidth"] = {
+			["ilvl"] = 32,
+			["pct"] = 40,
+			["seller"] = 88,
+			["item"] = 226,
+			["bidPct"] = 40,
+			["posts"] = 40,
+			["buyout"] = 115,
+			["itemBuyout"] = 115,
+			["bid"] = 115,
+			["itemBid"] = 115,
+			["timeLeft"] = 26,
+			["stack"] = 40,
+		},
+		["colHidden"] = {
+			["bid"] = true,
+			["buyout"] = true,
+			["bidPct"] = true,
+		},
+	},
+	["f@Horde - Noggenfogger@internalData@auctionDBScanTime"] = 0,
+	["g@ @mainUIContext@importExportDividedContainer"] = {
+		["leftWidth"] = 300,
+	},
+	["g@ @taskListUIContext@isOpen"] = true,
+	["f@Horde - Noggenfogger@internalData@expiringAuction"] = {
+	},
+	["s@Hordescums - Horde - Noggenfogger@internalData@classKey"] = "SHAMAN",
+	["r@Noggenfogger@internalData@accountingTrimmed"] = {
+	},
+	["g@ @auctioningOptions@scanCompleteSound"] = "TSM_NO_SOUND",
+	["f@Horde - Noggenfogger@internalData@crafts"] = {
+	},
+	["p@Default@userData@operations"] = {
+		["Mailing"] = {
+			["#Default"] = {
+				["ignoreFactionrealm"] = {
+				},
+				["restock"] = false,
+				["maxQtyEnabled"] = false,
+				["relationships"] = {
+				},
+				["keepQty"] = 0,
+				["target"] = "",
+				["restockSources"] = {
+					["guild"] = false,
+					["bank"] = false,
+				},
+				["ignorePlayer"] = {
+				},
+				["maxQty"] = 10,
+			},
+		},
+		["Auctioning"] = {
+			["#Default"] = {
+				["cancelRepost"] = true,
+				["normalPrice"] = "check(first(crafting,dbmarket,dbregionmarketavg),max(2*avg(crafting,dbmarket,dbregionmarketavg),12*vendorsell))",
+				["cancelUndercut"] = true,
+				["matchStackSize"] = false,
+				["keepQuantity"] = "0",
+				["postCap"] = "5",
+				["bidPercent"] = 1,
+				["relationships"] = {
+				},
+				["maxPrice"] = "check(first(crafting,dbmarket,dbregionmarketavg),max(5*avg(crafting,dbmarket,dbregionmarketavg),30*vendorsell))",
+				["ignoreLowDuration"] = 0,
+				["stackSize"] = "1",
+				["ignoreFactionrealm"] = {
+				},
+				["undercut"] = "1c",
+				["maxExpires"] = "0",
+				["stackSizeIsCap"] = false,
+				["priceReset"] = "none",
+				["ignorePlayer"] = {
+				},
+				["cancelRepostThreshold"] = "1g",
+				["aboveMax"] = "maxPrice",
+				["minPrice"] = "check(first(crafting,dbmarket,dbregionmarketavg),max(0.25*avg(crafting,dbmarket,dbregionmarketavg),1.5*vendorsell))",
+				["duration"] = 2,
+				["blacklist"] = "",
+			},
+		},
+		["Crafting"] = {
+			["#Default"] = {
+				["ignoreFactionrealm"] = {
+				},
+				["relationships"] = {
+				},
+				["minRestock"] = "10",
+				["craftPriceMethod"] = "",
+				["ignorePlayer"] = {
+				},
+				["maxRestock"] = "20",
+				["minProfit"] = "100g",
+			},
+		},
+		["Shopping"] = {
+			["#Default"] = {
+				["ignoreFactionrealm"] = {
+				},
+				["showAboveMaxPrice"] = true,
+				["maxPrice"] = "dbmarket",
+				["restockQuantity"] = "0",
+				["restockSources"] = {
+					["alts"] = false,
+					["auctions"] = false,
+					["guild"] = false,
+					["bank"] = false,
+				},
+				["relationships"] = {
+				},
+				["ignorePlayer"] = {
+				},
+			},
+		},
+		["Vendoring"] = {
+			["#Default"] = {
+				["vsMarketValue"] = "dbmarket",
+				["ignoreFactionrealm"] = {
+				},
+				["enableBuy"] = true,
+				["vsMaxMarketValue"] = "0c",
+				["sellAfterExpired"] = 20,
+				["vsDestroyValue"] = "destroy",
+				["relationships"] = {
+				},
+				["ignorePlayer"] = {
+				},
+				["restockQty"] = 0,
+				["keepQty"] = 0,
+				["vsMaxDestroyValue"] = "0c",
+				["restockSources"] = {
+					["alts_ah"] = false,
+					["ah"] = false,
+					["guild"] = false,
+					["alts"] = false,
+					["mail"] = false,
+					["bank"] = false,
+				},
+				["sellSoulbound"] = false,
+				["enableSell"] = true,
+			},
+		},
+		["Sniper"] = {
+			["#Default"] = {
+				["ignorePlayer"] = {
+				},
+				["ignoreFactionrealm"] = {
+				},
+				["relationships"] = {
+				},
+				["belowPrice"] = "max(vendorsell, ifgt(DBRegionMarketAvg, 250000g, 0.8, ifgt(DBRegionMarketAvg, 100000g, 0.7, ifgt(DBRegionMarketAvg, 50000g, 0.6, ifgt(DBRegionMarketAvg, 25000g, 0.5, ifgt(DBRegionMarketAvg, 10000g, 0.4, ifgt(DBRegionMarketAvg, 5000g, 0.3, ifgt(DBRegionMarketAvg, 2000g, 0.2, ifgt(DBRegionMarketAvg, 1000g, 0.1, 0.05)))))))) * DBRegionMarketAvg)",
+			},
+		},
+		["Warehousing"] = {
+			["#Default"] = {
+				["stackSize"] = 0,
+				["ignoreFactionrealm"] = {
+				},
+				["moveQuantity"] = 0,
+				["keepBankQuantity"] = 0,
+				["relationships"] = {
+				},
+				["restockStackSize"] = 0,
+				["restockQuantity"] = 0,
+				["ignorePlayer"] = {
+				},
+				["keepBagQuantity"] = 0,
+				["restockKeepBankQuantity"] = 0,
+			},
+		},
+	},
+	["p@Default@internalData@createdDefaultOperations"] = true,
+	["_scopeKeys"] = {
+		["char"] = {
+			"Hordescums - Noggenfogger", -- [1]
+		},
+		["sync"] = {
+			"Hordescums - Horde - Noggenfogger", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - Noggenfogger", -- [1]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["realm"] = {
+			"Noggenfogger", -- [1]
+		},
+	},
+	["g@ @userData@operations"] = {
+	},
+	["g@ @mainUIContext@dashboardDividedContainer"] = {
+		["leftWidth"] = 300,
+	},
+	["g@ @auctionUIContext@auctioningAuctionScrollingTable"] = {
+		["colWidth"] = {
+			["ilvl"] = 32,
+			["pct"] = 40,
+			["seller"] = 88,
+			["item"] = 226,
+			["bidPct"] = 40,
+			["posts"] = 40,
+			["buyout"] = 115,
+			["itemBuyout"] = 115,
+			["bid"] = 115,
+			["itemBid"] = 115,
+			["timeLeft"] = 26,
+			["stack"] = 40,
+		},
+		["colHidden"] = {
+			["bid"] = true,
+			["buyout"] = true,
+			["bidPct"] = true,
+		},
+	},
+	["g@ @accountingOptions@autoTrackTrades"] = false,
+	["s@Hordescums - Horde - Noggenfogger@internalData@goldLogLastUpdate"] = 1626167395,
+	["c@Hordescums - Noggenfogger@internalData@craftingCooldowns"] = {
+	},
+	["g@ @mailingOptions@sendItemsIndividually"] = false,
+	["g@ @craftingUIContext@craftsScrollingTable"] = {
+		["colWidth"] = {
+			["saleRate"] = 32,
+			["operation"] = 80,
+			["bags"] = 28,
+			["profit"] = 100,
+			["craftingCost"] = 100,
+			["itemValue"] = 100,
+			["queued"] = 30,
+			["craftName"] = 218,
+			["profitPct"] = 50,
+			["ah"] = 24,
+		},
+		["colHidden"] = {
+			["profitPct"] = true,
+		},
+	},
+	["g@ @destroyingOptions@deMaxQuality"] = 3,
+	["s@Hordescums - Horde - Noggenfogger@internalData@bagQuantity"] = {
+		["i:117"] = 4,
+		["i:6948"] = 1,
+		["i:159"] = 2,
+	},
+	["g@ @debug@chatLoggingEnabled"] = false,
+	["c@Hordescums - Noggenfogger@bankingUIContext@warehousingGroupTree"] = {
+		["collapsed"] = {
+		},
+		["unselected"] = {
+		},
+	},
+	["g@ @tooltipOptions@tooltipShowModifier"] = "none",
+	["g@ @mainUIContext@frame"] = {
+		["width"] = 900,
+		["height"] = 700,
+		["scale"] = 1,
+		["centerY"] = 0,
+		["page"] = 1,
+		["centerX"] = 0,
+	},
+	["g@ @tooltipOptions@tooltipPriceFormat"] = "text",
+	["s@Hordescums - Horde - Noggenfogger@internalData@playerProfessions"] = {
+	},
+	["g@ @mainUIContext@dashboardTimeRange"] = -1,
+	["f@Horde - Noggenfogger@internalData@characterGuilds"] = {
+	},
+	["p@Default@userData@groups"] = {
+		[""] = {
+			["Shopping"] = {
+				"#Default", -- [1]
+				["override"] = true,
+			},
+			["Warehousing"] = {
+				"#Default", -- [1]
+				["override"] = true,
+			},
+			["Auctioning"] = {
+				"#Default", -- [1]
+				["override"] = true,
+			},
+			["Crafting"] = {
+				"#Default", -- [1]
+				["override"] = true,
+			},
+			["Mailing"] = {
+				"#Default", -- [1]
+				["override"] = true,
+			},
+			["Vendoring"] = {
+				"#Default", -- [1]
+				["override"] = true,
+			},
+			["Sniper"] = {
+				"#Default", -- [1]
+				["override"] = true,
+			},
+		},
+	},
+	["c@Hordescums - Noggenfogger@mainUIContext@exportGroupTree"] = {
+		["collapsed"] = {
+		},
+		["unselected"] = {
+		},
+	},
+	["f@Horde - Noggenfogger@internalData@mailDisenchantablesChar"] = "",
+	["g@ @tooltipOptions@groupNameTooltip"] = true,
+	["g@ @mainUIContext@ledgerTransactionsScrollingTable"] = {
+		["colWidth"] = {
+			["player"] = 95,
+			["type"] = 50,
+			["item"] = 156,
+			["auctions"] = 60,
+			["stack"] = 55,
+			["perItem"] = 120,
+			["total"] = 120,
+			["time"] = 110,
+		},
+		["colHidden"] = {
+			["total"] = true,
+		},
+	},
+	["g@ @auctionUIContext@auctioningTabGroup"] = {
+		["pathIndex"] = 1,
+	},
+	["g@ @userData@destroyingIgnore"] = {
+	},
+	["f@Horde - Noggenfogger@internalData@craftingQueue"] = {
+	},
+	["g@ @mainUIContext@groupsDividedContainer"] = {
+		["leftWidth"] = 300,
+	},
+	["g@ @userData@customPriceSources"] = {
+	},
+	["g@ @appearanceOptions@showTotalMoney"] = false,
+	["c@Hordescums - Noggenfogger@mailingUIContext@groupTree"] = {
+		["collapsed"] = {
+		},
+		["unselected"] = {
+		},
+	},
+	["c@Hordescums - Noggenfogger@craftingUIContext@groupTree"] = {
+		["collapsed"] = {
+		},
+		["unselected"] = {
+		},
+	},
+	["f@Horde - Noggenfogger@auctioningOptions@whitelist"] = {
+	},
+	["g@ @accountingOptions@trackTrades"] = true,
+	["g@ @craftingOptions@defaultCraftPriceMethod"] = "first(dbminbuyout, dbmarket)*0.95",
+	["g@ @auctionUIContext@auctioningLogScrollingTable"] = {
+		["colWidth"] = {
+			["index"] = 14,
+			["item"] = 190,
+			["operation"] = 108,
+			["buyout"] = 110,
+			["seller"] = 90,
+			["info"] = 234,
+		},
+		["colHidden"] = {
+		},
+	},
+	["g@ @mainUIContext@ledgerInventoryScrollingTable"] = {
+		["colWidth"] = {
+			["auctionHouse"] = 50,
+			["totalValue"] = 120,
+			["bags"] = 50,
+			["banks"] = 50,
+			["item"] = 160,
+			["totalItems"] = 50,
+			["mail"] = 50,
+			["alts"] = 50,
+			["guildVault"] = 50,
+		},
+		["colHidden"] = {
+		},
+	},
+	["g@ @tooltipOptions@detailedDestroyTooltip"] = false,
+	["g@ @mailingOptions@inboxMessages"] = true,
+	["g@ @bankingUIContext@isOpen"] = true,
+	["g@ @shoppingOptions@searchAutoFocus"] = true,
+	["f@Horde - Noggenfogger@internalData@isCraftFavorite"] = {
+	},
+	["g@ @vendoringOptions@displayMoneyCollected"] = false,
+	["g@ @vendoringUIContext@sellScrollingTable"] = {
+		["colWidth"] = {
+			["vendorSell"] = 100,
+			["item"] = 300,
+			["potential"] = 100,
+		},
+		["colHidden"] = {
+		},
+	},
+	["g@ @mailingUIContext@mailsScrollingTable"] = {
+		["colWidth"] = {
+			["items"] = 380,
+			["sender"] = 100,
+			["expires"] = 65,
+			["money"] = 115,
+		},
+		["colHidden"] = {
+			["sender"] = true,
+		},
+	},
+	["g@ @mailingOptions@recentlyMailedList"] = {
+	},
+	["r@Noggenfogger@internalData@csvBuys"] = "itemString,stackSize,quantity,price,otherPlayer,player,time,source",
+	["f@Horde - Noggenfogger@coreOptions@ignoreGuilds"] = {
+	},
+	["g@ @vendoringUIContext@frame"] = {
+		["width"] = 560,
+		["height"] = 500,
+		["scale"] = 1,
+		["centerY"] = 0,
+		["page"] = 1,
+		["centerX"] = -200,
+	},
+	["g@ @auctionUIContext@auctioningBagScrollingTable"] = {
+		["colWidth"] = {
+			["operation"] = 206,
+			["selected"] = 16,
+			["item"] = 246,
+		},
+		["colHidden"] = {
+		},
+	},
+	["g@ @craftingOptions@ignoreCharacters"] = {
+	},
+	["g@ @mainUIContext@ledgerAuctionsScrollingTable"] = {
+		["colWidth"] = {
+			["stackSize"] = 55,
+			["quantity"] = 72,
+			["time"] = 120,
+			["player"] = 110,
+			["item"] = 305,
+		},
+		["colHidden"] = {
+		},
+	},
+	["g@ @coreOptions@globalOperations"] = false,
+	["g@ @shoppingOptions@minDeSearchLvl"] = 1,
+	["g@ @internalData@appMessageId"] = 0,
+	["g@ @coreOptions@protectAuctionHouse"] = false,
+	["g@ @internalData@vendorItems"] = {
+		["i:3372"] = 200,
+		["i:17194"] = 10,
+		["i:17034"] = 200,
+		["i:2320"] = 10,
+		["i:159"] = 25,
+		["i:2321"] = 100,
+		["i:2692"] = 40,
+		["i:4400"] = 2000,
+		["i:1179"] = 125,
+		["i:4470"] = 38,
+		["i:17038"] = 2000,
+		["i:2596"] = 120,
+		["i:18256"] = 30000,
+		["i:17031"] = 1000,
+		["i:4291"] = 500,
+		["i:4340"] = 350,
+		["i:21177"] = 3000,
+		["i:2324"] = 25,
+		["i:17028"] = 700,
+		["i:6217"] = 124,
+		["i:2678"] = 10,
+		["i:3371"] = 20,
+		["i:17037"] = 1400,
+		["i:4289"] = 50,
+		["i:6530"] = 100,
+		["i:4341"] = 500,
+		["i:17036"] = 800,
+		["i:8925"] = 2500,
+		["i:4399"] = 200,
+		["i:3857"] = 500,
+		["i:3713"] = 160,
+		["i:2665"] = 20,
+		["i:16583"] = 10000,
+		["i:17202"] = 10,
+		["i:17021"] = 700,
+		["i:17196"] = 50,
+		["i:4536"] = 25,
+		["i:10648"] = 500,
+		["i:11291"] = 4500,
+		["i:4342"] = 2500,
+		["i:6261"] = 1000,
+		["i:17029"] = 1000,
+		["i:2894"] = 50,
+		["i:14341"] = 5000,
+		["i:18567"] = 150000,
+		["i:17030"] = 2000,
+		["i:2325"] = 1000,
+		["i:10647"] = 2000,
+		["i:2604"] = 50,
+		["i:10290"] = 2500,
+		["i:3466"] = 2000,
+		["i:2605"] = 100,
+		["i:17032"] = 2000,
+		["i:17026"] = 1000,
+		["i:6260"] = 50,
+		["i:17035"] = 400,
+		["i:2880"] = 100,
+		["i:5140"] = 25,
+		["i:17020"] = 1000,
+		["i:17033"] = 2000,
+		["i:8343"] = 2000,
+	},
+	["g@ @coreOptions@groupPriceSource"] = "dbmarket",
+	["f@Horde - Noggenfogger@internalData@mailExcessGoldChar"] = "",
+	["s@Hordescums - Horde - Noggenfogger@internalData@money"] = 0,
+	["f@Horde - Noggenfogger@internalData@guildGoldLogLastUpdate"] = {
+	},
+	["g@ @internalData@whatsNewVersion"] = 2,
+	["g@ @mainUIContext@ledgerDetailScrollingTable"] = {
+		["colWidth"] = {
+			["activityType"] = 91,
+			["source"] = 60,
+			["time"] = 110,
+			["qty"] = 45,
+			["perItem"] = 120,
+			["totalPrice"] = 120,
+			["buyerSeller"] = 100,
+		},
+		["colHidden"] = {
+		},
+	},
+	["s@Hordescums - Horde - Noggenfogger@internalData@auctionQuantity"] = {
+	},
+	["g@ @craftingUIContext@matsScrollingTable"] = {
+		["colWidth"] = {
+			["price"] = 100,
+			["num"] = 100,
+			["name"] = 242,
+			["professions"] = 310,
+		},
+		["colHidden"] = {
+		},
+	},
+	["g@ @tooltipOptions@inventoryTooltipFormat"] = "full",
+	["g@ @tooltipOptions@operationTooltips"] = {
+		["Mailing"] = false,
+		["Auctioning"] = false,
+		["Crafting"] = false,
+		["Sniper"] = false,
+		["Vendoring"] = false,
+		["Shopping"] = false,
+		["Warehousing"] = false,
+	},
+	["g@ @auctioningOptions@cancelWithBid"] = false,
+	["g@ @coreOptions@auctionSaleSound"] = "TSM_NO_SOUND",
+	["g@ @mailingOptions@keepMailSpace"] = 0,
+	["p@Default@userData@items"] = {
+	},
+	["g@ @coreOptions@chatFrame"] = "",
+	["g@ @mailingOptions@sendMessages"] = true,
+	["g@ @destroyingOptions@autoStack"] = true,
+	["g@ @destroyingOptions@autoShow"] = true,
+	["_syncAccountKey"] = {
+		["Horde - Noggenfogger"] = "Horde - Noggenfogger - 1237437112",
+	},
+	["g@ @mailingUIContext@frame"] = {
+		["width"] = 620,
+		["height"] = 516,
+		["scale"] = 1,
+		["centerY"] = 0,
+		["page"] = 1,
+		["centerX"] = -200,
+	},
+	["g@ @auctionUIContext@shoppingSelectionDividedContainer"] = {
+		["leftWidth"] = 272,
+	},
+	["g@ @auctionUIContext@shoppingSearchesTabGroup"] = {
+		["pathIndex"] = 1,
+	},
+	["g@ @userData@savedAuctioningSearches"] = {
+		["searchTypes"] = {
+		},
+		["name"] = {
+		},
+		["isFavorite"] = {
+		},
+		["filters"] = {
+		},
+	},
+	["g@ @craftingUIContext@showDefault"] = false,
+	["g@ @destroyingUIContext@itemsScrollingTable"] = {
+		["colWidth"] = {
+			["item"] = 214,
+			["num"] = 30,
+		},
+		["colHidden"] = {
+		},
+	},
+	["f@Horde - Noggenfogger@internalData@pendingMail"] = {
+		["Hordescums"] = {
+		},
+	},
+	["g@ @bankingUIContext@frame"] = {
+		["width"] = 325,
+		["height"] = 600,
+		["centerY"] = 0,
+		["scale"] = 1,
+		["centerX"] = 500,
+	},
+	["g@ @craftingUIContext@professionScrollingTable"] = {
+		["colWidth"] = {
+			["saleRate"] = 30,
+			["name"] = 288,
+			["itemValue"] = 100,
+			["profitPct"] = 50,
+			["qty"] = 54,
+			["profit"] = 100,
+			["craftingCost"] = 100,
+		},
+		["colHidden"] = {
+			["itemValue"] = true,
+			["profitPct"] = true,
+			["craftingCost"] = true,
+		},
+		["collapsed"] = {
+		},
+	},
+	["p@Default@gatheringOptions@sources"] = {
+		"vendor", -- [1]
+		"alt", -- [2]
+		"craftProfit", -- [3]
+		"auction", -- [4]
+		"craftNoProfit", -- [5]
+	},
+	["g@ @mailingOptions@resendDelay"] = 1,
+	["g@ @appearanceOptions@customColorSet"] = {
+		["ACTIVE_BG_ALT"] = "#a0a0a0",
+		["PRIMARY_BG"] = "#000000",
+		["FRAME_BG"] = "#232323",
+		["PRIMARY_BG_ALT"] = "#121212",
+		["ACTIVE_BG"] = "#404046",
+	},
+	["g@ @auctionUIContext@frame"] = {
+		["width"] = 830,
+		["height"] = 587,
+		["scale"] = 1,
+		["centerY"] = 99.44999635219574,
+		["page"] = 1,
+		["centerX"] = -300.2999889850617,
+	},
+	["g@ @bankingUIContext@tab"] = "Warehousing",
+	["c@Hordescums - Noggenfogger@internalData@auctionSaleHints"] = {
+	},
+	["f@Horde - Noggenfogger@internalData@mats"] = {
+	},
+	["g@ @craftingUIContext@frame"] = {
+		["width"] = 820,
+		["height"] = 587,
+		["scale"] = 1,
+		["centerY"] = 0,
+		["page"] = 1,
+		["centerX"] = -200,
+	},
+	["g@ @mainUIContext@ledgerResaleScrollingTable"] = {
+		["colWidth"] = {
+			["bought"] = 50,
+			["totalProfit"] = 120,
+			["item"] = 194,
+			["avgBuyPrice"] = 120,
+			["avgProfit"] = 120,
+			["avgSellPrice"] = 120,
+			["profitPct"] = 80,
+			["sold"] = 50,
+		},
+		["colHidden"] = {
+			["profitPct"] = true,
+			["totalProfit"] = true,
+		},
+	},
+	["g@ @tooltipOptions@moduleTooltips"] = {
+		["AuctionDB"] = {
+			["regionMinBuyout"] = false,
+			["regionHistorical"] = false,
+			["historical"] = false,
+			["regionSalePercent"] = true,
+			["minBuyout"] = true,
+			["regionMarketValue"] = true,
+			["regionSale"] = true,
+			["marketValue"] = true,
+			["regionSoldPerDay"] = true,
+		},
+		["Auctioning"] = {
+			["postQuantity"] = false,
+			["operationPrices"] = false,
+		},
+		["Crafting"] = {
+			["matPrice"] = false,
+			["craftingCost"] = true,
+			["detailedMats"] = false,
+		},
+		["Accounting"] = {
+			["sale"] = true,
+			["expiredAuctions"] = false,
+			["purchase"] = true,
+			["saleRate"] = false,
+			["cancelledAuctions"] = false,
+		},
+		["Shopping"] = {
+			["maxPrice"] = false,
+		},
+		["Sniper"] = {
+			["belowPrice"] = false,
+		},
+	},
+	["f@Horde - Noggenfogger@gatheringContext@professions"] = {
+	},
+	["g@ @craftingUIContext@gatheringScrollingTable"] = {
+		["colWidth"] = {
+			["name"] = 206,
+			["sources"] = 160,
+			["have"] = 50,
+			["need"] = 50,
+		},
+		["colHidden"] = {
+		},
+	},
+	["f@Horde - Noggenfogger@internalData@mailExcessGoldLimit"] = 10000000000,
+	["f@Horde - Noggenfogger@internalData@csvAuctionDBScan"] = "",
+	["g@ @tooltipOptions@prospectTooltip"] = true,
+	["g@ @tooltipOptions@transformTooltip"] = true,
+	["g@ @appearanceOptions@taskListBackgroundLock"] = false,
+	["_version"] = 103,
+	["g@ @mailingOptions@openMailSound"] = "TSM_NO_SOUND",
+	["g@ @auctioningOptions@matchWhitelist"] = true,
+	["g@ @appearanceOptions@colorSet"] = "midnight",
+	["r@Noggenfogger@internalData@saveTimeBuys"] = "",
+	["g@ @tooltipOptions@vendorSellTooltip"] = true,
+	["g@ @coreOptions@minimapIcon"] = {
+		["minimapPos"] = 220,
+		["radius"] = 80,
+		["hide"] = false,
+	},
+	["c@Hordescums - Noggenfogger@vendoringUIContext@groupTree"] = {
+		["collapsed"] = {
+		},
+		["unselected"] = {
+		},
+	},
+	["g@ @auctionUIContext@showDefault"] = false,
+	["f@Horde - Noggenfogger@internalData@guildGoldLog"] = {
+	},
+	["c@Hordescums - Noggenfogger@internalData@auctionPrices"] = {
+	},
+	["g@ @auctionUIContext@auctioningSelectionDividedContainer"] = {
+		["leftWidth"] = 272,
+	},
+	["c@Hordescums - Noggenfogger@auctionUIContext@shoppingGroupTree"] = {
+		["collapsed"] = {
+		},
+		["unselected"] = {
+		},
+	},
+	["g@ @userData@vendoringIgnore"] = {
+	},
+	["g@ @taskListUIContext@frame"] = {
+		["topRightY"] = -10,
+		["isOpen"] = true,
+		["topRightX"] = -220,
+		["minimized"] = false,
+	},
+	["g@ @destroyingUIContext@frame"] = {
+		["width"] = 296,
+		["height"] = 442,
+		["centerY"] = 0,
+		["scale"] = 1,
+		["centerX"] = 0,
+	},
+	["g@ @vendoringUIContext@buybackScrollingTable"] = {
+		["colWidth"] = {
+			["qty"] = 40,
+			["item"] = 360,
+			["cost"] = 100,
+		},
+		["colHidden"] = {
+		},
+	},
+	["_currentProfile"] = {
+		["Hordescums - Noggenfogger"] = "Default",
+	},
+	["g@ @tooltipOptions@vendorBuyTooltip"] = true,
+	["_syncOwner"] = {
+		["Hordescums - Horde - Noggenfogger"] = "Horde - Noggenfogger - 1237437112",
+	},
+	["g@ @internalData@lastCharacter"] = "Hordescums - Noggenfogger",
+	["g@ @shoppingOptions@buyoutConfirm"] = false,
+	["g@ @auctioningOptions@confirmCompleteSound"] = "TSM_NO_SOUND",
+	["g@ @mainUIContext@operationsSummaryScrollingTable"] = {
+		["colWidth"] = {
+			["items"] = 130,
+			["selected"] = 16,
+			["name"] = 248,
+			["groups"] = 130,
+		},
+		["colHidden"] = {
+		},
+	},
+	["g@ @craftingOptions@ignoreGuilds"] = {
+	},
+	["g@ @coreOptions@destroyValueSource"] = "dbmarket",
+	["g@ @mainUIContext@dashboardUnselectedCharacters"] = {
+	},
+	["g@ @internalData@optionalMatTextLookup"] = {
+	},
+	["f@Horde - Noggenfogger@internalData@guildVaults"] = {
+	},
+	["r@Noggenfogger@internalData@csvExpired"] = "itemString,stackSize,quantity,player,time",
+	["g@ @tooltipOptions@embeddedTooltip"] = true,
+	["g@ @vendoringOptions@qsMarketValue"] = "dbmarket",
+	["g@ @tooltipOptions@enabled"] = true,
+	["g@ @tooltipOptions@millTooltip"] = true,
+}
+TSMItemInfoDB = {
+	["locale"] = "enUS",
+	["revision"] = "39170",
+	["version"] = 7,
+	["names"] = {
+		"", -- [1]
+		"", -- [2]
+		"", -- [3]
+		"Aboriginal GlovesAboriginal Gloves of the WhaleAboriginal VestAdamantite OreAmethyst Beholder EyeAngo'rosh GauntletsAquamarineArcane DustAttuned Crystal CoresAzerothian DiamondAzure MoonstoneBig Voodoo MaskBladespire BagelBlindweedBlood GarnetBlood Knight BreastplateBlue SapphireBold Blood GarnetBold Living RubyBold TourmalineBracers of HavokBracing Earthstorm DiamondBright Blood GarnetBruiseweedChaotic Skyfire DiamondChief Brigadier CloakCitrineConjurer's ShoesConjurer's VestCopper OreCured Heavy HideDawnstoneDazzling TalasiteDecoded Twilight TextDeep PeridotDelicate Living RubyDelicate TourmalineDesign: Opal Necklace of ImpactDestructive Skyfire DiamondDream DustEarthrootEmber Skyfire DiamondEmbersilk TunicEncrypted Twilight TextEnduring Deep PeridotEternal Earthstorm DiamondEternium OreExpert Goldminer's HelmetFel Iron OreFel WeightstoneFlame SpessariteFlashing Living RubyFormula: Enchant Bracer - Greater SpiritFormula: Enchant Bracer - Superior StaminaGleaming Golden DraeniteGlinting Flame SpessariteGlinting Noble TopazGlowing NightseyeGlowing Shadow DraeniteGnomish Death RayGoblin Rocket LauncherGold OreGolden DraeniteGooey Spider LegGreater Astral EssenceGreater Eternal EssenceGreater Magic EssenceGreater Mystic EssenceGreater Nether EssenceGreater Planar EssenceGreen Hakkari BijouGreen Hills of Stranglethorn - Page 4Handful of SnowflakesHealing Potion InjectorHeavy Blasting PowderHeavy Linen BandageHeavy Mageweave BandageHeavy Netherweave BandageHeavy Netherweave NetHeavy Runecloth BandageHeavy Silk BandageHeavy Wool BandageHigh Bergg HelmHuge EmeraldHuge Venom SacIllusion DustImbued Netherweave TunicInfiltrator CapInscribed Flame SpessariteInscribed Noble TopazInsightful Earthstorm DiamondIron OreJadeJagged Deep PeridotJagged TalasiteKhadgar's WhiskerKhorium OreLarge Brilliant ShardLarge Glimmering ShardLarge Glowing ShardLarge OpalLarge Prismatic ShardLarge Radiant ShardLarge Rope NetLesser Astral EssenceLesser Eternal EssenceLesser Magic EssenceLesser MoonstoneLesser Mystic EssenceLesser Nether EssenceLesser Planar EssenceLiferootLinen BandageLiving RubyLynx MeatMageweave BandageMalachiteMistletoeMistyreed BootMithril OreMoss AgateMote of AirMote of EarthMote of FireMote of LifeMote of ManaMote of ShadowMote of WaterMystic DawnstoneNetherweave BandageNetherweave NetNexus CrystalNexus-Strider BeltNightmare VineNightseyeNoble TopazOgre Splitting AxeParrot Cage (Green Wing Macaw)Pattern: Big Voodoo CloakPattern: Bracers of HavokPattern: Green Silk ArmorPattern: Primal MoonclothPattern: ShadowclothPattern: Truefaith VestmentsPattern: Unyielding BracersPattern: Unyielding GirdlePlans: Adamantite BreastplatePlans: Thorium ArmorPotent Flame SpessaritePotent Noble TopazPowerful Earthstorm DiamondPrimal AirPrimal EarthPrimal FirePrimal LifePrimal ManaPrimal MoonclothPrimal Mooncloth BagPrimal ShadowPrimal WaterPrimitive KiltRadiant Deep PeridotRadiant TalasiteRecipe: Destruction PotionRecipe: Elixir of the MongooseRecipe: Mithril Head TroutRecipe: Spotted YellowtailRed Leather BagRefreshing Spring WaterRegal NightseyeRelentless Earthstorm DiamondRigid AmberRigid DawnstoneRigid Golden DraeniteRoyal Shadow DraeniteRunecloth BandageRuned Living RubySanguine HibiscusSchematic: Ornate Khorium RifleScroll of AgilityScroll of Intellect IIScroll of Protection IIScroll of Spirit IIScroll of StaminaScroll of Stamina IIShadow DraeniteShadowclothShadowgemShifting NightseyeShifting Shadow DraeniteShining Silver BreastplateShredder Operating Manual - Page 3Shroud of FrenzySilk BandageSilksand CapeSilver OreSix Demon BagSix of BeastsSkettis GauntletsSmall Brilliant ShardSmall Glimmering ShardSmall Glowing ShardSmall Prismatic ShardSmall Radiant ShardSmooth AmberSmooth DawnstoneSolid Azure MoonstoneSolid Star of EluneSolid ZirconSoul CannonSoul DustSovereign NightseyeSovereign Shadow DraeniteSparkling Azure MoonstoneSparkling Star of EluneSparkling ZirconSparrowhawk NetSpider's SilkStar of EluneStar RubyStarfire WristwrapsSteady TalasiteStormy Azure MoonstoneStormy Star of EluneStrange DustSturdy RopeSubtle Living RubySwift Skyfire DiamondTalasiteTanzanite PendantTeardrop Blood GarnetTeardrop TourmalineTenacious Earthstorm DiamondThe DecapitatorThick AmberThick Golden DraeniteThorium OreTigerseyeTin OreTome of Conjure Food VIIITough JerkyTruesilver OreUnidentified Plant PartsUnyielding BindingsUnyielding Bindings of the InvokerUnyielding BracersUnyielding Chain VestUnyielding Chain Vest of the BanditUnyielding FistsUnyielding Fists of the FalconUnyielding FootwrapsUnyielding Footwraps of HealingUnyielding Footwraps of the ElderUnyielding Footwraps of the FalconUnyielding GirdleUnyielding HelmUnyielding Helm of the BanditVeiled Flame SpessariteVeiled Noble TopazVial of the SunwellVision DustVoid CrystalVoodoo CharmWarmaul BreastplateWatcher's CapeWatcher's Cape of the WhaleWicked Chain BracersWicked Flame SpessariteWicked Noble TopazWintersbiteWool BandageWorn MaceWrangling RopeYew WandZezzak's ShardZorbin's Ultra-Shrinker", -- [4]
+	},
+	["itemStrings"] = {
+		"i:9844:864i:24929:-11i:31220:-15i:14117:842i:14117:844i:24992:-6i:7413:178i:14179:759i:14179:758i:25071:-14i:25071:-41i:25071:-28i:25071:-20i:25071:-35i:24830:-10i:24830:-31i:24830:-26i:24889:-43i:25216:-10i:25216:-43i:24864:-11i:24864:-5i:14230:-9i:9845:1808i:9845:181i:15535:931i:25286:-36i:25286:-16i:25286:-38i:25286:-39i:25286:-9i:14121:1018i:24604:-38i:24638:-23i:24638:-16i:24638:-39i:3806i:20828i:24858i:20863i:9773i:3075i:5575i:6600i:21025i:4249i:20862i:11184i:28102i:8169i:2742i:21877i:19707i:24607i:10063i:17056i:10216i:25188i:11152i:7092i:24955i:24885i:15574i:7071i:14163i:6889i:22616i:24792i:6219i:21762i:4713i:2564i:16253i:4577i:9297i:24403i:12691i:9938i:19235i:7450i:22861i:30155i:15266i:23522i:7078i:7728i:24815i:2080i:3818i:22897i:24683i:21755i:27857i:25181i:20854i:10646i:5075i:22829i:6712i:22795i:15564i:27858i:19278i:12803i:21898i:21943i:9820i:11224i:27696i:19683i:8278i:24963i:2672i:32423i:4552i:12984i:13011i:8365i:19283i:25024i:3388i:20008i:23595i:20827i:4369i:24845i:13497i:7458i:23868i:6358i:24909i:14109i:7438i:1484i:4371i:23386i:34622i:12208i:2965i:4836i:20514i:14046i:13520i:27499i:24449i:6532i:25037i:24971i:14273i:17194i:10716i:18332i:25098i:10593i:8343i:31875i:789i:15250i:32067i:24630i:19701i:10404i:13461i:15532i:31298i:4788i:16717i:19710i:13518i:10316i:8165i:24796i:24964i:29539i:24913i:23489i:7414i:9863i:7786i:18224i:15236i:17720i:20407i:4304i:24936i:24973i:18948i:13051i:14767i:24218i:24672i:24652i:17781i:23787i:13106i:2955i:11039i:24762i:21843i:1522i:28291i:9817i:25887i:7050i:22902i:2911i:15309i:8281i:19703i:19715i:2862i:25077i:31320i:29453i:4087i:6309i:31200i:24658i:25213i:5342i:24622i:34827i:24877i:29731i:2744i:5470i:24758i:25335i:31322i:4363i:22824i:6057i:10605i:31283i:4398i:20424i:765i:23524i:24757i:24769i:18358i:24643i:27502i:22532i:1205i:28539i:15308i:16224i:13033i:15992i:20542i:24746i:14090i:19726i:5213i:16006i:14256i:24718i:6601i:7489i:28280i:4568i:12010i:24932i:8154i:24741i:21217i:9305i:1707i:19284i:24739i:31175i:31148i:2073i:16047i:22833i:13114i:8146i:15757i:12006i:24600i:18340i:8193i:6047i:24879i:9426i:11202i:10237i:4305i:19814i:12217i:13478i:9841i:25123i:24686i:19816i:20753i:24633i:2838i:16254i:2734i:15423i:25199i:3310i:11186i:5423i:24690i:2677i:2740i:13948i:9206i:13446i:16767i:2407i:10726i:14398i:24209i:11737i:25138i:7005i:4461i:2915i:19820i:3928i:2319i:8746i:2291i:27438i:25650i:14124i:27501i:24222i:22308i:24171i:1973i:24050i:8244i:25019i:3197i:18641i:29536i:12206i:4784i:4415i:25907i:34861i:18258i:6418i:6617i:15509i:11291i:1081i:22787i:14724i:7370i:21881i:14634i:7356i:29571i:20856i:7406i:24671i:12203i:19277i:24660i:7076i:1121i:6425i:21288i:12202i:13057i:7060i:14365i:3036i:24737i:13943i:24650i:20746i:15260i:8766i:9179i:25076i:4051i:4499i:31134i:13084i:23487i:24673i:20868i:3828i:31238i:21153i:18665i:12977i:3771i:9187i:22789i:10560i:12229i:785i:24745i:15779i:22542i:24338i:12808i:12987i:3685i:2299i:9262i:10320i:23055i:32411i:11163i:24202i:25676i:3869i:24744i:15225i:27669i:16651i:25043i:814i:14123i:25171i:31303i:3037i:7560i:27659i:25452i:7960i:31139i:3042i:23591i:16048i:31328i:25215i:6338i:14549i:833i:25249i:24740i:9891i:33872i:29727i:9771i:12359i:24799i:7048i:5576i:24723i:3821i:15147i:2799i:14817i:20975i:3868i:18294i:24997i:10056i:21548i:3871i:4339i:6476i:31249i:24839i:33825i:5565i:25089i:9451i:13466i:24871i:25289i:14402i:23782i:1639i:31126i:31153i:23093i:23631i:15503i:25204i:25106i:24939i:4496i:6795i:24856i:23594i:20955i:27439i:6662i:22785i:22839i:3184i:18359i:33867i:22522i:7961i:13444i:3355i:24062i:24199i:3315i:19943i:15419i:28290i:29292i:25011i:24687i:11287i:24666i:31837i:1263i:22854i:15610i:24611i:2841i:17202i:11732i:4605i:17200i:25065i:15416i:8302i:29500i:20520i:11081i:27700i:22837i:14924i:6578i:21992i:25438i:9818i:2567i:20826i:7288i:15541i:12998i:15231i:13459i:4623i:9509i:25013i:24878i:19258i:27677i:6609i:2931i:2450i:2459i:9918i:22153i:1645i:4597i:4233i:9264i:1710i:24759i:25708i:31863i:15417i:7477i:19259i:21872i:23494i:10306i:27498i:2289i:7488i:31276i:32836i:16000i:5466i:9405i:24950i:3576i:8218i:25064i:15215i:24898i:25849i:3824i:15156i:20864i:20816i:25005i:5634i:13036i:24681i:4732i:24052i:28461i:17057i:7082i:25649i:23786i:35564i:25110i:2842i:9424i:15975i:15984i:27688i:24197i:11998i:29724i:24300i:24706i:9434i:21775i:29532i:22832i:15214i:19767i:5530i:8153i:4352i:10326i:24692i:4358i:8948i:29957i:8140i:23627i:19261i:4090i:23884i:2735i:17413i:27425i:31142i:4353i:15743i:25331i:1177i:25303i:14467i:6540i:10561i:10075i:15420i:13040i:1318i:6657i:3857i:11976i:10245i:7330i:8345i:4364i:2575i:25008i:15725i:4366i:1203i:23762i:21752i:5772i:25207i:5540i:2680i:19183i:15614i:5770i:24703i:25415i:7080i:33173i:27437i:33874i:31332i:15945i:8196i:20408i:17020i:31940i:24707i:6422i:21340i:8932i:24857i:24615i:25117i:25212i:24075i:21934i:24783i:24942i:25843i:23799i:7554i:5631i:22539i:13893i:25322i:4298i:9785i:25067i:6417i:5503i:29460i:5140i:24675i:25041i:5756i:15649i:24305i:11981i:4583i:647i:35581i:23628i:11303i:20528i:27690i:3173i:24784i:23538i:9252i:11165i:24907i:25006i:6044i:10036i:4425i:4680i:3196i:14174i:25451i:13038i:12239i:34859i:17725i:2982i:24194i:19975i:7490i:20871i:24814i:7446i:19273i:24682i:3486i:7967i:866i:13949i:23510i:184937i:25195i:24956i:28279i:13760i:24728i:25001i:17010i:4335i:6370i:7392i:19483i:6672i:25868i:4375i:31196i:6587i:2738i:29203i:25463i:12422i:20869i:24990i:9786i:21850i:5786i:29579i:22831i:9819i:30746i:15223i:19933i:5500i:10206i:12811i:31343i:24785i:15243i:12432i:13009i:11101i:20755i:6552i:24859i:1717i:29733i:15359i:22840i:24276i:24729i:24609i:13146i:16084i:11630i:31137i:31232i:11078i:14198i:24200i:14589i:6661i:24994i:4738i:15137i:19260i:3013i:7088i:25153i:25107i:9406i:24832i:24645i:14474i:2598i:3041i:25182i:31193i:10072i:29956i:24511i:24647i:4998i:12023i:1482i:15912i:1992i:6308i:24722i:804i:33924i:24612i:1486i:4361i:34832i:24795i:9030i:8152i:12684i:31297i:10368i:24193i:20513i:24938i:31679i:7352i:27689i:8386i:24211i:30809i:13122i:3682i:10050i:30436i:25102i:15232i:3391i:865i:18256i:19232i:14481i:6256i:20858i:25906i:6359i:15291i:5972i:24735i:11290i:28596i:3993i:2824i:25725i:24213i:16838i:19708i:22830i:8170i:790i:25038i:21790i:11305i:11302i:2075i:15286i:18300i:24585i:13942i:31235i:21830i:18506i:24996i:7353i:12284i:19274i:2924i:15237i:18744i:24628i:4041i:18651i:23816i:7475i:10256i:2553i:13452i:20007i:25321i:9850i:24617i:5111i:23573i:5107i:24216i:13888i:29732i:24705i:24754i:16583i:24882i:25229i:8924i:5773i:32902i:2389i:31673i:12210i:12628i:20882i:13462i:27693i:14262i:29451i:6598i:9749i:118i:13071i:3831i:25847i:24844i:25009i:3478i:23593i:8364i:23491i:18356i:2325i:25016i:20745i:23632i:14588i:14444i:38277i:24899i:19706i:11108i:20873i:25169i:16671i:24998i:11203i:21854i:18168i:2314i:28469i:12219i:35563i:7752i:24949i:25010i:4481i:25305i:3187i:15114i:10392i:2278i:12839i:14227i:23571i:25697i:9769i:31331i:28466i:15139i:22525i:9810i:7081i:7086i:10321i:12228i:4042i:30437i:24642i:25184", -- [1]
+		"i:12828i:4576i:7453i:24163i:25306i:3172i:25651i:21842i:27698i:25320i:32062i:6342i:3867i:19165i:6888i:25436i:16206i:11185i:11023i:4603i:11206i:18700i:6269i:32833i:25300i:24270i:8200i:24941i:27697i:31180i:29550i:29425i:10024i:5642i:6045i:24684i:1483i:12425i:25126i:7543i:24802i:7368i:21949i:23620i:22682i:11733i:24767i:4470i:27657i:13926i:23096i:25048i:13453i:25020i:8226i:13012i:8483i:24616i:1169i:21300i:20830i:18656i:11018i:13018i:34440i:13028i:25246i:12043i:13759i:10254i:25328i:13131i:31211i:3577i:15224i:34829i:35566i:16110i:30458i:13065i:22710i:10858i:23525i:24790i:7517i:28491i:19279i:27681i:2679i:24627i:8836i:25017i:9856i:863i:9971i:14567i:11207i:7971i:24984i:30610i:18781i:13108i:23633i:10285i:25046i:15646i:25309i:27674i:5752i:24595i:6416i:5976i:31136i:4553i:10092i:12031i:24753i:6291i:6419i:12988i:15169i:10504i:14630i:25023i:24508i:9826i:20518i:24979i:1718i:18711i:18712i:2987i:3210i:15608i:6362i:3309i:24060i:15269i:15752i:25189i:24648i:9814i:9144i:19440i:7354i:3369i:5788i:3185i:935i:22871i:20498i:31272i:24203i:24631i:22553i:34826i:17028i:34831i:2072i:1523i:15242i:12205i:13049i:21072i:7068i:15268i:25034i:210i:17032i:22797i:31330i:24875i:13494i:7966i:19713i:5478i:24679i:6615i:4399i:24831i:3371i:5467i:10317i:24861i:24661i:25109i:11999i:20876i:25108i:28493i:25319i:10104i:22307i:14341i:24306i:20815i:24057i:22904i:5267i:31281i:13489i:25210i:25051i:10720i:9890i:17033i:19700i:24750i:15926i:4404i:24943i:24606i:20750i:25082i:4265i:2059i:24768i:24659i:3873i:27660i:24827i:25236i:4782i:18334i:18254i:2881i:15500i:15230i:24168i:20964i:4278i:24169i:20769i:25899i:3770i:24608i:1727i:14406i:9428i:24623i:4575i:20878i:7432i:22374i:12695i:20855i:17201i:6892i:14158i:22309i:13130i:9848i:4360i:9718i:15125i:23737i:3174i:8348i:9382i:14494i:28494i:3021i:20909i:2246i:5471i:23446i:25091i:11288i:11590i:7079i:727i:21764i:10302i:24787i:31299i:4384i:29371i:16817i:21931i:5469i:4541i:2245i:2386i:2825i:3356i:25434i:25068i:17012i:20535i:24944i:24694i:31202i:10309i:32774i:24732i:6565i:31080i:23866i:2868i:10112i:20406i:33954i:11382i:10379i:9296i:25191i:1990i:8275i:8307i:13133i:25133i:13037i:5215i:19714i:6796i:19813i:4245i:25209i:9879i:20543i:28540i:24646i:4074i:24114i:3195i:9154i:4409i:27500i:24738i:23528i:15944i:25039i:13116i:16655i:25696i:4329i:2555i:15222i:21546i:25120i:22529i:10548i:23151i:23113i:17031i:7362i:7433i:10329i:23785i:6454i:7561i:13135i:28101i:18631i:22912i:24770i:1179i:14247i:24670i:8172i:24771i:3609i:31154i:20907i:9937i:31865i:8204i:3735i:6614i:23638i:31334i:10608i:11611i:21723i:12052i:3667i:9857i:13876i:5257i:25230i:19931i:5214i:31230i:17029i:5504i:23444i:13089i:4699i:3596i:31140i:5740i:4037i:24852i:15251i:25671i:15732i:6404i:27516i:27854i:18783i:19236i:2318i:25021i:15144i:14919i:21942i:25186i:27662i:12002i:25687i:19263i:10728i:18222i:18223i:27699i:24479i:25299i:12232i:2587i:7528i:14900i:4424i:24594i:20860i:25187i:13137i:15408i:25318i:9294i:23092i:13758i:24975i:6471i:31304i:5128i:17055i:24254i:5543i:23625i:24626i:7969i:12693i:24680i:23766i:7364i:24301i:18600i:25802i:14255i:11225i:15303i:9934i:12820i:8384i:20817i:2447i:8399i:4096i:16245i:14122i:7191i:24778i:13126i:25225i:4585i:25122i:17414i:2324i:8368i:25312i:195i:15287i:5216i:25234i:23827i:23746i:14483i:31150i:14047i:5637i:25164i:12645i:10181i:944i:19698i:31306i:34535i:2840i:9865i:25018i:15544i:25163i:17058i:31204i:2390i:24905i:10008i:25066i:5833i:24656i:25175i:2100i:25909i:31277i:24765i:27429i:21151i:6331i:25177i:11968i:8494i:13934i:25205i:16113i:25272i:7995i:3874i:22845i:25323i:25416i:22849i:14498i:3465i:8949i:31677i:24727i:2748i:15407i:13021i:11188i:7481i:9801i:4320i:20950i:2997i:24866i:6348i:24644i:24986i:16246i:24037i:9378i:7552i:2452i:14285i:21767i:3464i:20500i:21897i:711i:10389i:24712i:29204i:23803i:24291i:18652i:24734i:20872i:23334i:22246i:13754i:4714i:24823i:15997i:25682i:24834i:4594i:3872i:4314i:2164i:24854i:18780i:24748i:27695i:23575i:22793i:13015i:7148i:24772i:34060i:10044i:24794i:34330i:20961i:4727i:14526i:24881i:22791i:18784i:16215i:24210i:7941i:24697i:8392i:5117i:3430i:15364i:2304i:13928i:29157i:9913i:2681i:23764i:22388i:6096i:23518i:33823i:24743i:24934i:18588i:7443i:19268i:16248i:10724i:25160i:3827i:24252i:2880i:22848i:25045i:754i:18731i:15274i:22557i:3192i:20752i:868i:9253i:21547i:18232i:15164i:8391i:6040i:20748i:9779i:31286i:4324i:25223i:1468i:19705i:29158i:3853i:24843i:31877i:2271i:7931i:25125i:6530i:21177i:24164i:28465i:23763i:20075i:15553i:24605i:19276i:14723i:5183i:12655i:10559i:15244i:10034i:943i:27435i:22794i:16649i:27665i:8959i:24599i:7375i:24781i:12032i:11993i:13144i:23447i:25844i:7456i:9422i:12982i:9920i:10055i:2749i:11285i:18660i:31326i:24117i:25282i:9889i:17706i:24893i:12434i:9922i:6347i:7440i:9917i:22790i:7468i:24923i:5042i:4251i:6344i:4500i:24811i:15597i:24960i:8490i:24629i:15329i:12694i:22836i:31319i:25707i:24596i:24601i:9224i:13510i:6217i:12689i:24774i:22012i:869i:24930i:24593i:24747i:24902i:34113i:14161i:19280i:10592i:33186i:24588i:25147i:414i:10644i:9386i:24837i:13486i:24047i:6527i:31562i:31336i:2408i:7072i:1181i:24764i:23484i:24590i:8952i:4395i:25196i:13442i:30747i:18335i:6557i:25668i:6369i:18045i:14168i:23781i:21840i:25670i:25061i:14451i:5973i:24822i:2236i:30745i:13490i:4599i:27422i:13935i:12809i:24927i:6569i:24912i:31237i:25058i:16702i:24777i:15088i:18944i:16055i:13511i:2455i:18364i:10041i:5182i:16716i:11612i:25094i:25435i:23490i:7527i:10019i:21358i:24649i:24883i:11040i:20824i:4582i:5974i:15168i:24711i:13042i:13030i:18782i:12833i:25456i:24303i:24689i:7062i:16046i:30156i:2276i:31138i:13014i:25202i:21863i:21305i:16041i:32068i:11026i:29507i:4724i:13931i:24214i:20679i:11128i:10219i:7759i:31284i:13499i:31323i:1752i:28100i:4322i:10080i:2819i:14568i:6211i:8175i:25146i:25081i:8188i:21902i:9851i:14252i:7919i:23629i:27515i:7522i:10301i:15220i:5578i:21841i:22526i:7058i:23623i:2565i:31554i:23635i:14802i:19272i:9847i:27667i:22901i:13755i:15493i:18654i:21882i:3826i:13139i:2078i:21901i:24207i:15499i:20744i:24976i:24959i:2406i:6406i:8161i:10023i:31234i:15607i:2928i:4624i:27694i:932i:13929i:4655i:29547i:3914i:21893i:1640i:4479i:16112i:25700i:4050i:7993i:21858i:23520i:22604i:864i:18255i:6421i:9842i:4608i:13871i:3390i:10424i:5480i:27663i:812i:25227i:31292i:25237i:5633i:24701i:16072i:14470i:23530i:15216i:24205i:13422i:25867i:8028i:31255i:9799i:24928i:18042i:7479i:16243i:7755i:24625i:24870i:856i:8395i:24478i:21308i:18587i:14468i:7114i:3382i:8401i:10300i:23537i:28399i:20960i:4538i:24602i:22376i:17011i:7046i:25298i:24869i:9927i:13107i:7478i:4293i:6289i:4625i:24657i:2986i:5134i:6272i:1491i:25846i:24669i:27860i:1725i:4731i:4544i:4457i:32249i:18594i:4067i:4350i:6039i:13101i:730i:24678i:6400i:7369i:6529i:10167i:25297i:12433i:15641i:20875i:5962i:20422i:4426i:24846i:15372i:7091i:8498i:6475i:10200i:12363", -- [2]
+		"i:15228i:6468i:10602i:3387i:18262i:9894i:14427i:24953i:25220i:20877i:25327i:37915i:25101i:2577i:25028i:24841i:21860i:13068i:21779i:12717i:29535i:21896i:11407i:10606i:23883i:1015i:15412i:7753i:24725i:6041i:15422i:13443i:16676i:13941i:4564i:3575i:24940i:13932i:4721i:11972i:19265i:20002i:24714i:7451i:9360i:24855i:25314i:18675i:783i:13946i:22838i:8173i:15086i:29540i:14825i:13029i:15526i:31147i:4039i:34828i:24825i:2879i:17708i:25845i:23152i:18945i:14342i:23144i:23559i:23140i:24736i:12989i:22375i:15573i:24847i:15132i:9806i:6590i:15354i:3730i:4232i:6568i:15971i:15213i:24655i:10201i:13119i:21023i:23527i:28058i:13112i:27503i:15947i:10199i:5527i:5785i:4257i:25132i:9233i:1315i:7975i:25042i:10182i:4407i:24619i:12212i:21867i:7461i:18363i:20384i:2836i:25000i:17038i:24613i:14969i:14508i:24901i:6579i:13545i:12698i:14566i:9088i:31226i:31338i:1475i:7444i:19270i:16696i:25337i:3470i:25287i:4478i:10222i:14213i:23097i:12979i:14116i:16060i:14603i:17222i:7730i:16059i:22913i:3829i:7430i:13467i:10562i:19267i:15746i:6149i:19282i:13134i:9849i:23137i:4695i:4234i:25136i:29160i:12040i:1721i:7111i:6415i:24636i:24637i:20661i:4323i:22850i:25426i:6474i:25004i:24192i:31291i:15331i:31149i:9298i:7423i:8495i:15414i:24890i:6049i:12404i:24903i:24719i:22645i:3711i:21299i:8397i:30748i:3719i:5787i:32470i:3466i:4405i:24031i:22891i:12435i:13468i:3393i:3404i:13454i:9060i:25137i:1204i:16723i:16221i:22827i:7974i:4346i:25291i:25104i:17709i:12983i:13890i:7408i:21071i:10312i:24634i:24662i:9824i:8167i:2996i:23909i:7448i:29730i:25014i:24886i:2877i:19264i:6714i:9435i:6043i:24867i:18046i:24663i:7754i:24801i:21953i:2605i:6372i:3194i:16685i:19233i:21342i:23090i:7285i:23091i:9872i:3202i:1974i:31339i:29426i:23445i:24876i:10288i:14164i:15409i:25895i:13512i:25131i:4419i:25127i:25085i:4422i:6607i:14253i:24507i:9956i:5956i:24766i:24965i:24087i:4337i:18745i:10165i:9862i:7487i:23135i:18360i:7912i:2079i:2730i:6377i:720i:1978i:23346i:31194i:31223i:10371i:9719i:21213i:1935i:3308i:30419i:24304i:13756i:24290i:4584i:14408i:2277i:10398i:33093i:24587i:7523i:31178i:2725i:9772i:24677i:890i:28103i:12360i:14944i:20692i:29576i:21855i:5465i:8385i:23784i:4310i:25178i:23141i:24873i:12013i:25172i:15993i:8257i:22460i:5964i:25334i:22558i:15270i:8130i:4306i:33866i:4088i:7676i:8199i:24243i:3860i:24271i:25103i:6386i:4059i:24848i:13022i:15934i:15753i:9293i:24967i:25151i:6663i:29506i:13477i:11404i:7434i:25689i:24614i:8409i:23131i:16050i:15084i:4386i:13120i:13132i:8491i:13034i:13495i:2163i:31321i:14578i:25292i:20749i:24756i:24918i:2011i:27651i:14635i:10054i:24618i:14787i:31217i:15217i:9840i:22641i:9301i:21861i:22788i:35562i:24874i:21864i:7957i:12184i:22279i:13067i:13423i:31275i:25083i:15120i:6052i:8203i:24702i:13287i:5763i:6378i:2951i:1685i:15773i:20673i:19821i:24078i:4596i:24974i:9837i:3396i:24952i:10328i:23504i:7435i:13455i:13027i:5571i:31254i:10409i:30810i:5574i:25288i:24088i:9881i:10202i:31125i:32413i:21853i:14301i:17021i:15122i:15138i:10822i:24654i:4417i:13309i:3859i:8294i:2934i:12990i:29726i:29728i:25060i:12029i:25027i:1168i:6053i:24116i:13145i:24985i:25170i:15312i:4387i:31186i:7485i:19768i:4248i:12426i:22148i:13456i:2732i:1604i:22828i:29725i:10002i:29548i:10031i:3823i:28421i:12607i:20747i:9797i:24982i:4389i:10384i:21341i:25015i:11736i:13464i:14469i:1447i:13445i:21768i:31280i:13026i:13031i:32948i:14243i:25893i:21099i:13457i:15083i:13117i:27532i:31212i:21957i:10323i:24892i:13945i:7409i:24215i:21900i:15758i:9488i:29553i:23765i:10025i:31290i:16044i:12804i:27684i:5173i:20709i:16736i:23624i:16648i:15350i:4540i:15963i:8190i:15938i:10004i:14401i:7436i:14906i:29559i:20865i:14107i:14111i:8151i:2099i:25302i:10018i:13863i:24951i:1625i:24368i:25304i:25283i:24894i:13066i:1607i:33824i:28059i:14185i:12713i:3164i:24589i:28492i:31151i:7455i:942i:24298i:31289i:10558i:4729i:9831i:31340i:25088i:24931i:12436i:4052i:10190i:15501i:15210i:4562i:23821i:22203i:24911i:6294i:19684i:14412i:27666i:23824i:7945i:16646i:25053i:6373i:24993i:24862i:15925i:7729i:30420i:5069i:955i:24198i:13003i:13864i:5269i:15972i:9794i:7761i:24819i:24674i:12531i:10028i:14048i:21851i:13073i:24797i:24212i:8396i:13055i:13059i:8311i:1265i:31294i:15846i:4354i:16042i:23154i:13091i:13118i:22565i:31192i:24220i:12996i:10648i:3395i:4040i:24651i:7471i:1998i:12231i:31127i:20974i:29734i:25128i:4235i:10713i:13110i:24763i:25848i:25290i:12430i:24621i:15234i:23736i:24977i:805i:24724i:23826i:12683i:4373i:31177i:4256i:7112i:24709i:25233i:6429i:24720i:10234i:31189i:9172i:23203i:14664i:25248i:1988i:23153i:2604i:27678i:29534i:25226i:24170i:21721i:12697i:24850i:25052i:15148i:10601i:18333i:12163i:24167i:24957i:15481i:4238i:25035i:24836i:6591i:24166i:9877i:7387i:729i:6522i:24733i:24888i:8176i:18779i:22563i:24849i:13476i:23517i:20676i:15529i:8925i:4832i:6240i:21899i:24264i:29372i:19228i:25002i:29739i:32063i:6716i:5624i:13002i:14751i:7992i:24760i:19275i:15581i:4075i:6349i:11370i:23634i:28501i:25417i:20553i:25691i:25203i:20541i:10583i:20555i:20678i:24813:-40i:31282i:11988i:14580i:7077i:18512i:16650i:24920i:2592i:23148i:4416i:25165i:4480i:22846i:24838i:2632i:12978i:4359i:15374i:3473i:11754i:22841i:4091i:8262i:24206i:24275i:24266i:25720i:9866i:7462i:1703i:15347i:24591i:5498i:25690i:3482i:12728i:24833i:23626i:27661i:25317i:9838i:20526i:16218i:25012i:18640i:9210i:25284i:7357i:8387i:10505i:4733i:24076i:15696i:2765i:25047i:9915i:14583i:29530i:16220i:24966i:7069i:13310i:9871i:12644i:31288i:14478i:4410i:23121i:25244i:4593i:12020i:20452i:8117i:2589i:4561i:23807i:29729i:15550i:8171i:13757i:14417i:24969i:8224i:15131i:14657i:7476i:6403i:13879i:17682i:25326i:22903i:11971i:19699i:15994i:12019i:23449i:7758i:28462i:16043i:31308i:2244i:4382i:20554i:25185i:25080i:23099i:7411i:13072i:12047i:31157i:3745i:22562i:14379i:25301i:16864i:25157i:24710i:24775i:2745i:22373i:23768i:3610i:14514i:14821i:16249i:13870i:31305i:22851i:9931i:1986i:16652i:31318i:6420i:21947i:24933i:20447i:7492i:811i:4289i:2865i:38327i:9869i:5525i:13933i:25214i:6290i:10314i:7933i:6660i:1477i:14217i:32381i:1728i:8111i:8150i:2857i:3712i:33855i:22521i:19702i:10421i:4231i:34490i:24253i:31295i:8845i:31672i:23771i:14155i:25313i:4852i:25264i:13053i:28496i:12976i:23758i:14212i:11226i:3870i:24851i:8389i:24204i:16216i:13463i:940i:3428i:4421i:16255i:16645i:15977i:422i:10021i:1708i:8499i:22601i:25307i:4357i:21993i:22540i:4413i:24805i:14572i:10232i:24863i:31164i:24779i:24195i:9303i:25239i:27655i:24731i:20970i:24935i:25336i:7428i:22825i:15233i:8159i:4336i:6575i:13045i:2262i:7075i:7990i:28498i:27658i:25050i:2683i:8923i:20866i:24999i:31228i:1520i:3740i:1722i:25280i:10315i:14510i:8118i:8398i:25428i:6458i:22835i:22528i:9197i:31190i:7412i:31247i:10171i:25113i:31335i:1688i:15010i:20451i:929i:22739i:24983i:27856i:9393i:15929i:10079i:25653i:24809:-24i:4291i:13947i:23590i:24668i:24828i:24639i:13095i:19704", -- [3]
+		"i:25096i:769i:5116i:2409i:13006i:11996i:3186i:25190i:16710i:21849i:3208i:25049i:15115i:25332i:3385i:24896i:25167i:22527i:24273i:4536i:10603i:29533i:10290i:25105i:25402i:24245i:7349i:9839i:13039i:31879i:13060i:6470i:15415i:10394i:20859i:6299i:18653i:14652i:23747i:4569i:23819i:12810i:4362i:24653i:11022i:12431i:867i:1288i:14752i:25333i:23805i:24891i:20004i:25308i:25221i:4072i:10286i:12054i:28282i:4592i:14108i:2751i:24910i:24676i:25744i:15017i:3053i:14374i:25029i:23519i:27676i:23772i:9295i:20874i:24987i:16083i:7070i:31213i:25056i:24961i:14499i:13093i:23354i:22866i:12044i:15281i:15740i:22786i:5996i:25247i:31215i:4838i:9796i:15765i:19819i:31187i:25070i:6807i:19230i:31240i:20881i:3415i:4408i:10001i:3372i:22459i:11144i:5635i:10125i:15334i:10233i:13115i:787i:21219i:1207i:31333i:24954i:5051i:31671i:12011i:4607i:27671i:23793i:8178i:13311i:15357i:21737i:24995i:13047i:6048i:13127i:25686i:25454i:3676i:1715i:23867i:24908i:25294i:20532i:20754i:27664i:23621i:7407i:29723i:24641i:25062i:29112i:38225i:11610i:810i:19712i:30421i:25685i:10305i:25208i:21114i:5766i:22926i:25193i:7445i:31861i:9825i:25296i:25315i:31878i:25521i:31222i:2835i:25075i:20527i:23742i:24835i:19774i:29549i:7922i:24800i:11969i:9429i:9919i:15166i:19281i:12162i:6260i:34837i:30457i:14654i:25200i:4554i:15117i:23529i:24620i:24914i:7366i:24780i:25152i:7610i:29740i:11734i:2594i:13129i:27855i:18661i:7372i:24624i:21887i:14587i:7972i:31195i:4671i:4038i:15546i:4602i:7067i:28104i:3665i:10308i:8956i:2321i:24477i:31158i:29960i:15284i:24868i:25026i:32772i:25003i:6533i:17026i:23448i:9036i:31152i:27656i:32905i:18562i:16971i:25055i:16799i:22146i:14097i:8831i:20963i:23147i:25084i:12022i:3927i:23592i:24947i:13465i:8951i:25231i:15218i:9308i:27736i:19262i:25063i:24274i:21866i:2675i:24786i:14177i:15330i:23858i:3830i:25069i:25695i:7989i:24824i:21298i:25266i:6401i:22823i:4326i:25345i:10361i:8827i:15261i:21852i:5082i:10310i:12365i:28495i:4338i:24688i:13927i:20870i:24773i:24685i:6330i:12037i:22853i:28497i:768i:16656i:27692i:7482i:24667i:25675i:3820i:31173i:38328i:19817i:29529i:14261i:16252i:20867i:6037i:18510i:14264i:19269i:3842i:8225i:24165i:21940i:3199i:4791i:14376i:29207i:9792i:11973i:25719i:31670i:11371i:20653i:11608i:25057i:6367i:5009i:4390i:24029i:2320i:15531i:4300i:2750i:24665i:9304i:5002i:4402i:9359i:15748i:14113i:25194i:25699i:31293i:4611i:18647i:24884i:24958i:29528i:23783i:24635i:11325i:20832i:18648i:14219i:15394i:25295i:5784i:31079i:858i:24217i:4589i:22890i:2458i:9781i:15226i:15285i:936i:6303i:25054i:20758i:12958i:21154i:4406i:13109i:9811i:15772i:23774i:19709i:15248i:2901i:18239i:24664i:791i:21868i:18253i:24749i:8139i:24106i:4334i:7459i:13940i:871i:25007i:8838i:24887i:2633i:17037i:24691i:25310i:14552i:14160i:9420i:10183i:31285i:24262i:24840i:1613i:4718i:24698i:24915i:25293i:30815i:25119i:21301i:20533i:6275i:20820i:29378i:31176i:13121i:22248i:23106i:24610i:8168i:9893i:12213i:24972i:4328i:18650i:6310i:24201i:22834i:11027i:27682i:4778i:21844i:8846i:24751i:21536i:24721i:4327i:10307i:20861i:2489i:25099i:25040i:24880i:15305i:15278i:25111i:3341i:24872i:23810i:25329i:35624i:108325i:34055i:152549i:109140i:111671i:160711i:152545i:168646i:111676i:108305i:35623i:35622i:108296i:52988i:109124i:108319i:108308i:72235i:111667i:111245i:52720i:108329i:37702i:36860i:37700i:35627i:34053i:52985i:36909i:37705i:109137i:111601i:36903i:152544i:37703i:108353i:174327i:152546i:108350i:109143i:108304i:52185i:111595i:108301i:109142i:111672i:108322i:52183i:109141i:108309i:36910i:111662i:111663i:52719i:152547i:115502i:111670i:108295i:108365i:108297i:109624i:108299i:109125i:152543i:52718i:108302i:109139i:111651i:111675i:111652i:111674i:34052i:97621i:152548i:109144i:111658i:109138i:109625i:108307i:115504i:111650i:108294i:35625i:108336i:108300i:37704i:111665i:108391i:108303i:72092i:108362i:109119i:34056i:97512i:156930i:111668i:111656i:108298i:111659i:37701i:111669i:53038i:108326i:111673i:111589i:74252i:74247i:111666i:111664i:113588i:109991i:108306i:174328i:36912i:168302i:52721i:14117i:14117:1012i:14121i:23425i:31220i:24929i:7909i:22445i:34368i:12800i:23117i:8201i:29449i:8839i:23077i:24864i:12361i:23095i:24027i:28458i:24250i:25897i:28595i:2453i:34220i:4726i:3864i:9845i:9844i:2770i:4236i:23440i:24065i:20552i:23079i:24028i:28459i:21948i:25890i:11176i:2449i:35503i:14230i:20404i:23105i:35501i:23427i:9375i:23424i:28420i:21929i:24036i:11204i:16251i:23114i:23100i:24061i:24056i:23108i:10645i:23836i:2776i:23112i:2251i:11082i:16203i:10939i:11135i:11175i:22446i:19711i:2728i:34191i:33092i:4377i:2581i:8545i:21991i:24269i:14530i:6451i:3531i:13128i:12364i:19441i:16204i:21862i:7413i:23098i:24058i:25901i:2772i:1529i:23104i:24067i:3358i:23426i:14344i:11084i:11139i:12799i:22449i:11178i:835i:10998i:16202i:10938i:1705i:11134i:11174i:22447i:3357i:1251i:23436i:27668i:8544i:774i:21519i:24638i:3858i:1206i:22572i:22573i:22574i:22575i:22576i:22577i:22578i:24053i:21990i:24268i:20725i:24830i:22792i:23441i:23439i:25216i:8492i:8390i:24297i:7090i:21895i:30483i:14512i:24296i:24302i:23596i:12682i:23101i:24059i:25896i:22451i:22452i:21884i:21886i:22457i:21845i:21876i:22456i:21885i:153i:23103i:24066i:22914i:13491i:17062i:13939i:2657i:159i:35707i:32409i:28468i:24051i:23116i:23109i:14529i:24030i:24246i:23802i:3012i:2290i:1478i:1712i:1180i:1711i:23107i:24272i:1210i:24055i:23110i:2870i:16647i:31143i:6450i:14420i:2775i:7734i:19234i:24889i:14343i:10978i:11138i:22448i:11177i:28467i:24048i:23118i:24033i:28463i:32825i:11083i:24054i:23111i:23119i:24035i:28464i:32321i:3182i:23438i:7910i:24604i:33782i:23120i:24039i:10940i:33069i:24032i:25894i:23437i:25071i:23094i:28460i:25898i:28767i:28470i:23115i:10620i:818i:2771i:31501i:117i:7911i:24401i:24813i:24813:-39i:24249i:24808i:24808:-40i:24809i:24809:-11i:24807i:24807:-26i:24807:-44i:24807:-11i:24255i:24810i:24810:-40i:31866i:31867i:34471i:11137i:22450i:8149i:24992i:14179i:14179:1015i:15535i:31869i:31868i:3819i:3530i:36i:32698i:25286i:31463i:18904", -- [4]
+	},
+	["data"] = "mAhA_____________E_C__UB6A_____________E_C__tBEB_____________E_D__QALA_____________E_C__QALA_____________E_C__sBCB_____________E_C__hAcA_____________E_C__YATA_____________E_C__YATA_____________E_C__4BGB_____________E_C__4BGB_____________E_C__4BGB_____________E_C__4BGB_____________E_C__4BGB_____________E_C__aB8A_____________E_C__aB8A_____________E_C__aB8A_____________E_C__vBDB_____________E_C__dB9A_____________C_C__dB9A_____________C_C__mBAB_____________E_C__mBAB_____________E_C__qAlA_____________E_C__jAeA_____________E_C__jAeA_____________E_C__dAYA_____________E_C__dB9A_____________C_C__dB9A_____________C_C__dB9A_____________C_C__dB9A_____________C_C__dB9A_____________C_C__UAPA_____________E_C__XB7A_____________E_C__mBAB_____________E_C__mBAB_____________E_C__mBAB_____________E_C_____________D_9gAAEC______________LAkgAAEA______________BgagAAED______________AT8gAAMA______________UwYgAAEB______________BaggAAEB______________SKogAABA______________GiWgAAEC______________AmpgAAJF______________GMWgAAEC______________AU8gAAMA______________A1vgAAMA______________A26gAAAC______________AUzgAAHG______________A8ygAAMA______________AicgAAHF______________A0WgAAMA______________UmYgAAEB______________DJ-gAAEB______________A1cgAAPB______________GmWgAAEB______________VWygAACN______________A3ygAAJI______________Ae8gAAJC______________Ho4gAAEE______________J9XgAAED______________DS-gAAED______________AnngAAHB______________U1YgAAEB______________AgbgAAHI______________A4ygAAMA______________Ug9gAAEC______________V41gAACO______________AixgAANA______________Q6pgAAEB______________KNdgAAEC______________A3ygAAJI______________A8GhAACD______________Ae8gAAJG______________AvwgAAMA______________Ae8gAAJE______________QIqgAAEB______________AS1gAAMA______________Ab8gAAJB______________AT5gAAAD______________AftgAAAF______________R1egAACF______________UeYgAAEE______________AWKhAAHK______________U6YgAAEB______________IGXgAAED______________NyUgAACA______________AxwgAAHJ______________ArpgAAJA______________DA-gAAEB______________C3igAAEA______________AiugAAAF______________R1_gAACK______________Ab8gAAJK______________ASKhAAHC______________AwvgAAMA______________Ak5gAAAB______________AyXgAAPA______________A-wgAAAA______________AkngAAAG______________AlugAAAF______________Ac1gAAMA______________AGNhAAHK______________Ab8gAAJC______________Ab8gAAJK______________I5WgAAEB______________A3ygAAJI______________Ab8gAAJF______________HQ3gAAEB______________ItXgAAEE______________Hj4gAAEE______________AStgAAHI______________AxrgAAHB______________AEBhAAPA______________AoEhAACT______________GfWgAAEC______________AAsgAAHI______________Ac1gAAMA______________UNagAAEE______________AK7gAAAB______________A-4gAAAB______________Ab8gAAJE______________LjjgAAEA______________AAHhAACD______________J7XgAAED______________Ae8gAAJG______________I3WgAAED______________A8ygAAPA______________AeygAAHL______________JBYgAAED______________U2YgAAEB______________GTWgAAEB______________RqEhAACK______________AgegAAHB______________A1vgAAAI______________ZsHhAACQ______________AStgAAHI______________UQYgAAED______________X6kgAAEA______________ACkgAAMA______________SUogAABA______________Ae8gAAJG______________AZ8gAAAE______________AbrgAAMA______________A7vgAAAI______________QIqgAAEB______________Hi3gAAEE______________DI-gAAEB______________AMogAAPD______________MLegAAEA______________AmpgAAJA______________X9ygAAEA______________AJvgAAMA______________AqcgAAHF______________Ad8gAAJK______________V1egAACE______________RZChAACI______________A-5gAAAC______________IRXgAAEB______________AeqgAAMA______________GMWgAAEB______________AP7gAAAB______________JHYgAAED______________Hp4gAAEE______________I7WgAAEC______________KXdgAAEC______________AyWgAAMA______________Ae8gAAJG______________Ae8gAAJC______________AvygAAHG______________DA-gAAEC______________DO-gAAEE______________AwygAAHG______________KddgAAED______________UGagAAEE______________H72gAAEC______________D_9gAAEC______________N1UgAACA______________AM0gAAPA______________N3UgAACA______________Ae8gAAJD______________UyYgAAEB______________AxxgAAHG______________UbYgAAEE______________JIYgAAEE______________JGYgAAEC______________RxChAACI______________DM-gAAED______________Ad8gAAJK______________KXdgAAEB______________J-XgAAEB______________A3ygAAMA______________AUegAAHB______________JKYgAAEB______________BMggAAEB______________A3ygAAJI______________Hw3gAAEC______________SZogAABA______________RY_gAACG______________Ae8gAAJK______________D-9gAAED______________Ae8gAAJD______________B9ogAAEB______________Ab8gAAJG______________GNWgAAEB______________QKqgAAEB______________DT-gAAEE______________AlqgAAMA______________AwWgAAMA______________AQBhAAAI______________Wk8gAAEG______________UBagAAEE______________AkugAAAF______________PKFhAACC______________XcsgAAPA______________Wn8gAAEG______________HH3gAAEB______________RSVgAACB______________A3agAAAF______________I9WgAAEB______________BaggAAEA______________J5XgAAED______________Ac8gAAJB______________A8ygAAMA______________AZpgAAHI______________I9WgAAEC______________Ri_gAACK______________RJfgAACF______________AFegAAHB______________A15gAAAC______________Ab8gAAJG______________Ab8gAAJD______________GgWgAAEB______________Ay1gAAHC______________A3tgAAHI______________AuwgAAHJ______________GUWgAAEE______________GeWgAAEC______________BZggAAEC______________AlpgAAMA______________DJ-gAAEB______________Af8gAAAE______________A3ygAAJI______________A8agAAAF______________ZeHhAACQ______________GMWgAAEC______________A3ygAAJI______________NRChAACH______________ATngAAHB______________Af8gAAMA______________HA3gAAEC______________H22gAAEB______________AtwgAAHJ______________AsEhAACT______________AJegAAHB______________AYcgAAHF______________IBXgAAEC______________I5WgAAEC______________KKdgAAED______________A3ygAAJI______________NzUgAACA______________LijgAAEA______________DE-gAAEE______________AgygAAHG______________GSWgAAEC______________ATsgAAAF______________Ab8gAAJG______________AqtgAAAF______________Ac1gAAMA______________D99gAAEC______________J-XgAAEC______________D-9gAAEC______________VrUgAACA______________Ab8gAAJD______________A05gAAAC______________H62gAAEC______________AWygAAHL______________Ae8gAAJB______________LqjgAAEA______________KZdgAAEB______________CHlgAAEA______________H_2gAAEC______________Ab8gAAJE______________IKXgAAED______________PBFhAACC______________A3ygAAJI______________DO-gAAED______________ArcgAAHF______________AXxgAAMA______________AEbgAAAF______________Ab8gAAJG______________H32gAAED______________NrlgAACE______________I_WgAAEB______________AXxgAAMA______________A3ygAAJI______________BOggAAEB______________AGBhAAHH______________A3ygAAJI______________A8ygAAMA______________AqxgAAHG______________N4UgAACA______________Uj9gAAEB______________AyvgAAMA______________R4UgAACB______________H62gAAEB______________AUtgAAHI______________A8ygAAMA______________Ab8gAAJF______________A56gAAAC______________Ay6gAAAB______________Ab8gAAJF______________Ab8gAAJB______________BfggAAEB______________Ul9gAAEB______________Ad8gAAJK______________AupgAAJA______________RGmgAACF______________NVHhAACO______________AfygAAHG______________RvegAACF______________AXxgAAMA______________Ax6gAAAB______________AuxgAAHG______________BKggAAEB______________R2UgAACB______________AisgAAHI______________AyngAAAG______________KYdgAAEB______________AZ8gAAAE______________NmHhAACP______________Ab8gAAJC______________Ad8gAAJK______________M-ygAAEA______________A6hgAADC______________Ak2gAAMA______________Hj4gAAEE______________R9ChAACI______________ASpgAAHC______________AzngAAAG______________A3tgAAHI______________AEBhAAPA______________Ab8gAAJD______________Ad8gAAJK______________ASxgAAAI______________AcYgAAMA______________GPWgAAEB______________D59gAAEB______________KZdgAAED______________ANEhAAHL______________AxygAAHI______________AMxgAAHJ______________QKqgAAEB______________GYWgAAEB______________AxOhAAHF______________Ae8gAAJG______________Q6pgAAEB______________AnpgAAPA______________Ab8gAAJK______________GMWgAAEC______________UIZgAAEB______________ALugAAHI______________Ad1gAAMA______________JAYgAAEB______________AmOhAAHK______________IwXgAAEC______________GjWgAAED______________AspgAAJA______________AStgAAHI______________RV_gAACG______________DS-gAAEB______________QIqgAAEB______________PMFhAACC______________BPggAAEC______________Ab8gAAJF______________Hd4gAAEB______________AF5gAAHM______________R-egAACF______________A44gAAAF______________AB5gAAAC______________Wn8gAAEG______________I_WgAAEC______________SHogAABA______________RVDhAACI______________CiigAAEA______________IKXgAAEE______________BOggAAEB______________A17gAAMA______________A44gAAAC______________LgkgAAEA______________ATsgAAHI______________MgQhAAEA______________KhdgAAEB______________ARtgAAAF______________Aa7gAAAC______________APxgAAHJ______________AIWgAAHB______________Ab8gAAJF______________A8kgAAHJ______________BgggAAEC______________Ae8gAAJB______________A3ygAAJI______________An0gAAAF______________ADQhAAHK______________H62gAAEB______________AibgAAHI______________RpUgAACB______________A1vgAAHL______________Ae8gAAJC______________Aa8gAAHL______________Ad8gAAJK______________A3ygAAJI______________Ad8gAAJK______________UyZgAAEC______________Ae8gAAJE______________KYdgAAEC______________V1egAACE______________AKugAAHI______________A8ygAAMA______________QGqgAAEB______________A6agAAHB______________QGqgAAEB______________R1_gAACK______________PEFhAACC______________PMFhAACC______________Ab8gAAJD______________AFugAAAF______________AC2gAAPA______________RVChAACI______________NrlgAACE______________A6GhAACD______________Ab8gAAJE______________Ae8gAAJD______________HM4gAAED______________RwUgAACB______________Ai_gAAHM______________IqXgAAEE______________M02gAAEA______________PFFhAACC______________J-XgAAEC______________GaWgAAEC______________AYugAAAF______________Ac8gAAJB______________KYdgAAEB______________AlhgAAHH______________I_WgAAEC______________BLggAAEB______________SHogAABA______________D_9gAAEC______________A0wgAAHJ______________Q-pgAAEB______________AaygAAMA______________D59gAAED______________Ab8gAAJK______________Ae8gAAJE______________A84gAAAC______________JFYgAAEE______________Ez9gAAEA______________Ab8gAAJB______________Ab8gAAJE______________AecgAAHF______________Ae8gAAJB______________D89gAAEC______________IGXgAAED______________ADugAAAF______________A_AhAAPB______________XxEhAAEA______________A44gAAAF______________ALxgAAHJ______________IGXgAAED______________AuEhAACT______________J4XgAAEB______________ASegAAHB______________RrUgAACB______________KbdgAAEC______________N5UgAACA______________J_XgAAEC______________Ac8gAAJE______________H32gAAED______________NtUgAACA______________N4HhAACP______________Hp4gAAEE______________SCogAABA______________E29gAAEA______________UVYgAAED______________Ab8gAAJE______________LGkgAAEA______________AMsgAAHI______________AB5gAAAC______________AAxgAAHJ______________AJ5gAAAB______________NVHhAACP______________AvpgAAMA______________AbsgAAAF______________Av5gAAAI______________V2ChAACH______________AI7gAAAB______________AysgAAHJ______________AYigAADE______________Ad8gAAJK______________Hy4gAAEC______________AlOhAAHL______________AYzgAAHG______________AhvgAADC______________A0tgAAAF______________Hn4gAAEE______________Ug9gAAEB______________Aj_gAACT______________HG3gAAEB______________AtpgAAJA______________RcGhAACB______________AU5gAAAD______________JHYgAAED______________DA-gAAEB______________ArhgAAHH______________AjUgAAPD______________AqpgAAJA______________AE2gAAAF______________Ab8gAAJF______________CJvgAAEA______________AlygAAHG______________JIYgAAED______________GPWgAAEC______________AAQhAAHL______________A3ygAAJI______________Ab8gAAJF______________AI5gAAAB______________UYagAAEE______________H32gAAED______________AnpgAAJH______________CoigAAEA______________UQYgAAED______________NjHhAACP______________L4jgAAEA______________Ab8gAAJB______________H32gAAED______________DE-gAAEB______________N1UgAACA______________AT6gAAAB______________A_6gAAAB______________H82gAAEC______________JKYgAAEE______________GeWgAAED______________Ah1gAAMA______________AVugAAHI______________Uk9gAAEB______________AnwgAAPB______________AM0gAAHJ______________Ab7gAAAB______________Wl8gAAEG______________ArpgAAJA______________A1agAAAF______________Ae8gAAJG______________ASzgAAHG______________Aq6gAAAC______________Aw6gAAAB______________UnYgAAEC______________A3xgAAHG______________AIigAADD______________ALzgAAHG______________UzZgAAEC______________Ah1gAAMA______________SjogAABB______________JEYgAAED______________AZ8gAAAE______________Aa8gAAAE______________Aa8gAAAE______________BfagAAED______________IDXgAAEE______________AuvgAADD______________AjegAAHB______________ADOhAAHI______________GkWgAAED______________GMWgAAEE______________AjhgAAHH______________SDogAALD______________C7ugAAEA______________VSChAACH______________B3fgAAED______________A3ygAAJI______________AT6gAAAI______________B3fgAAEC______________AR8gAAMA______________A7hgAAHE______________JKYgAAEE______________A74gAAAB______________N4ChAACH______________BgagAAEB______________QvYgAAEB______________A6hgAADC______________AyvgAADA______________AmygAAPB______________AWNhAAHK______________AyxgAAHG______________AaegAAHB______________Ab8gAAJF______________NiHhAACP______________AfhgAAHH______________N4ChAACH______________XrEhAAEA______________Xo_gAAEA______________Ab8gAAJF______________Ad8gAAJK______________LfjgAAEA______________Ac8gAAJB______________Ad8gAAJC______________HI3gAAEC______________UuZgAAEB______________L5jgAAEA______________AWrgAAAI______________Aq5gAAAB______________NZChAACH______________AJzgAAHG______________AYngAAPA______________AnwgAAHJ______________Ae8gAAJC______________Ab8gAAJC______________JBYgAAEB______________ASpgAAHC______________A-1gAAAF______________AcRgAAPC______________GXWgAAEE______________Ac8gAAJE______________Ah1gAAMA______________N2agAACE______________Ad8gAAJD______________A8ygAAMA______________AtpgAAJA______________AlsgAAHI______________VaHhAACP______________Ae8gAAJC______________Ab8gAAJB______________RIAhAACK______________AX5gAAAI______________VaHhAACP______________Ae8gAAJC______________H-2gAAEB______________AdegAAHB______________DE-gAAEC______________A2cgAAHG______________AtFhAACS______________RAEhAACB______________AeygAAAF______________Az2gAAHH______________LijgAAEA______________DJ-gAAEE______________Wr8gAAEG______________BQfgAAEC______________AZrgAAHB______________E19gAAEA______________UCagAAEE______________Ab8gAAJB______________AeagAAHD______________Wo8gAAEG______________BfegAAEB______________AZigAAHE______________Ab8gAAJC______________NtUgAACA______________NZHhAACP______________AFugAAAF______________AZrgAAAI______________IuXgAAED______________U-YgAAEB______________UnYgAAEC______________AbpgAAPA______________AHNhAAHK______________DH-gAAEE______________AVsgAAHI______________A1tgAAAF______________NaDhAACH______________Xx_gAAEA______________NyChAACH______________BJggAAEB______________AYrgAAPB______________CHjgAAEA______________DJ-gAAEC______________B3fgAAEC______________SmogAABB______________AptgAAAF______________KgdgAAED______________U0YgAAEB______________NzlgAACE______________RTVgAACB______________LakgAAEA______________CpigAAEA______________ITXgAAEC______________GWWgAAEE______________AO8gAAHM______________Ab8gAAJD______________Xj_gAAEA______________AU6gAAAB______________A3ygAAJI______________AcygAAAF______________VqlgAACE______________Ab8gAAJB______________JEYgAAED______________CoigAAEA______________Q8pgAAEB______________A3tgAAHI______________Ap7gAANA______________AzzgAAPB______________DJ-gAAEB______________QJqgAAEB______________NsHhAACP______________JBYgAAED______________Ad8gAAJC______________LfjgAAEA______________ARzgAAPA______________RVChAACI______________IlegAAEB______________Ac8gAAJE______________PHFhAACC______________Aa8gAAMA______________Ab8gAAJF______________ALugAAHI______________UvZgAAEC______________J9XgAAEE______________A3ygAAMA______________A3ygAAJI______________H62gAAED______________GUWgAAEE______________Ae8gAAJE______________Uu9gAAEB______________Aa8gAAAE______________QJqgAAEB______________RcChAACI______________I7WgAAEB______________AqwgAAPA______________AtFhAACS______________Ab8gAAJF______________NiHhAACP______________A3ygAAJI______________H12gAAEB______________Ad8gAAJK______________ADsgAAMA______________IuXgAAED______________A47gAAMA______________GmWgAAED______________Q-pgAAEB______________AW1gAAMA______________H62gAAEB______________ANBhAAHH______________AdngAAAG______________Rp_gAACK______________Ab8gAAJF______________GmWgAAEE______________A3rgAAAA______________NOdgAACN______________DA-gAAEE______________A3ygAAJI______________ARsgAAHI______________KddgAAEC______________KidgAAEE______________AEKhAAHL______________Es9gAAEA______________A_agAAHL______________AhygAAHG______________ArpgAAPA______________Ae8gAAJD______________ASvgAADG______________AEegAAHB______________CKjgAAEA______________H22gAAEC______________A8ygAAMA______________ZuHhAACQ______________AZpgAAMA______________UJagAAEE______________Ax7gAAMA______________GKWgAAEE______________QKqgAAEB______________GNWgAAEB______________Ab8gAAJB______________AdvgAAPA______________Af5gAAAC______________UmYgAAEB______________SJogAABG______________V1egAACE______________AoPhAAPA______________ApvgAADH______________GPWgAAEE______________AqvgAAHL______________HW3gAAEB______________KddgAAEC______________NVHhAACP______________A7AhAAMA______________UxZgAAEC______________A3ygAAJI______________A3ygAAJI______________Un9gAAEC______________HF4gAAED______________UQYgAAED______________Ac8gAAJB______________UpYgAAEC______________A65gAAAC______________ASMhAAAG______________BPggAAEC______________BhggAAEB______________ABHhAACD______________AspgAAJH______________YgUgAAGD______________KjdgAAEE______________IrXgAAEE______________AdxgAANA______________Q6pgAAEB______________Ad8gAAJK______________I9WgAAEC______________Ab8gAAJF______________BWfgAAEE______________GVWgAAEC______________KcdgAAEC______________Ah1gAAMA______________Af8gAAAE______________Ab8gAAJC______________NzDhAACH______________NkHhAACP______________UzZgAAEC______________UaYgAAED______________GZWgAAEB______________Ae8gAAJC______________Ae8gAAJC______________A-GhAACD______________R2AhAACK______________NiHhAACP______________KSdgAAEC______________AcRgAAPC______________AtagAAPA______________UBZgAAEB______________LijgAAEA______________CqigAAEA______________NPChAACH______________XrEhAAEA______________XjpgAAEA______________AcsgAAHI______________H22gAAEC______________SJogAABA______________AXqgAAAF______________J-XgAAEB______________Ue9gAAEB______________AhegAAHB______________A2agAAAF______________H62gAAEC______________A44gAAAB______________AX5gAAHL______________Ae8gAAJE______________U6YgAAEB______________UIagAAEE______________Ad8gAAJK______________A-kgAAMA______________BOfgAAEE______________A75gAAAC______________D99gAAEC______________Ab8gAAJF______________Ae8gAAJB______________Ad8gAAJK______________AVPhAAMA______________QNqgAAEB______________Ab8gAAJF______________SIogAABA______________AAvgAAPA______________NbHhAACP______________NhHhAACA______________A16gAAAC______________NmlgAACE______________A5agAAHL______________AS1gAAMA______________Ab8gAAJC______________REdgAACU______________AY8gAAMA______________Ad8gAAJK______________AbygAAHL______________PIFhAACC______________Ae8gAAJB______________UfYgAAEC______________AtEhAACT______________Ab8gAAJK______________I3WgAAED______________PMFhAACC______________Ab8gAAJB______________Ad8gAAJK______________GXWgAAED______________AuWgAAMA______________Ao5gAAAC______________ArxgAAHG______________V1UgAACA______________QJqgAAEB______________CyigAAEA______________PHFhAACC______________M_kgAAEA______________VplgAACE______________PKFhAACC______________ABbgAAAF______________B-ogAAEB______________Ab8gAAJF______________I7WgAAEC______________ACwgAAPD______________I-WgAAEC______________DP-gAAEE______________Us9gAAEB______________AJegAAMA______________AW1gAAMA______________AStgAAHI______________N3UgAACA______________KYdgAAEC______________J-XgAAEB______________BPggAAEB______________Ab8gAAJD______________Ab8gAAJD______________JAYgAAEB______________JEYgAAEC______________Ae8gAAJG______________Ac6gAAAC______________Ap6gAAAB______________VzlgAACE______________D89gAAEB______________BrggAAEB______________QeggAAEB______________AqhgAAHH______________Eo9gAAEA______________Ad8gAAJK______________AMsgAAHI______________Ac8gAAJB______________BDggAAEC______________HG3gAAEC______________ABzgAAPB______________BgagAAED______________R6ChAACG______________ATngAAPB______________Ae8gAAJC______________A_5gAAAB______________I3WgAAED______________AcugAAAF______________A2tgAAAF______________UFagAAEE______________A_7gAAMA______________Ab6gAAAB______________Ab8gAAJF______________KZdgAAEB______________A0tgAAAF______________Ws8gAAEG______________Uh9gAAEB______________At6gAAAB______________KQdgAAEE______________Ab8gAAJG______________Ab8gAAJE______________DO-gAAED______________KgdgAAEE______________AMBhAAHH______________Ab8gAAJE______________AAsgAAAF______________KRdgAAED______________AqpgAAMA______________A76gAAHL______________UEagAAEE______________Ae7gAAAI______________Ac8gAAJE______________GSWgAAEC______________HC3gAAEB______________Uu9gAAEB______________HL4gAAED______________AiqgAAMA______________Ag8gAAMA______________Aw7gAAMA______________RmChAACI______________J5XgAAED______________GRWgAAEE______________A3ygAAJI______________U-YgAAEB______________W9IhAAEG______________U1ZgAAEC______________A5vgAADC______________AtIhAAMA______________AIugAAAF______________N-egAACE______________JBYgAAEE______________BUfgAAEE______________A-kgAAAI______________VbHhAACP______________NXHhAACP______________QCqgAAEB______________AoNhAAPC______________DJ-gAAEC______________Ab8gAAJE______________AxOhAAHF______________AyNhAAHK______________JFYgAAED______________Xx_gAAEA______________NuHhAACP______________A5vgAADC______________H72gAAEC______________ADngAAMA______________I3WgAAED______________ASNhAAHK______________Ae8gAAJC______________Ab8gAAJC______________Ab8gAAJF______________KhdgAAEB______________ADvgAAPA______________HI3gAAEB______________VhOhAACN______________Ae8gAAJE______________PHFhAACC______________Ab8gAAJB______________Ad8gAAJK______________VrBhAACP______________AGzgAAHI______________A0ngAAAG______________AkcgAAHF______________Ab8gAAJF______________VqlgAACE______________AB6gAAAC______________A3ygAAJI______________Ae8gAAJE______________H62gAAEB______________AibgAAAF______________ADngAAPA______________A0_gAAHM______________AZvgAAMA______________AaagAAPC______________A_rgAAHI______________A3ygAAJI______________J-XgAAEC______________H52gAAEC______________AvvgAADD______________VzHhAACP______________SQogAABF______________U6YgAAEC______________JAYgAAEE______________Ab8gAAJF______________KjdgAAEE______________ArpgAAJA______________AVPhAAMA______________B9ogAAEB______________Ab8gAAJG______________Ae8gAAJE______________JBYgAAEB______________N1egAACE______________JKYgAAEE______________NtlgAACE______________DN-gAAED______________BGggAAEC______________H82gAAEB______________Ae8gAAJK______________Ac8gAAJE______________AW0gAAHL______________AlpgAAJA______________Um9gAAEC______________ALEhAAHL______________AaugAAAF______________ArvgAADH______________ACvgAADA______________LvjgAAEA______________A36gAAAC______________DB-gAAEE______________NUChAACH______________J5XgAAED______________AQbgAAMA______________KMdgAAEB______________WiPhAAEG______________AupgAAJA______________CyigAAEA______________Ab8gAAJD______________AZrgAAMA______________RCVgAACB______________AY6gAAAB______________NAfgAACE______________PQFhAACC______________CvigAAEA______________AVsgAAHI______________U-YgAAEB______________Rp_gAACK______________DJ-gAAED______________Hi3gAAEC______________AhhgAAHH______________N1egAACE______________X2agAAEA______________Ab8gAAJF______________Ab8gAAJF______________A7sgAAAF______________AvEhAACT______________AvwgAAHJ______________Ab8gAAJE______________IAXgAAEE______________GLWgAAEC______________Uf9gAAEB______________IFXgAAEB______________Ac1gAAMA______________AXugAAHI______________AWtgAAAF______________DJ-gAAEB______________AywgAAHJ______________KjdgAAEE______________I-WgAAEC______________NvUgAACA______________DO-gAAEE______________GMWgAAEC______________A3ygAAJI______________AovgAADH______________UHagAAEE______________A2tgAAAF______________A5ygAAMA______________QMzgAAEB______________Ac8gAAJE______________AxOhAAHF______________LBkgAAEA______________H32gAAED______________VsHhAACP______________AMugAAHI______________NkHhAACP______________DA-gAAEB______________I7WgAAEB______________Ty9gAAEA______________UMagAAEE______________AHBhAAPA______________D_9gAAEE______________CuigAAEA______________BXggAAEC______________AGsgAAHI______________KUdgAAEC______________U1ZgAAEC______________DO-gAAEC______________BaggAAEB______________Ab8gAAJC______________IDXgAAEE______________ApagAAPA______________U1YgAAEB______________Aa8gAAMA______________Hk4gAAEE______________H62gAAEC______________J6XgAAED______________JKYgAAEE______________I7WgAAEC______________R4UgAACB______________DA-gAAED______________ACsgAAHI______________Hy4gAAEB______________ALigAADF______________R_UgAACB______________Ad8gAAJB______________WOdgAACN______________KadgAAEB______________GNWgAAED______________Ae6gAAAB______________ABbgAAAI______________I7WgAAEB______________AZrgAAHJ______________Ab8gAAJB______________Rr_gAACK______________NfChAACH______________Ay5gAAAB______________ArygAAHG______________BFvgAAEB______________Ad8gAAJK______________Ui9gAAEB______________A3ygAAJI______________LhjgAAEA______________A4pgAAPB______________ATigAADB______________Rl_gAACK______________RxlgAACF______________NVHhAACP______________A3tgAAHI______________R8ChAACI______________ASsgAAAF______________A9JhAAHK______________RwUgAACB______________Q-pgAAEB______________I8WgAAEC______________AV0gAAPB______________AJxgAAHJ______________BSfgAAED______________HJ4gAAED______________Ae8gAAJG______________AOBhAAHH______________AvWgAAMA______________A0pgAAAF______________Ug9gAAEB______________KWdgAAEB______________AulgAAHB______________IFXgAAED______________A5agAAHL______________AStgAAHI______________Ab8gAAJC______________J7XgAAED______________GeWgAAEB______________NRChAACP______________LgjgAAEA______________Az7gAAMA______________NRChAACP______________IAXgAAED______________VulgAACE______________UrYgAAEB______________Ab8gAAJC______________A4OhAAHF______________Ad8gAAJC______________AzXgAAHL______________AIigAADD______________Ae8gAAJG______________NXHhAACP______________BYggAAEC______________Ae8gAAJG______________N_UgAACA______________L7jgAAEA______________M1ygAAEA______________QBqgAAEB______________AbBhAAPB______________AgqgAAMA______________I7WgAAEC______________X9ygAAEA______________AihgAAHB______________IDXgAAEE______________I7WgAAEB______________AG5gAAAI______________Wz8gAAEG______________AqngAAAG______________Q8pgAAEB______________KXdgAAEC______________D49gAAEB______________Ae8gAAJE______________AYugAAAF______________HI4gAAED______________RJDhAACG______________UyYgAAEB______________AvpgAAJA______________ADugAAAF______________Ae8gAAJE______________USYgAAED______________V_UgAACA______________Ad8gAAJK______________LjjgAAEA______________Ax2gAAMA______________Ad8gAAJK______________ALQgAAPC______________ATvgAADG______________AStgAAAF______________KedgAAEB______________NfChAACH______________GMWgAAEB______________J9XgAAEC______________UzZgAAEB______________RAAhAACK______________A67gAAMA______________BLggAAEB______________Az1gAAMA______________Ae8gAAJE______________Ab8gAAJK______________Ab8gAAJF______________Ab8gAAJF______________Uj9gAAEB______________Ae8gAAJC______________H32gAAED______________KcdgAAEB______________AVpgAAHC______________NwBhAACH______________KedgAAEC______________AUpgAAHC______________Al0gAAHI______________BUfgAAEC______________I-WgAAEC______________Ae8gAAJC______________InXgAAEE______________PLFhAACC______________C9igAAEA______________LjjgAAEA______________AizgAAHI______________AohgAAHH______________XUpgAAEA______________Ao_gAACT______________AFegAAHD______________A9ygAAHK______________NqBhAACH______________C2igAAEA______________Ae8gAAJC______________Hu3gAAEC______________RXmgAACF______________AHOhAAHC______________VoGhAACN______________GfWgAAEB______________LqjgAAEA______________AUtgAAHI______________AQtgAAAF______________BRfgAAED______________UQYgAAED______________PJFhAACC______________AnwgAAHJ______________A38gAAPA______________CvigAAEA______________AiUgAAHG______________AZ8gAAMA______________UVYgAAEE______________I8WgAAEC______________GRWgAAEE______________Aa8gAAAE______________LujgAAEA______________JBYgAAEC______________KWdgAAEB______________AjvgAAHL______________A8ygAAPA______________J-XgAAED______________H62gAAEC______________D89gAAEB______________Ac8gAAJE______________AGvgAADH______________BNfgAAEE______________Ad8gAAJG______________WWygAACN______________RplgAACF______________Wm8gAAEG______________ItXgAAED______________DO-gAAED______________RwlgAACF______________AtFhAACS______________AxEhAACT______________A1WgAAMA______________E19gAAEA______________AXxgAAMA______________S8ngAABA______________NtlgAACA______________JAYgAAEB______________Af8gAAMA______________ZwUgAACQ______________IQXgAAEB______________UbYgAAED______________CuigAAEA______________RxUgAACB______________Ax6gAAAC______________Ae8gAAJD______________Af8gAAAE______________H13gAAEC______________AVBhAAAI______________X_ygAAEA______________QKqgAAEB______________DJ-gAAEC______________A8ygAAMA______________UbYgAAED______________GPWgAAEB______________Ae8gAAJG______________V1egAACE______________A46gAAAC______________NBBhAACE______________AKOhAAMA______________Ap0gAAHD______________Ae8gAAJK______________AhvgAADC______________AT0gAAPB______________Ab8gAAJB______________KbdgAAEB______________GPWgAAED______________AYegAAHB______________AnpgAAJH______________Ab8gAAJD______________JIYgAAED______________AH7gAAAB______________Az_gAAHB______________Ae8gAAJG______________HN3gAAEC______________APbgAAAF______________DD-gAAEB______________IKXgAAEB______________ARzgAAHG______________DJ-gAAEC______________Ae8gAAJE______________CHjgAAEA______________LsjgAAEA______________JCYgAAEB______________AIigAADD______________KedgAAED______________Ab8gAAJF______________QIqgAAEB______________Ab8gAAJE______________RSAhAACK______________Ab8gAAJD______________Ab8gAAJE______________Ae8gAAJC______________LjjgAAEA______________AStgAAHI______________JDYgAAEC______________AEsgAAPA______________Q8pgAAEB______________RSChAACG______________A34gAAMA______________AnEhAACT______________ISXgAAEB______________A3pgAAPB______________A3tgAAHI______________AB5gAAAC______________CiigAAEA______________GfWgAAEB______________J-XgAAEB______________QIqgAAEB______________AAKhAAAI______________H82gAAEB______________DJ-gAAED______________R4ChAACI______________UyZgAAEC______________Ae8gAAJB______________D-9gAAED______________XjsgAAPA______________A2tgAAAF______________A6ygAAMA______________AS1gAAMA______________AsxgAAHG______________JBYgAAEE______________UAagAAEC______________BiWgAAEE______________Ab8gAAJK______________VYygAACN______________AOugAAAF______________LijgAAEA______________Hk3gAAEC______________Ah1gAAMA______________Ab8gAAJC______________A0wgAAPA______________AowgAAPA______________Ab8gAAJF______________AovgAADH______________VzHhAACP______________Ab8gAAJF______________Ex9gAAEA______________Hy4gAAEC______________H72gAAEE______________AZ8gAAAE______________HE3gAAEB______________AX8gAAMA______________WYygAACN______________ABHhAACD______________AhygAAHG______________VzlgAACE______________Ae8gAAJG______________JHYgAAED______________AEsgAAHI______________I3WgAAEE______________AfygAAHG______________VKmgAACE______________AhygAAPA______________N-egAACE______________QDqgAAEB______________Ae8gAAJE______________Ac8gAAJE______________H72gAAEB______________ATTgAAAG______________Ae8gAAJE______________KddgAAEB______________Ap0gAAHD______________Ab8gAAJB______________Ad8gAAJC______________ArpgAAJA______________AFzgAAMA______________GRWgAAEB______________A3ygAAJI______________H92gAAEC______________DO-gAAED______________AY7gAAAC______________Ab8gAAJB______________A1hgAAHE______________AzsgAAHJ______________Ae8gAAJB______________A0ygAAPA______________A3ygAAJI______________JBYgAAEB______________AxugAAHB______________H12gAAEC______________KQdgAAED______________RpUgAACB______________AxygAAPA______________NLmgAACE______________AtpgAAJA______________A_agAAHL______________AKzgAAHG______________VAzgAACE______________I7WgAAEB______________PCFhAACC______________AsEhAACT______________RkHhAACG______________AregAAHC______________A9GhAACD______________Ab8gAAJC______________KMdgAAEB______________AncgAAHF______________AdpgAAHL______________R5DhAACI______________AungAAAG______________Ut9gAAEB______________Ro_gAACK______________AmngAAMA______________HV4gAAEB______________ALwgAAPC______________AghgAAHH______________J-XgAAED______________BPfgAAEE______________I7WgAAED______________RgChAACI______________A86gAAPB______________AAHhAACD______________J8XgAAED______________KddgAAED______________BDqgAAEB______________C7ugAAEA______________Av2gAAMA______________KddgAAEB______________R4AhAACK______________A_GhAACD______________Ad8gAAJK______________LvkgAAEA______________GjWgAAEC______________AgsgAAHI______________A3agAAAF______________NjHhAACP______________Ro_gAACK______________LsjgAAEA______________AkNhAAPC______________AztgAAAF______________NHVgAACA______________AnpgAAJH______________A_GhAACD______________Ab8gAAJE______________Ae8gAAJE______________Ag5gAAAB______________VXmgAACE______________AQvgAAMA______________Am5gAAAB______________Ae8gAAJC______________YgUgAAGD______________AZ7gAAAC______________Ar5gAAAB______________Ug9gAAEC______________A8ygAAMA______________ATzgAAHG______________PIFhAACC______________A4vgAAMA______________I-WgAAEC______________GLWgAAEC______________I7WgAAEB______________C38gAAEA______________AxcgAAHF______________BRfgAAED______________A3ygAAJI______________JDYgAAEB______________BUfgAAEE______________A3ygAAJI______________AVigAADB______________N04gAACA______________LojgAAEA______________AowgAAHJ______________I9WgAAEB______________LvjgAAEA______________YeUgAAGC______________AsygAAHG______________Ab8gAAJC______________KhdgAAEB______________H42gAAEE______________KUdgAAEC______________ZuHhAACQ______________Ab8gAAJD______________A0ygAAMA______________Ab8gAAJD______________ISXgAAEC______________A-7gAAMA______________APvgAAAI______________ShogAABD______________AdygAAHI______________GMWgAAEB______________IHXgAAED______________YhUgAAGD______________BgggAAEC______________BVggAAED______________ACsgAAAF______________Ae8gAAJE______________D99gAAEB______________NPChAACP______________GUWgAAED______________A8ygAAMA______________JBYgAAEC______________Ab8gAAJF______________AZ0gAAAI______________AGxgAAHJ______________NvUgAACA______________AsrgAAEA______________J-XgAAEC______________AQSgAAHD______________I7WgAAEB______________BPggAAEC______________AzngAAAG______________L7jgAAEA______________GZWgAAED______________Ab8gAAJC______________KLdgAAED______________AIxgAAHJ______________A6ygAAMA______________A3ygAAJI______________Ad8gAAJK______________V1UgAACA______________BQfgAAEC______________AHzgAAMA______________A9cgAAMA______________A-GhAACD______________QIqgAAEB______________ArngAAAG______________ALsgAAAF______________LMkgAAEA______________UkYgAAEB______________AWtgAAAF______________Ap0gAAHD______________Ad8gAAJE______________Ed9gAAEA______________Ha4gAAEE______________AbsgAAHI______________U0ZgAAEC______________GWWgAAEE______________APpgAAHC______________KLdgAAEC______________AW1gAAMA______________A3ygAAJI______________I4WgAAEB______________RODhAACI______________AE7gAAAB______________QMqgAAEB______________AUngAAHL______________Ap5gAAAC______________L_jgAAEA______________NQChAACH______________Ab8gAAJB______________R7_gAACK______________A3ygAAJI______________R2ChAACI______________A3ygAAJI______________NwlgAACE______________A5ygAAMA______________Ae8gAAJG______________AkbgAAHD______________UwZgAAEC______________AUtgAAMA______________JBYgAAED______________AC5gAAAI______________QLqgAAEB______________UJagAAED______________UGZgAAEB______________RyUgAACB______________AgygAAHI______________AjqgAAMA______________L8jgAAEA______________ReChAACI______________HF4gAAED______________Ad8gAAJK______________RAAhAACK______________BRggAAED______________NipgAACE______________A0ygAAAI______________AH1gAAPB______________Ad8gAAJK______________AJvgAADB______________BfegAAEC______________Ab8gAAJF______________DJ-gAAED______________GMWgAAEB______________Ac1gAAMA______________J9XgAAED______________XAzgAAEA______________AthgAAHH______________AH2gAAHB______________NVHhAACP______________Ek9gAAEA______________R-_gAACK______________AnsgAAHI______________A_wgAAHJ______________A8ygAAMA______________AQugAAAF______________AUsgAAHI______________UuZgAAEB______________UXYgAAEC______________GLWgAAEC______________CtigAAEA______________LsjgAAEA______________GQWgAAEB______________AphgAAHH______________AJ8gAAHM______________BfagAAED______________AI2gAACD______________I3WgAAED______________KfdgAAEC______________E19gAAEA______________A8ygAAMA______________YtHhAAGC______________AqrgAAHD______________LYkgAAEA______________CHjgAAEA______________ApEhAACT______________BiWgAAEC______________Ae8gAAJE______________JEYgAAED______________A7AhAAMA______________HC3gAAEC______________A3ygAAJI______________Hy4gAAEC______________I-WgAAEC______________A5wgAAHJ______________UFZgAAEB______________Hk4gAAEE______________ACwgAAAI______________D_9gAAEC______________A3ygAAJI______________SBogAABA______________HN3gAAED______________DM-gAAED______________UPagAAEE______________A3XgAAPC______________GiWgAAEB______________GZWgAAEC______________Ae8gAAJE______________As5gAAAB______________LvkgAAEA______________A2xgAAHG______________J5XgAAEB______________BfagAAEB______________AX6gAAAC______________A66gAAAD______________A2sgAAHM______________Ae8gAAJE______________IQXgAAEC______________AupgAAJH______________NeChAACH______________BPfgAAEE______________BhggAAEB______________D99gAAEC______________GLWgAAED______________AjrgAAHD______________QCqgAAEB______________Ac1gAAMA______________Ag6gAAAC______________Ae8gAAJE______________JDYgAAEB______________N3ChAACH______________ArtgAAAF______________Ab8gAAJG______________NIEhAACE______________J-XgAAED______________Ae8gAAJG______________A6hgAADC______________UuYgAAEB______________UyZgAAEC______________VnBhAACH______________Ae8gAAJB______________AfygAAHL______________AZ8gAAAE______________JDYgAAEC______________GeWgAAEE______________I9WgAAEB______________ATtgAAAF______________Aq8gAAHC______________VHdgAACN______________Al6gAAAB______________S7ngAABF______________A4ugAAMA______________I7WgAAEC______________IAXgAAEC______________Ab8gAAJF______________AztgAAAF______________KWdgAAEB______________AZngAAHB______________AjcgAAHF______________Ho3gAAEC______________CyigAAEA______________KXdgAAEB______________Ab8gAAJB______________GfWgAAED______________NWHhAACP______________SzXgAABE______________Ae8gAAJG______________AStgAAAF______________AjsgAAHI______________ASsgAAAF______________A8AhAAHH______________IuXgAAEE______________ULZgAAEB______________Ug9gAAED______________Hj3gAAEC______________CzigAAEA______________GVWgAAEB______________B9fgAAEC______________GMWgAAEC______________AuygAAMA______________Ae8gAAJD______________Ad7gAAAD______________AC7gAAAB______________AupgAAMA______________BfagAAEB______________RfChAACI______________GYWgAAEC______________Ab8gAAJE______________XAzgAAEA______________A38gAAPA______________UcYgAAED______________UwZgAAEC______________KYdgAAEB______________Ab8gAAJC______________BfagAAEB______________Hi3gAAED______________ApwgAAMA______________ALBhAAHE______________AzygAAMA______________Ae8gAAJB______________H62gAAEC______________UzZgAAEC______________R3ChAACI______________XfpgAAEA______________A5ygAAMA______________Ab8gAAJE______________AZPhAAPA______________Ad8gAAJC______________BpggAAEB______________H62gAAEB______________Ab8gAAJD______________Ab8gAAJF______________I_WgAAEC______________GSWgAAED______________N_UgAACA______________NRVgAACA______________KXdgAAEB______________AShgAAPD______________Ab8gAAJD______________AC6gAAAC______________AaagAAPC______________KfdgAAEC______________BCggAAEC______________AEbgAAAF______________Ad8gAAJK______________A7ygAAMA______________Ar_gAAHM______________BfagAAEB______________UZYgAAED______________JBYgAAEE______________Ae8gAAJG______________ANHhAACD______________D-9gAAED______________Ak6gAAAB______________BNggAAEB______________KjdgAAED______________NZHhAACP______________I-WgAAEC______________Ab8gAAJG______________UuZgAAEC______________N0DhAACH______________Wn8gAAEG______________ABHhAACD______________Ab8gAAJC______________H72gAAEB______________BfWgAAEB______________KhdgAAEE______________Ac8gAAJE______________XlsgAAPA______________I_WgAAEB______________Ae8gAAJC______________VyChAACH______________Ae8gAAJE______________SYogAABA______________AcpgAAMA______________Ug9gAAEB______________Ac8gAAJE______________XU_gAAEA______________UpYgAAEB______________Ac8gAAJE______________KZdgAAED______________AW1gAAMA______________QJqgAAEB______________AOsgAAAF______________Ab8gAAJG______________ALsgAAAF______________H62gAAED______________Ae8gAAJD______________AWQhAAHL______________AL7gAAAB______________ABHhAACD______________NZChAACH______________Ab8gAAJC______________Ad8gAAJK______________JEYgAAED______________A34gAAAI______________UDagAAEE______________IoXgAAEE______________Ae8gAAJB______________I7WgAAEB______________BnggAAEE______________KPdgAAEB______________NdDhAACH______________H42gAAED______________AZrgAAPB______________Ab8gAAJG______________Ab8gAAJF______________SBogAABA______________ABsgAAAF______________A3tgAAHI______________AkygAAHG______________S9ngAABA______________Ab8gAAJC______________R5UgAACB______________A6kgAAAI______________AnpgAAJH______________AiygAAHG______________H62gAAEC______________Ae8gAAJE______________SbogAABD______________KgdgAAEE______________A4ygAAMA______________NgChAACH______________A7tgAAAF______________GYWgAAEC______________DG-gAAED______________A81gAAAF______________H82gAAEB______________AY7gAAAC______________Ae8gAAJE______________AMugAAAF______________ATugAAAF______________R-_gAACK______________RnGhAACG______________WE9gAAEG______________RX_gAACG______________AR6gAAAB______________GiWgAAEC______________AspgAAJF______________Ae8gAAJC______________A1ngAAAG______________N3ChAACH______________Ad8gAAJK______________AJsgAAHL______________ARvgAADG______________Ab8gAAJE______________QMqgAAEB______________GiWgAAEB______________UzZgAAEE______________YeUgAAGC______________B3fgAAEC______________A3ygAAJI______________DE-gAAEC______________BpggAAEB______________GfWgAAED______________S6ngAABA______________Ae8gAAJB______________ApvgAADH______________AKpgAAPD______________AtrgAAHD______________Ab8gAAJC______________Ab8gAAJC______________AJ7gAAAB______________Ae8gAAJB______________Ae8gAAJC______________J-XgAAEE______________AebgAAAF______________LBkgAAEA______________AatgAAAF______________H03gAAEB______________A01gAAMA______________AZNhAAHL______________H82gAAEB______________ViHhAACP______________JBYgAAED______________JEYgAAED______________JEYgAAEB______________HC3gAAEC______________Ab8gAAJB______________AesgAAHI______________A4wgAAHJ______________BPggAAEB______________H22gAAEC______________ATRgAAMA______________Ab8gAAJC______________LsjgAAEA______________Ab8gAAJE______________GaWgAAEB______________AfbgAAAF______________SAogAABA______________DQ-gAAEC______________AMtgAAAF______________AWtgAAAF______________APigAADE______________AYPhAAHC______________Ws8gAAEG______________Ae8gAAJC______________Ab8gAAJF______________I7WgAAEB______________A8rgAAHI______________I_WgAAEB______________Wn8gAAEG______________UyYgAAEB______________A_ygAAAI______________IoXgAAEE______________VPChAACP______________A7AhAAMA______________GMWgAAED______________A37gAAMA______________H22gAAEC______________ChigAAMA______________Aa8gAAAE______________GaWgAAED______________KfdgAAEC______________Ae8gAAJC______________ANwgAAPC______________Ab8gAAJB______________DT-gAAED______________A3vgAADH______________NhpgAACE______________GSWgAAEC______________Ab8gAAJD______________A66gAAAB______________A8AhAAAI______________D_9gAAEC______________Uf9gAAEB______________KidgAAEE______________RUVgAACB______________A77gAAMA______________RHAhAACK______________Ab8gAAJC______________NRChAACP______________Ev9gAAEA______________DO-gAAEE______________KQdgAAED______________I9WgAAEB______________IuXgAAEE______________LHkgAAEA______________Ad8gAAJE______________AzngAAAG______________Ab8gAAJC______________AYzgAAMA______________Ae8gAAJD______________Ad8gAAJD______________AStgAAHI______________ApygAAHG______________RxUgAACB______________GSWgAAEC______________AaKhAAAG______________AOzgAAHG______________AG7gAAAB______________KQdgAAED______________Ab8gAAJF______________RxlgAACF______________AwhgAAHH______________DP-gAAEE______________ARsgAAAF______________D-9gAAEC______________LgjgAAEA______________Ah1gAAMA______________AP7gAAAB______________HC3gAAEC______________Ab8gAAJB______________A0agAAAF______________IDXgAAED______________VzegAACE______________AupgAAPA______________AhzgAAHG______________Ab8gAAJF______________AK5gAAAB______________AingAAAG______________BzogAAEC______________SQogAABG______________Wx8gAAEG______________XAzgAAEA______________QDqgAAEB______________CtigAAEA______________BMggAAEB______________JhkgAAEA______________KXdgAAED______________XqEhAAEA______________A64gAAAC______________AN8gAAHM______________Ab8gAAJK______________A5bgAAMA______________AfcgAAHF______________Ab8gAAJK______________AY0gAAAI______________Ab8gAAJK______________KddgAAEC______________RY_gAACG______________A21gAAMA______________H92gAAED______________IKXgAAED______________JBYgAAEC______________KLdgAAEC______________ItXgAAED______________Q7pgAAEB______________AStgAAHI______________AczgAAHG______________H12gAAEB______________X5AhAAEA______________NyChAACH______________UTZgAAEB______________I3WgAAEE______________JAYgAAEC______________AFugAAAF______________UJagAAED______________AaygAAPA______________BBggAAEC______________Aa8gAAAE______________X4_gAAEA______________H32gAAED______________Af0gAAAF______________AhygAAHG______________GaWgAAEC______________RslgAACF______________Ax6gAAAC______________CysgAAEA______________Ae8gAAJE______________QGqgAAEB______________UtZgAAEC______________Ap0gAAHD______________D49gAAEB______________AEbgAAAF______________I9WgAAEB______________J-XgAAED______________AopgAAMA______________ArygAAMA______________ADBhAAHH______________UFagAAEE______________A4sgAAPB______________GoWgAAEB______________BRfgAAEE______________Ae8gAAJC______________JJYgAAED______________DS-gAAED______________AMsgAAMA______________Ab8gAAJE______________D_9gAAEC______________AY6gAAAC______________HO3gAAEC______________CPjgAAEA______________ADzgAAHL______________IwXgAAEC______________AW1gAAMA______________GTWgAAEB______________RRAhAACK______________ALBhAAHH______________AzEhAACT______________H32gAAED______________I3WgAAEC______________UnYgAAEB______________ACvgAADA______________QAqgAAEB______________QKqgAAEB______________E29gAAEA______________DQ-gAAEC______________AGugAAAF______________RxegAACF______________Ez9gAAEA______________Ae8gAAJG______________AQ6gAAAI______________U6YgAAEB______________AExgAAHJ______________ATpgAAHC______________Ad1gAAMA______________Ae8gAAJB______________AF7gAAAB______________Ac1gAAMA______________GgWgAAED______________BOggAAEB______________Ab8gAAJK______________Q-pgAAEB______________AwxgAAHG______________R8egAACF______________LwjgAAEA______________CoigAAEA______________N2egAACE______________UmYgAAEB______________UBZgAAEB______________JDYgAAEB______________GiWgAAEB______________KLdgAAEC______________BJggAAEB______________An5gAAAB______________A1cgAAPA______________Ab8gAAJB______________DO-gAAEE______________Ad8gAAJK______________RRVgAACB______________J9XgAAEC______________KVdgAAEB______________Ae8gAAJG______________H42gAAED______________AkNhAAPC______________AtygAAHG______________BYggAAED______________AD6gAAAB______________AUBhAAAI______________I_WgAAED______________U0ZgAAEC______________AcugAAAF______________AopgAAMA______________AnpgAAJA______________Ae8gAAJB______________S-ngAABD______________Q_pgAAEB______________Ab8gAAJB______________AZ0gAAMA______________ATngAAHL______________Ap0gAAHD______________AEigAADA______________ArpgAAJA______________A7AhAAMA______________A6wgAAHJ______________Ab8gAAJG______________AgygAAHI______________AV6gAAAC______________AH2gAAHB______________RJmgAACF______________Wo8gAAEG______________GUWgAAEE______________A3ygAAJI______________A25gAAAC______________A3tgAAHI______________Ae8gAAJC______________ArvgAACT______________NXHhAACP______________Ab8gAAJG______________R2egAACF______________ACsgAAMA______________D_9gAAEC______________ASsgAAHI______________Ae8gAAJC______________H-2gAAEB______________ISXgAAEB______________D99gAAEB______________ApygAAHG______________AacgAAHF______________BNggAAEA______________GNWgAAEC______________Ac8gAAJB______________GUWgAAEE______________GhWgAAED______________RcChAACI______________Ah1gAAMA______________ASpgAAHC______________KRdgAAED______________A9ygAAAG______________HQ4gAAED______________Ab8gAAJF______________Uk9gAAEB______________I7WgAAEC______________KddgAAEC______________Ae8gAAJK______________AX5gAAHL______________Ai5gAAAB______________RklgAACF______________GRWgAAEB______________AS1gAAMA______________SgogAABB______________JFYgAAEE______________KLdgAAEC______________JDYgAAEB______________DA-gAAED______________J9XgAAEC______________J-XgAAEB______________LWkgAAEA______________A1jgAAMA______________AuhgAAHH______________DH-gAAED______________B9ogAAEB______________GhWgAAEB______________AYrgAAHG______________AUvgAADG______________Al6gAAAD______________RnlgAACF______________AZ8gAAAE______________NuegAACE______________W08gAAEG______________Af8gAAAE______________H72gAAEC______________KadgAAEB______________AoagAAPA______________J4XgAAED______________VBfgAACO______________IFXgAAEC______________JBYgAAEE______________LekgAAEA______________AxOhAAHF______________H12gAAEB______________KjdgAAEE______________H72gAAEC______________H-2gAAED______________Ab8gAAJK______________AppgAAMA______________AEBhAAHH______________N4egAACE______________A8ygAAMA______________A3ygAAJI______________KLdgAAEC______________KKdgAAEC______________RsBhAACI______________C6igAAEA______________JIYgAAED______________IqXgAAEE______________AwBhAAHL______________A1pgAAPD______________NsHhAACP______________KYdgAAEB______________CoigAAEA______________Ad8gAAJC______________ABsgAAHI______________ADzgAAMA______________AZygAAPA______________I7WgAAEB______________H12gAAEB______________A8MhAAPC______________AM6gAAAI______________D_9gAAEB______________D59gAAEB______________CCjgAAEA______________A8ygAAMA______________H-2gAAEB______________GLWgAAEB______________Rl_gAACK______________Ac7gAAAC______________A70gAAHH______________BlWgAAEE______________LhjgAAEA______________AHsgAAPA______________Ug9gAAEB______________AxygAAHI______________Ab8gAAJB______________AMegAAHB______________KLdgAAEB______________Rp_gAACK______________Ab8gAAJK______________KSdgAAED______________LsjgAAEA______________R2AhAACK______________AUpgAAHC______________J6XgAAEC______________AIcgAADI______________D_9gAAEC______________R1_gAACK______________A3ygAAJI______________R4UgAACB______________I3WgAAED______________ApcgAAHF______________AfugAAAF______________N3ChAACP______________ATbgAAAF______________RfChAACI______________ArzgAAHE______________AkhgAAHH______________AucgAAHF______________NWHhAACP______________H62gAAED______________JAYgAAEC______________UaYgAAED______________PLFhAACC______________Xy_gAAEA______________Ab8gAAJB______________Ae8gAAJG______________IEXgAAEE______________N2ChAACH______________Ae8gAAJG______________KfdgAAEC______________Ab8gAAJG______________A8rgAAMA______________I7WgAAEB______________UxZgAAEC______________IHXgAAEB______________Ab8gAAJB______________Ab8gAAJK______________Ab8gAAJD______________J-XgAAEC______________ADegAAHD______________J-XgAAEC______________DC-gAAED______________A3XgAAPC______________NsChAACH______________Ae8gAAJG______________NGChAACP______________CMjgAAEA______________GUWgAAEC______________AtEhAACT______________AH5gAAAI______________J-XgAAEC______________GfWgAAEE______________NdChAACH______________AZugAAAF______________Ab8gAAJB______________E09gAAEA______________H82gAAEB______________DO-gAAED______________B8rgAAEE______________N3ChAACH______________GPWgAAED______________ADzgAAMA______________Ae8gAAJG______________UtYgAAEB______________ABxgAAHJ______________ARtgAAHI______________BRggAAED______________D59gAAEB______________RZChAACI______________AJugAAHI______________UTZgAAEA______________UFagAAEE______________AA7gAAHL______________C6igAAEA______________Wr8gAAEG______________GPWgAAEC______________A94gAAAB______________UtZgAAED______________I7WgAAEC______________Ab8gAAJB______________SLogAABA______________Q9pgAAEB______________LqjgAAEA______________SMogAABA______________Ae8gAAJB______________GjWgAAEE______________AXxgAAMA______________LZkgAAEA______________Af6gAAAB______________GjWgAAEE______________J6XgAAED______________Ab8gAAJG______________UdYgAAEE______________UVYgAAED______________NGChAACP______________D59gAAEB______________AB7gAAAB______________NBfgAACE______________SDogAABA______________QBqgAAEB______________I3WgAAED______________ACkgAAMA______________S7ngAABA______________A0EhAACT______________LfkgAAEA______________D59gAAEB______________J6XgAAEE______________IrXgAAEE______________ArKhAAHC______________I7WgAAEB______________JIYgAAEB______________A1pgAAPB______________JDYgAAEC______________Q9pgAAEB______________AKwgAAPC______________I_WgAAEB______________Ae8gAAJD______________Ab8gAAJD______________AyhgAAHH______________I3WgAAEC______________AYzgAAHG______________NaGhAACA______________Ac8gAAJB______________Ac8gAAJB______________CrvgAAEA______________CoigAAEA______________Hp4gAAEE______________Wj8gAAEG______________Ab8gAAJG______________CEjgAAEA______________GkWgAAEE______________KcdgAAEE______________R0_gAACK______________H62gAAEC______________AY_gAAHB______________RTAhAACK______________GaWgAAEC______________AMzgAAHG______________KLdgAAEC______________ImXgAAEE______________AM0gAAPB______________AQ6gAAAB______________A8ygAAMA______________RbChAACI______________AL5gAAAB______________Ac8gAAJB______________H_2gAAEB______________AoygAAHG______________I7WgAAEB______________AO6gAAAB______________AdBhAAAI______________AvygAAMA______________Af7gAAHM______________HC3gAAEB______________GWWgAAEE______________ApzgAAHB______________UPagAAEE______________SjogAABB______________IoXgAAEE______________AppgAAJA______________ANxgAAHJ______________Ab8gAAJC______________LkWgAAEA______________A-6gAAAC______________L7jgAAEA______________KQdgAAED______________NxegAACE______________X9ygAAEA______________Aq5gAAAB______________D59gAAEB______________AUvgAADG______________Ab8gAAJF______________AU6gAAAB______________KldgAAEC______________GYWgAAEC______________AqpgAAJJ______________HI3gAAEB______________Ab8gAAJK______________Ab8gAAJC______________DF-gAAED______________Ab8gAAJF______________I7WgAAEC______________Ad8gAAJK______________Ab8gAAJC______________Ab8gAAJB______________N1egAACE______________AGzgAAPA______________Ap0gAAHD______________BJggAAEB______________L2jgAAEA______________Ae8gAAJD______________ALNhAAHL______________Ab8gAAJF______________A0sgAAPB______________A7agAAAF______________GrWgAAEE______________Ac8gAAJE______________A8ygAAMA______________I7WgAAEC______________AMtgAAAF______________X1_gAAEA______________NwBhAACH______________X-ygAAEA______________UHZgAAEB______________BQggAAEB______________QFqgAAEB______________GhWgAAEE______________A-cgAAPA______________AcTjIAMA______________H62gAAEB______________BQggAAEB______________A45gAAHL______________ACHhAACD______________VtHhAACP______________KZdgAAEB______________KfdgAAEB______________IHXgAAEE______________R8ChAACI______________AZ_gAAMA______________VYHhAACP______________AtEhAACT______________GoWgAAED______________DP-gAAEE______________RjPhAACK______________AmsgAAHI______________A8rgAAPA______________GeWgAAEB______________Ae8gAAJE______________ADzgAAHL______________GMWgAAEB______________IdXgAAEC______________GgWgAAEE______________H42gAAED______________LljgAAEA______________Ad8gAAJC______________RPAhAACK______________AJWgAAHB______________D59gAAEB______________Q_pgAAEB______________UMZgAAEB______________XhpgAAEA______________Hj4gAAEE______________A7AhAAMA______________B9fgAAEC______________GWWgAAEC______________QFqgAAEB______________NqBhAACH______________R8DhAACB______________AtegAAHD______________AJBhAAHH______________IDXgAAED______________XfsgAAPA______________IPXgAAEB______________D69gAAEB______________AQsgAAAF______________IlegAAEC______________VylgAACE______________A8ygAAMA______________L0jgAAEA______________Ad6gAAAC______________KcdgAAEE______________GKWgAAED______________X1_gAAEA______________A_GhAACD______________LpjgAAEA______________Aj_gAACT______________AZ8gAAAE______________Ad8gAAJK______________RUGhAACB______________I7WgAAEB______________Al0gAAPA______________X7agAAEA______________QHqgAAEB______________NtUgAACA______________HH4gAAED______________HM3gAAEB______________NXHhAACP______________DQ-gAAEB______________AocgAAHF______________KhdgAAEB______________BHggAAEE______________JBYgAAEC______________Ad8gAAJK______________AGzgAAMA______________RZ_gAACG______________Ra_gAACG______________JHYgAAEE______________NGChAACH______________DO-gAAED______________AkbgAAHD______________Ad8gAAJC______________Ab8gAAJD______________Ae8gAAJK______________CBlgAAEA______________GiWgAAEC______________A3ygAAJI______________JDYgAAEB______________Ad8gAAJK______________L9jgAAEA______________A4ygAAHL______________Ab8gAAJG______________KbdgAAEB______________DA-gAAEB______________KmdgAAEB______________Rz_gAACK______________Ab8gAAJF______________UVYgAAED______________Ae8gAAJK______________Ac8gAAJB______________RllgAACF______________AizgAAHG______________Ad8gAAJE______________UvZgAAEC______________D99gAAEC______________A3ygAAJI______________AtEhAACT______________A7AhAAMA______________GMWgAAEB______________VqUgAACA______________ARegAAHC______________KjdgAAEE______________SGogAABA______________JBYgAAEC______________AsegAAHC______________Ae8gAAJE______________BdggAAEB______________KRdgAAED______________UzZgAAEC______________Ud9gAAEB______________GiWgAAEC______________ReHhAACG______________BifgAAEB______________KYdgAAEC______________ItXgAAED______________JDYgAAED______________AV6gAAAB______________cF8gAAEH______________UtZgAAEC______________PQFhAACC______________KcdgAAED______________Ae8gAAJK______________AM5gAAHL______________AUugAAHI______________AxngAAAG______________RYGhAACG______________Ad8gAAJK______________AQ6gAAAF______________Ae8gAAJE______________BaWgAAED______________LBkgAAEA______________GNWgAAEC______________Ae8gAAJD______________AopgAAJA______________Ab8gAAJE______________Ad8gAAJK______________JFYgAAEE______________I4WgAAED______________S2ngAABA______________QDqgAAEB______________DA-gAAED______________JBYgAAED______________Ad8gAAJK______________QFqgAAEB______________GPWgAAEC______________AUtgAAHI______________AbygAAAF______________GZWgAAEC______________UaYgAAED______________BhWgAAEC______________A8ygAAMA______________A3ygAAJI______________KSdgAAED______________Ae8gAAJG______________KjdgAAEE______________A7ygAAMA______________Hy4gAAED______________A5agAAHL______________H72gAAEC______________UGZgAAEB______________Ab8gAAJC______________BjggAAEB______________WoGhAACN______________Ad1gAAMA______________BtfgAAEE______________ArpgAAMA______________A95gAAAC______________Ae8gAAJD______________BfagAAEB______________CeigAAEA______________UVYgAAED______________Ae8gAAJE______________KbdgAAEC______________AW1gAAMA______________KRdgAAED______________KfdgAAED______________A3ygAAJI______________Av2gAAHH______________Ac8gAAJE______________AjbgAAAF______________AaygAAPA______________Ad8gAAJE______________I9WgAAEC______________N1UgAACA______________A7ygAAMA______________UzZgAAEC______________Ad8gAAJE______________A7ygAAMA___RB5A_____________E_C_____________UAZgAAEB______________LqjgAAEA______________JEYgAAEC______________ALKhAAHK______________AS6gAAHL______________A8ygAAMA______________UDagAAEE______________AvcgAAHF______________Ab8gAAJK______________Ae8gAAJD______________RZChAACI______________A7kgAAAI______________Ab5gAAAB______________GWWgAAED______________NVHhAACP______________GYWgAAED______________A0ugAAHB______________H62gAAEC______________H32gAAED______________A3ugAAMA______________Ac5gAAAB______________NXHhAACP______________H62gAAEC______________Ad8gAAJK______________AwNhAAAG______________BJggAAEB______________Ab8gAAJB______________UaYgAAED______________GjWgAAED______________AYpgAAAI______________GiWgAAEC______________UnYgAAEB______________AqvgAADH______________HA3gAAEC______________I3WgAAED______________Ab8gAAJE______________KRdgAAED______________Ac8gAAJE______________ARugAAAF______________VKmgAACE______________Q-pgAAEB______________Aa8gAAMA______________A3ygAAJI______________DO-gAAEE______________AgUgAAAI______________A34gAAHL______________AsEhAACT______________B9fgAAEB______________Ae8gAAJB______________AszgAAHB______________DA-gAAED______________LQkgAAEA______________AnpgAAMA______________NjHhAACP______________LnjgAAEA______________B9ogAAEB______________KedgAAEC______________AUrgAAAI______________A3ygAAJI______________GaWgAAEE______________ArOhAAHK______________Ab8gAAJD______________H32gAAED______________APBhAAHH______________ISXgAAEC______________Ae8gAAJC______________Ae8gAAJD______________A_ugAADB______________PFFhAACC______________AcsgAAAF______________CwigAAEA______________AEugAAAF______________I3WgAAEC______________AZcgAAHF______________V6UgAACA______________Ab8gAAJD______________Ac8gAAJB______________BfagAAED______________AVzgAAHG______________AKsgAAHL______________Uf9gAAEB______________KkdgAAEE______________NuHhAACH______________I7WgAAEC______________KfdgAAEC______________GRWgAAEB______________J7XgAAED______________AEsgAAPA______________AvpgAAJA______________Ry_gAACK______________Ae8gAAJG______________LtjgAAEA______________AhqgAAMA______________AGegAAHB______________CoigAAEA______________AnhgAAHH______________Rb_gAACG______________AyvgAADA______________Ae8gAAJD______________Rn_gAACK______________NUChAACH______________AOegAAHB______________Ad8gAAJE______________WldgAACN______________Wn8gAAEG______________AevgAADF______________Q6pgAAEB______________KJdgAAEE______________CrigAAEA______________UuZgAAEC______________A6kgAAMA______________A3ygAAJI______________H22gAAEB______________VlChAACP______________GSWgAAEE______________R6DhAACI______________IUXgAAEC______________UCZgAAEC______________A8ygAAMA______________A11gAAMA______________AOygAAAI______________Ae8gAAJE______________Ab8gAAJC______________UKagAAEE______________A3ygAAJI______________KLdgAAEB______________NXHhAACP______________AW5gAAAD______________GUWgAAED______________RRChAACI______________A8ygAAMA______________RrVgAACB______________I-WgAAEC______________Ae8gAAJK______________JFYgAAEE______________AxEhAAMA______________Q5pgAAEB______________NuUgAACA______________AZrgAAHG______________H32gAAED______________Ab8gAAJC______________GjWgAAED______________Ag0gAAAF______________AEbgAAAF______________R7UgAACB______________AFsgAAAF______________Ab8gAAJC______________ImXgAAEE______________NbHhAACP______________Aa8gAAAE______________GLWgAAEB______________Ab8gAAJD______________NbChAACH______________DJ-gAAEB______________AZrgAAHG______________GMWgAAED______________AKugAAHI______________LxjgAAEA______________AD5gAAAI______________AkqgAAMA______________UQYgAAED______________AezgAAHG______________SWogAABH______________QCqgAAEB______________UwZgAAEC______________AB2gAAHJ______________A0tgAAAF______________ALygAAAI______________SPogAABA______________VqlgAACE______________ANngAAHC______________AqFhAACS______________RnBhAACI______________GTWgAAEC______________NfChAACH______________BfegAAEC______________DJ-gAAEB______________A3ygAAJI______________Ae8gAAJE______________HE4gAAED______________Ae8gAAJB______________Ad8gAAJK______________A3ygAAJI______________A8wgAAHJ______________U7YgAAEB______________Ex9gAAEA______________Af8gAAAE______________A3ygAAJI______________A8ygAAMA______________X9ygAAEA______________A9sgAAAF______________ULZgAAEB______________A_agAAAF______________AJwgAAPC______________A4ygAAMA______________VZHhAACP______________AYrgAAHB______________AnpgAAJH______________A3ygAAJI______________Ae8gAAJD______________JBYgAAEC______________KbdgAAEC______________KJdgAAED______________I4WgAAED______________KXdgAAED______________D69gAAEC______________Ad8gAAJK______________Ab8gAAJG______________RJDhAACG______________A5tgAAAF______________DO-gAAEC______________Ab8gAAJK______________ISXgAAEE______________R__gAACK______________AJzgAAHG______________Aw5gAAAC______________VvUgAACA______________GfWgAAEE______________Eu9gAAEA______________Q9pgAAEB______________RwlgAACF______________LtjgAAEA______________A_AhAAHK______________Ae8gAAJE______________GcWgAAEE______________AAugAAAF______________LwjgAAEA______________A-sgAAAF______________AP6gAAPB______________Ay7gAAMA______________IuXgAAEE______________GfWgAAED______________A45gAAPA______________VuHhAACH______________RxegAACF______________ABHhAACD______________Ae8gAAJC______________Ab8gAAJC______________J6XgAAEC______________Ae8gAAJB______________A_NhAAPA______________AcygAAAI______________Az5gAAAC______________AungAAMA______________At5gAAAC______________DV-gAAEC______________KcdgAAEC______________DJ-gAAEE______________JFYgAAEE______________NRChAACP______________HE4gAAEC______________AyygAAPA______________UvZgAAEC______________LvjgAAMA______________Av6gAAAB______________ArpgAAJA______________ISXgAAEE______________AhugAAAF______________XpxgAAEA______________XAzgAAEA______________Q6pgAAEB______________MrqgAAEA___RB5A_____________E_C_____________AqcgAAHF______________Ab8gAAJF______________Ab8gAAJE______________J-XgAAEB______________DF-gAAED______________Ui9gAAEB______________LijgAAEA______________AmqgAAMA______________XoEhAAEA______________AStgAAHI______________A0cgAAHG______________Ae8gAAJB______________N-egAACE______________LrjgAAEA______________VvChAACH______________VNdgAACN______________J-XgAAEC______________J-XgAAEB______________RnlgAACF______________L_jgAAEA______________KedgAAEC______________Rs_gAACK______________AD7gAAAB______________UXYgAAED______________RnChAACI______________A7vgAAMA______________AKNhAAAG______________AXtgAAAF______________Ae8gAAJD______________AvngAAAG______________AA5gAAHL______________N1HhAACP______________R9egAACF______________A71gAAMA______________KYdgAAEC______________KRdgAAED______________AtFhAACS______________Ad8gAAJK______________Rb_gAACG______________AgygAAHG______________AnygAAHG______________ABRgAAPC______________AV8gAAMA______________AasgAAAF______________Ae8gAAJD______________GVWgAAEC______________A9GhAACD______________V1egAACE______________AYPhAAHC______________AS0gAAHG______________A8GhAACD______________GPWgAAEB______________AKOhAAMA______________A7AhAAMA______________KMdgAAEC______________ACzgAAHL______________QAqgAAEB______________Rs_gAACK______________Ab8gAAJD______________HE3gAAED______________AM7gAAAB______________VtHhAACP______________RTVgAACB______________KJdgAAED______________AswgAAHK______________LijgAAEA______________A3ygAAJI______________AesgAAAF______________I7WgAAEB______________A8ygAAMA______________GLWgAAED______________J9XgAAEB______________A8rgAAMA______________H62gAAEC______________UQYgAAED______________I8WgAAEB______________JFYgAAEE______________BEggAAEE______________AbrgAAHI______________YTegAAGD______________Ae8gAAJG______________A97gAAMA______________Hp4gAAEE______________AspgAAJJ______________A64gAAHK______________IpXgAAEE______________LijgAAEA______________KddgAAEE______________Ae8gAAJC______________L3jgAAEA______________A1vgAAAI______________AS5gAAAD______________CuigAAEA______________Ar_gAACT______________Ab8gAAJB______________A9wgAAHJ______________AN6gAAAC______________PFFhAACC______________IPXgAAEC______________Xk2gAAEA______________DE-gAAEB______________Ae8gAAJB______________AXxgAAMA______________IKXgAAED______________CeigAAEA______________A0pgAAAF______________AS1gAAMA______________H_3gAAED______________A87gAAMA______________RBAhAACK______________Ae8gAAJD______________UuYgAAEB______________A5agAAHL______________AWcgAADI______________As_gAAHM______________AYygAAHL______________D59gAAED______________KhdgAAEC______________GUWgAAED______________DK-gAAEC______________AWsgAAAF______________Ab8gAAJF______________NylgAACE______________BZggAAEC______________BbggAAEE______________AXzgAAMA______________AmugAAHI______________LqjgAAEA______________AqwgAAAF______________AWugAAHI______________A0xgAAHG______________R7ChAACI______________Ab8gAAJD______________D_9gAAEC______________Ae8gAAJD______________Hb4gAAEE______________RwlgAACF______________Ao6gAAAB______________BGggAAED______________ISXgAAEC______________AtvgAAPA______________Al0gAAPA______________UXYgAAED______________A8ygAAPA______________DA-gAAED______________AsEhAACT______________AZ8gAAMA______________A3ygAAJI______________ASugAAAF______________Ac8gAAJE______________UuZgAAEC______________Ac8gAAJB______________BOggAAEB______________COvgAAEA______________A-agAAAF______________ScogAABC______________Ab8gAAJE______________N4egAACE______________AzWgAAMA______________L3jgAAEA______________KcdgAAEC______________Af8gAAAE______________NRVgAACA______________A3agAAAF______________UyYgAAEB______________Ae8gAAJG______________NkdgAACN______________D_9gAAEC______________A6hgAADC______________H92gAAEB______________VyDhAACP______________VrlgAACE______________Ad8gAAJK______________AX0gAAAI______________BnggAAED______________AABhAAHH______________Wm8gAAEG______________Aa8gAAMA______________A9GhAACD______________HL4gAAED______________A3ugAADH______________AtpgAAJA______________BPfgAAEE______________Ug9gAAEC______________LnjgAAEA______________B9fgAAEB______________Q5pgAAEB______________KcdgAAEC______________Ac1gAAMA______________Ab8gAAJE______________A45gAAHL______________LAkgAAEA______________AfbgAAAF______________J6XgAAEC______________NpUgAACA______________AIBhAAPA______________H22gAAEC______________AWBhAAAI______________JEYgAAEB______________BSfgAAED______________KXdgAAEB______________J_XgAAEC______________NmChAACH______________XpvgAAEA______________AIrgAAMA______________ArpgAAJA______________A4agAAAF______________H32gAAED______________AjugAAAF______________Ae8gAAJD______________SCogAALD______________KYdgAAEB______________AzxgAAHG______________D_9gAAEC______________Al0gAAHK______________GWWgAAEE______________QCqgAAEB______________U9YgAAEB______________UnYgAAED______________AdtgAAAF______________As2gAAHK______________AO5gAAAC______________AjbgAAAF______________AZ8gAAAE______________AM5gAAAI______________AwcgAAHF______________A3tgAAHI______________URZgAAEB______________A2XgAAPC______________PBFhAACC______________DO-gAAED______________BEggAAEE______________LjjgAAEA______________Hf4gAAEE______________AetgAAHD______________AM0gAAPB______________AvhgAAHH______________AD6gAAAB______________UPagAAEE______________AbugAAAF______________A85gAAAB______________AQBhAAHH______________Ah0gAAAF______________L_jgAAEA______________JmWgAAEB______________AvpgAAJA______________H22gAAEB______________A2wgAAHJ______________AFigAAHE______________Ae8gAAJK______________Wv8gAAEG______________CsigAAEA______________A5sgAAAF______________Ab8gAAJE______________HW4gAAEE______________AHxgAAHJ______________A96gAAAC______________RSChAACG______________N1ChAACH______________AiUgAAMA______________AupgAAJF______________Ah1gAAMA______________C7vgAAEA______________ALNhAAAG______________JKYgAAEB______________AMpgAAHI______________B3cgAAEC______________J9XgAAEB______________I7WgAAEC______________A8ygAAPA______________Ab8gAAJG______________C4vgAAEA______________GWWgAAED______________Ae8gAAJE______________UaYgAAED______________AnpgAAJA______________ArFhAACS______________Ab8gAAJC______________A55gAAAC______________Q6pgAAEB______________BhggAAEB______________AoNhAAPC______________AK6gAAAC______________R9egAACF______________H92gAAEB______________AvxgAAHG______________Aa8gAAAE______________A90gAAHH______________GYWgAAEB______________AccgAAHF______________KddgAAEB______________AdygAAAF______________A07gAAMA______________GZWgAAEC______________GLWgAAEB______________Ab8gAAJF______________AHugAAHI______________AV5gAAAD______________GjWgAAED______________VoUgAACA______________A8ygAAMA______________Ab8gAAJF______________DJ-gAAEC______________DA-gAAEB______________Ho3gAAEC______________AvwgAAHJ______________I4WgAAED______________Ab8gAAJC______________AXxgAAMA______________ASrgAAAI______________QAqgAAEB______________A3ygAAJI______________A57gAAMA______________AmhgAAHH______________Q5pgAAEB______________HA3gAAEB______________AW1gAAMA______________H52gAAED______________NsChAACH______________Ad8gAAJK______________Ae8gAAJK______________RAEhAACB______________AN6gAAAF______________QKqgAAEB______________AtzgAAMA______________I7WgAAEB______________LhjgAAEA______________A3cgAAMA______________AUtgAAHI______________AxhgAAHH______________KjdgAAEE______________R2egAACF______________LijgAAEA______________RDdgAACU______________LtjgAAEA______________AUpgAAHC______________AEigAADA______________AbcgAAHF______________DA-gAAED______________Ab8gAAJB______________A8ygAAMA______________BMggAAEB______________Ab8gAAJG______________CoigAAEA______________AHzgAAHL______________N2sgAACE______________Ab8gAAJB______________GOWgAAEB______________NbpgAACN______________A1xgAAHG______________GoWgAAED______________Ak2gAAHL______________Ab8gAAJD______________DJ-gAAED______________GrWgAAEE______________ATrgAAAI______________AQegAAHB______________DJ-gAAEB______________A3agAAAI______________BjagAAEB______________Ab8gAAJD______________Q_pgAAEB______________H62gAAEC______________A1EhAACT______________AgygAAHG______________A0IhAAHE______________Au6gAAAB______________Ad8gAAJK______________A4MhAAHL______________ArpgAAJA______________Am6gAAAC______________H62gAAEC______________V9egAACE______________PDFhAACC______________NhpgAACE______________AWsgAAHI______________LojgAAEA______________A3ygAAJI______________Ab8gAAJG______________UZZgAAEB______________Ap0gAAHD______________QMqgAAEB______________J6XgAAED______________Ad8gAAJB______________S0rgAABE______________A2WgAAMA______________RcChAACI______________V04gAACO______________Ab8gAAJB______________KYdgAAEB______________Rj_gAACK______________UiYgAAEB______________Ar6gAAAB______________GjWgAAEC______________KidgAAEE______________C4igAAEA______________Ek9gAAEA______________DS-gAAED______________Ab8gAAJF______________N4UgAACA______________IoXgAAEE______________A3wgAAHJ______________I_WgAAED______________AX5gAAAB______________A4sgAAPB______________DA-gAAEB______________VzlgAACE______________DL-gAAEE______________JCYgAAEB______________B9fgAAEC______________I-WgAAEC______________UxZgAAEC______________HQ3gAAEB______________UVYgAAED______________Rk_gAACK______________D89gAAEB______________Hu3gAAEC______________H62gAAED______________AzEhAACT______________ArygAAPA______________NGmgAACE______________AUhgAAPD______________AZ8gAAMA______________Ab8gAAJC______________L6jgAAEA______________ArEhAACT______________KQdgAAEE______________Q8pgAAEB______________SiogAABD______________AMvgAADE______________HG3gAAEB______________AzcgAAHG______________HC3gAAEC______________A1tgAAAF______________DU-gAAEE______________GiWgAAEB______________Ab8gAAJD______________XcsgAAPA______________Ad8gAAJK______________Aa5gAAAC______________AaagAAPC______________ALugAAHI______________RklgAACF______________AtcgAAHF______________A1wgAAHJ______________U0ZgAAEC______________ArvgAAPD______________BPggAAEC______________Q8pgAAEB______________Af8gAAAE______________AS8gAAMA______________RQChAACI______________X9ygAAEA______________QKqgAAEB______________UGagAAED______________I7WgAAEC______________Rk_gAACK______________NiHhAACP______________KKdgAAED______________UUYgAAED______________Ae8gAAJD______________RAAhAACK_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________QALAjCAAABAKYdgAAEBCAAQALAjCAAABAKYdgAAEBCAAUAPADJAAABAUsZgAAEBCAABBAAcXAAAUAAh2gAAHHBAAtBEBs2FAABAB8rgAAEBDAAUB6A1vEAABAKidgAAEECAAtAAAoPAAAUAAIvgAADHCAA8AAAAAAAAUAA2bgAAHMBAAGBAAAAAAABAA7vgAAMABBA8AAAQcCAAUAAOvgAADHCAABBAAEnAAAUAAAvgAADBCAAsAnAmTBAABABCWgAAECCAALBBBQGAAAUAAmtgAAAFBAAvAAA3FAAAUAAzwgAAHJBAABBAAEnAAAUAADvgAADACAAmBABf5JAABAUCagAAEDCAA3AAAYtBAAUAA0vgAADHCAA8AAAEnAAABAACvgAADACAAGBAAwUHAABAAEigAADADAA3AAAIOBAABAAyvgAADABAAwBFByDEAABAJBYgAAEBDAAGBAAwUHAABAATvgAADGDAA8AAAEnAAABAACvgAADACAAUAAAZAAAAUAAlwgAAHJBAAGBAAwUHAABAAUvgAADGDAAkAfAkkAAABAQ6pgAAEBCAAoAAAgMAAAUAAlvgAADHCAAjAeAYhAAABAI7WgAAEBCAAmAhA95AAABAUnYgAAEBCAAKAAAFAAAAUAAm2gAAHHBAAeAAAhDAAAUAAfzgAAHGBAAGBAAwUHAAUAA5hgAADCDAAGBAAwUHAABAAYigAADEDAABAAA0HAAAUAA7ygAAMABAABBAAEnAAAUAANvgAADECAAGBAAwUHAABAAEigAADADAA3AAAIOBAABAAyvgAADABAAyAAATdAAABAAb8gAAJKBAAGBAAwUHAABAAUvgAADGDAAtAAAAAAAAUAA3bgAAHMBAAFAAAUAAAAUAArwgAAHJBAAGBAAwUHAABAAUvgAADGDAAqAlAsQBAABAUg9gAAEBCAABAAAAAAAA6DA8ygAAMABAA8AAAEnAAABAAMvgAADECAAGBAAwUHAABAATvgAADGDAAGBAAiTAAAUAAn2gAAHHCAAmAhA8BBAABABAggAAECDAA8AAAoPAAAUAAp2gAAHHBAA8AyAuLAAAUAAcBhAAAIBAABBAAEnAAAUAAfvgAADFCAAGBAAwUHAABAAEigAADADAAsAAAMRAAABAA3ygAAJICAA8AAAM1BAABAA3ygAAJICAA8AAAEnAAABAAhvgAADCCAA8AAAEnAAABAAevgAADFCAAGBAAwUHAABAALigAADFDAAGBAAwUHAABAAIigAADDDAA8AAAEnAAABAAWvgAADDCAAwAAAuLAAABAMKegAAEABBAGBAAkfFAABAMoegAAEADAAZAAA0HAAAUAAr2gAAHHCAABBAAEnAAAUAAivgAADCCAAZAAAMAAAAKAAxygAAHIBAAZAAAAAAAAKAA-bgAAHMCAA3AAAAAAAAKAAAcgAAHMCAAPAAAAAAAAKAACcgAAHMCAAjAAAAAAAAKAAEcgAAHMCAAtAAAAAAAAKAAGcgAAHMCAABBAAAAAAAKAA8bgAAHMCAA9A6AAAAAA6DAxWgAAMADAABAAA3FAAAKAA8ygAAMABAABAAAAAAAAUAApKhAAPDBAACB3AIOBAAUAAL6gAAAIBAAZAAAWCAAAUAAdrgAAHBBAABAAAUAAAAUAA4ogAAAHBAABAAAgMAAAUAA6ogAAAHBAAGBAA4uAAAUAA8ogAAAHBAA8AAAkBAAAUAA1ygAAAIBAA6AAAoPAAAUAAyogAAAHBAABAAAQGAAAUAAoogAAAHBAABAAA5AAAAUAA3ogAAAHBAAvAqAvkCAABABAggAAEDDAA8AAAQcCAAUAAYvgAADHCAABAAAcXAAAFAAFzgAAHLBAA3AAAAAAAAUAA4bgAAHMBAAyBGBFaIAABAUOZgAAEBDAAhAcAthAAABAB9fgAAECCAA8AAAEnAAABAAevgAADFCAAGBAAwUHAABAALigAADFDAAGBAAwUHAABAATvgAADGDAAeAAAWCAAAUAAs2gAAHHBAAjAAA8KAAAUAA2vgAADHCAA8AAAEnAAABAAMvgAADECAAGBAAwUHAABAAYigAADEDAAlAAAvCAAAUAAswgAAHJBAAGBAAEnAAAUAAt2gAAHHCAA3AAAAAAAAUAAJcgAAHMDAAZAAAAAAAAUAAMcgAAHMDAAjAAAAAAAAUAAOcgAAHMDAA3AAAYtBAAUAAkvgAADHCAAGBAAAAAAAUAARcgAAHMDAAtAAAAAAAAUAATcgAAHMDAAMACAXAAAABAA1ygAAAABBAUAAAAAAAAKAA_bgAAHMCAAyAAAAAAAAKAABcgAAHMCAAKAAAAAAAAKAADcgAAHMCAAeAAAYJAAAUAAHvgAADHCAAeAAAAAAAAKAAFcgAAHMCAAoAAAAAAAAKAAHcgAAHMCAA8AAAAAAAAKAA9bgAAHMCAAeAAALBAAAUAAN0gAAHJBAABAAAIAAAAUAA1ogAAAHBAAGBAAwUHAAUAADigAADADAAFAAAFAAAAKAALugAAHIBAABAAAUFAAAUAA5ogAAAHBAAHAAAPAAAAUAAavgAADHCAABAAAAAAAAUAAtwgAAPABBAmBABv8EAABAI_WgAAEBCAAoAAA6DAAAUAAw2gAAHHBAAZAAAQGAAAUAAZvgAADHCAABBAAQGAAAKAAlbgAAHKBAABBAAQGAAAKAAmbgAAHKBAABBAAQGAAAKAAnbgAAHKBAABBAAQGAAAKAAobgAAHKBAABBAAQGAAAKAApbgAAHKBAABBAAQGAAAKAArbgAAHKBAABBAAQGAAAKAAsbgAAHKBAAGBAAwUHAABAA6hgAADCDAAABAA7TAAAUAA7ogAAAHBAA8AAAkBAAAUAA1ygAAAIBAA8AAAAAAAAUAAQcgAAHMEAAaB8AahEAABAGMWgAAEDCAAJBAAiTAAAUAAKxgAAHJBAAGBAAwUHAAUAAHigAADDDAAGBAAwUHAAUAAKigAADFDAAdB9AhgSAABARTVgAACBCAAUAAAoPAAABAAkNhAAPCBAAwAAAiTAAABAAe8gAAJBCAAGBAAg4EAABAAd8gAAJCDAAhAAA6DAAABAAe8gAAJCCAAGBAAQcCAABAAb8gAAJCBAAGBAAQcCAABAAb8gAAJCBAA-AAAYqDAABAAb8gAAJCEAAGBAAg4EAABAAd8gAAJCDAAJBAAwUHAABAAd8gAAJCEAAEBAAYqDAABAAb8gAAJEBAAyAAA4uAAABAAe8gAAJECAA8AAAEnAAABAAevgAADFCAAGBAAwUHAABAALigAADFDAAGBAAwUHAABAATvgAADGDAABBAAg-AAAUAAtbgAAHKCAABBAAg-AAAUAAubgAAHKCAABBAAg-AAAUAAvbgAAHKCAABBAAg-AAAUAAwbgAAHKCAABBAAg-AAAUAAxbgAAHKCAAGBAAg-AAAUAAhcgAAHFDAAGBAAQNMAABASaogAABADAABBAAg-AAAUAAzbgAAHKCAABBAAg-AAAUAA0bgAAHKCAABABABAAAABAH22gAAECAAA8AAAEnAAABAAMvgAADECAAGBAAwUHAABAAYigAADEDAAGBAAg4EAABAAe8gAAJGCAA4AAAg-AAABAAe8gAAJGCAAeAAAmIAAABAAb8gAAJFBAAtAAAg-AAABAAb8gAAJFBAAPAAArNAAABAS3ngAABABAAFABABAAAAUAA6agAAAFBAAGBAAwUHAABAAIigAADDDAAGBAAwUHAABAATvgAADGDAA3AAAIOBAABAA5vgAADCBAAGBAAwUHAABAA6hgAADCDAA8AAAEnAAABAAhvgAADCCAA8AAAEnAAABAAWvgAADDCAA0AAApGAAAUAAxogAAAHBAAGBAAwUHAABAAEigAADADAABAAAQGAAAIDA4wgAAMABAALBAA8JJAABAAd8gAAJDDAAUAKAyAAAAFAAa8gAAAEBAAeAUALBAAAFAAZ8gAAAEBAAZAPA-AAAAFAAf8gAAAEBAAZAPA-AAAAFAAZ8gAAAEBAAPAFAlAAAAFAAf8gAAAEBAAeAUALBAAAFAAf8gAAAEBAABBAAEnAAAUAAXvgAADDCAAGBAAg-AAAUAAXcgAAHFDAAUAAA6DAAAUAA6ugAADHCAAGBAAwUHAABAAIigAADDDAA8AAAEnAAABAAWvgAADDCAAdAYA3tAAABAUOagAAEDDAABAAA-AAAABAA8ygAAMABAAbB-AIVFAABAQKqgAAEBDAABAAAqCAAAUAAnogAAAHBAAmAhAJtAAABAQ8pgAAEBCAAKAAALBAAAUAAKBhAAHHCAAzAuAHyDAABAM2ngAAEADAABAAAUDDAABAAS1gAAMADAAvBDBaDFAABAKRdgAAEDCAAyAAAAAAAAUAAKcgAAHMDAAUAAAAAAAAUAANcgAAHMDAAeAAAAAAAAUAAPcgAAHMDAABBAAAAAAAUAAScgAAHMDAAoAAAAAAAAUAAUcgAAHMDAA3AAAIOBAABAA5vgAADCBAAGBAAwUHAABAA6hgAADCDAA8AAAEnAAABAA_ugAADBCAAGBAAwUHAABAAVigAADBDAA3AAAIOBAABAAJvgAADBBAABAAAAAAAABAAnrgAAMABBAZAAAAAAAAUAA5bgAAHMBAAGBAAwUHAABAAIigAADDDAA8AAAEnAAABAAWvgAADDCAA8AAAEnAAABAA_ugAADBCAAGBAAwUHAABAAVigAADBDAA3AAAIOBAABAAJvgAADBBAABAAAAAAAABAA1ygAAMABBAUAAADGAAAKAAxOhAAHFBAAGBAAwUHAAUAAUigAADBDAAyAAAIOBAAUAAxvgAADHCAAXB7AP7CAABAJBYgAAEBCAAGBAAwUHAABAAYigAADEDAA8AAAEnAAABAA_ugAADBCAAGBAAwUHAABAAVigAADBDAAKAAAAAAAAUAA6bgAAHMBAABAAAAAAAABAA2ygAAMABBAGBAAwUHAABAAEigAADADAAGBAAwUHAABAAUvgAADGDAAGBAAwUHAAUAAXigAADEDAA4BGBZTJAABACeigAAEACAA8AAAEnAAABAACvgAADACAA3AAAIOBAABAAyvgAADABAAGBAAwUHAABAATvgAADGDAA9BGBoYeAABAVlVgAACAEBA3AAAIOBAABAA5vgAADCBAA8AAAEnAAABAAhvgAADCCAAoAAA6DAAAUAAy2gAAHHBAAPAAAkBAAAUAAmvgAADHCAAUAAAZAAAAUAAz2gAAHHBAAGBGBgaYAABAArpgAAJADAAFABABAAAAUAAUtgAAAFBAAoAAA0HAAAUAA02gAAHHCAAAAAAuLAAAIDA0sgAAMABAARB5AZxDAABAJ9XgAAEDCAARB5AZxDAABAJ9XgAAEDCAAwBFBzCEAABAJCYgAAEBDAARB5A7LIAABAUaYgAAEDCAARB5A7LIAABAUaYgAAEDCAARB5A3GEAABAKbdgAAEDCAARB5A3GEAABAKbdgAAEDCAARB5ASJGAABAIUXgAAEDCAARB5ASJGAABAIUXgAAEDCAARB5ASJGAABAIUXgAAEDCAARB5ASJGAABAIUXgAAEDCAApBGB4VFAABAGMWgAAEBEAARB5AsLGAABABfagAAEDCAARB5AsLGAABABfagAAEDCAA8AAAEnAAABAAevgAADFCAAGBAAwUHAABAALigAADFDAAzBGBnlRAABAMI5gAAEAEBAjAAAAAAAAUAA7bgAAHMBAAGBAAAAAAAUAAVcgAAHMEAABAAAAAAAABAAWWgAAMABBAsBCBG8LAABAUPagAAEECAAYATArLAAABAQHqgAAEBCAAYATArLAAABAQHqgAAEBCAAdAYA2TAAABAJ-XgAAEDCAA8AAAEnAAABAAevgAADFCAAGBAAwUHAABAALigAADFDAAnAAAkBAAAUAA0sgAAHJBAABAAAZAAAAUAA0ogAAAHBAACABAHAAAABAVmlgAACEBAAAAAAAAAAABAA2ygAAMABBAdB9AH_KAABAA1pgAACTCAABAAAAAAAABAAMvgAAMABBABAAAAAAAABAALegAAMABBA",
+	["build"] = "2.5.1",
+}

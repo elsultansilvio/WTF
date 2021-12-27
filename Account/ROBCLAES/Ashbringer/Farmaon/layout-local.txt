@@ -1,0 +1,15 @@
+Version: 1
+Frame: PlaterOptionsPanelFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 2
+Y: 1
+W: 1100
+H: 650
+Frame: AtlasLoot_GUI-Frame
+FrameLevel: 1
+Anchor: CENTER
+X: 3
+Y: 1
+W: 920
+H: 600

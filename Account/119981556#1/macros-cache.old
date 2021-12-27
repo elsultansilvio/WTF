@@ -1,0 +1,174 @@
+VER 3 0000000000000029 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Hamstring
+/cast Berserker Stance
+/cast Hamstring
+/startattack
+END
+VER 3 0000000000000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Pummel
+/cast Berserker Stance
+/cast Pummel
+/startattack
+END
+VER 3 000000000000000B " " "132307"
+#showtooltip Intercept
+/cast Berserker Stance
+/cast Intercept
+/startattack
+END
+VER 3 0000000000000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Rend
+/cast Battle Stance
+/cast Rend
+/starattack
+END
+VER 3 0000000000000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Thunder Clap
+/cast Battle Stance
+/cast Thunder Clap
+/startattack
+END
+VER 3 000000000000000F " " "INV_MISC_QUESTIONMARK"
+#showtooltip Overpower
+/cast Battle Stance
+/cast Overpower
+/startattack
+END
+VER 3 000000000000000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip Berserker Rage
+/cast Berserker Stance
+/cast Berserker Rage
+/startattack
+END
+VER 3 000000000000000C " " "INV_MISC_QUESTIONMARK"
+#showtooltip Disarm
+/cast Defensive Stance
+/cast Disarm
+/startattack
+END
+VER 3 0000000000000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Mortal Strike
+/cast Mortal Strike
+/startattack
+END
+VER 3 0000000000000010 " " "132147"
+/msbt
+END
+VER 3 0000000000000013 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Deathbringer
+/equipslot 17 Deathbringer
+END
+VER 3 0000000000000015 " " "132136"
+/target Scourge Champion
+END
+VER 3 0000000000000017 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Whirlwind
+/cast Berserker Stance
+/cast Whirlwind
+/startattack
+END
+VER 3 0000000000000018 " " "INV_MISC_QUESTIONMARK"
+#showtooltip [nocombat] Charge; Intercept
+/cast [nostance:1,nocombat] Battle Stance;[stance:1,nocombat] Charge;[nostance:3,combat] Berserker Stance;[stance:3,combat] Intercept
+/starattack
+END
+VER 3 0000000000000019 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Retaliation
+/cast Battle Stance
+/cast Retaliation
+/startattack
+END
+VER 3 000000000000001A " " "INV_MISC_QUESTIONMARK"
+#showtooltip Intimidating Shout
+/cast Intimidating Shout
+END
+VER 3 000000000000001B " " "INV_MISC_QUESTIONMARK"
+#showtooltip [nocombat] Charge; Intercept
+/cast [nocombat]Battle Stance;
+/cast [nocombat]Charge;
+/cast [combat]Berserker Stance
+/cast Intercept
+/startattack
+END
+VER 3 000000000000001C " " "INV_MISC_QUESTIONMARK"
+#showtooltip Taunt
+/cast Defensive Stance
+/cast Taunt
+/startattack
+END
+VER 3 000000000000001D " " "INV_MISC_QUESTIONMARK"
+#showtooltip Mocking Blow
+/cast Battle Stance
+/cast Mocking Blow
+/startattack
+END
+VER 3 000000000000001E " " "INV_MISC_QUESTIONMARK"
+#showtooltip Spell Reflection
+/cast Battle Stance
+/equip Platinum Shield of the Valorous
+/equip Millennium Blade
+/cast Spell Reflection
+/startattack
+END
+VER 3 000000000000001F " " "INV_MISC_QUESTIONMARK"
+/use 13
+END
+VER 3 0000000000000020 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 13
+/use 13
+END
+VER 3 0000000000000022 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Intervene
+/cast Defensive Stance
+/cast Intervene
+/startattack
+END
+VER 3 0000000000000023 " " "INV_MISC_QUESTIONMARK"
+#showtooltip 14
+/use 14
+END
+VER 3 0000000000000024 " " "INV_MISC_QUESTIONMARK"
+/target Vhel'kur
+END
+VER 3 0000000000000025 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Hamstring
+/cast Hamstring
+/startattack
+END
+VER 3 0000000000000026 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Rend
+/cast Battle Stance
+/cast Rend
+/startattack
+END
+VER 3 0000000000000028 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Execute
+/cast Berserker Stance
+/cast Execute
+/startattack
+END
+VER 3 0000000000000016 " " "INV_MISC_QUESTIONMARK"
+#showtooltip charge
+/cast battle stance
+/cast charge
+/startattack
+END
+VER 3 0000000000000011 "  " "132150"
+/join lookingforgroup
+/leave lookingforgroup
+END
+VER 3 000000000000000D " Roll" "132163"
+/random 20-100
+END
+VER 3 0000000000000004 "DW&TR" "INV_MISC_QUESTIONMARK"
+#showtooltip Death Wish
+/cast Death Wish
+/use 14
+/cast Bloodrage
+END
+VER 3 0000000000000027 "Enchant" "135992"
+/4 LF enchanter: |cffffd000|Henchant:34008|h[Enchanting: Enchant Boots - Boar's Speed]|h|r
+END
+VER 3 0000000000000021 "Gava 'xi" "INV_MISC_QUESTIONMARK"
+/target Ethereum Jailor
+END

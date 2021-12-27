@@ -1,0 +1,14 @@
+Auctionator: disabled
+TradeSkillMaster: enabled
+ATT: disabled
+AtlasLootClassic_Options: disabled
+Details: enabled
+BigDebuffs: disabled
+Details_TinyThreat: enabled
+Gladdy: enabled
+Leatrix_Plus: enabled
+NameplateCooldowns: enabled
+OmniBar: enabled
+Plater: enabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled

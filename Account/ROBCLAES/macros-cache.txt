@@ -1,0 +1,150 @@
+VER 3 0000000000000013 " " "INV_MISC_QUESTIONMARK"
+/castsequence reset=250/ Master Healthstone, Major Healthstone
+END
+VER 3 0000000000000024 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Death Coil
+/cast [nomodifier] Death Coil
+/cast [modifier:shift, target=focus] Death Coil
+END
+VER 3 000000000000001E " " "INV_MISC_QUESTIONMARK"
+/equip Gladiator's Touch of Defeat
+/cast shoot
+END
+VER 3 000000000000001C " " "INV_MISC_QUESTIONMARK"
+/castsequence reset=5/ Unending breath, Detect Invisibility
+END
+VER 3 000000000000001A " " "INV_MISC_QUESTIONMARK"
+/cast [modifier:alt] Ebon Gryphon
+/cast Black War Steed Bridle
+END
+VER 3 0000000000000012 " " "INV_MISC_QUESTIONMARK"
+/use 13
+/cast amplify curse
+END
+VER 3 0000000000000023 " " "INV_MISC_QUESTIONMARK"
+/cast devour magic
+END
+VER 3 000000000000002D " " "INV_MISC_QUESTIONMARK"
+/cast [modifier:alt] Ritual of Souls; create healthstone
+END
+VER 3 0000000000000037 " " "INV_MISC_QUESTIONMARK"
+/castsequence reset=50/ Summon Voidwalker(Summon), Summon Felhunter(Summon)
+END
+VER 3 0000000000000038 " " "INV_MISC_QUESTIONMARK"
+/use Master Healthstone
+/use Major Healthstone
+END
+VER 3 000000000000002A " 2V2" "136210"
+#showtooltip stone
+/castsequence reset=5/ Create Healthstone(Rank 6), Create Healthstone(Rank 5), Create Spellstone(Rank 4)
+END
+VER 3 0000000000000022 " ALT" "INV_MISC_QUESTIONMARK"
+/cast [mod:alt] fel armor
+/cast soul link
+END
+VER 3 0000000000000026 " BNSH" "INV_MISC_QUESTIONMARK"
+#showtooltip Amplify Curse
+/cast Banish(Rank 1)
+END
+VER 3 000000000000002E " DS" "INV_MISC_QUESTIONMARK"
+#showtooltip escape artist
+/cast Drain Soul(Rank 1)
+END
+VER 3 0000000000000005 " F" "132093"
+/target Jannyboi
+/follow
+END
+VER 3 0000000000000039 " FCS" "INV_MISC_QUESTIONMARK"
+/cast [@focus] death coil
+END
+VER 3 0000000000000033 " ME" "INV_MISC_QUESTIONMARK"
+#showtooltip devour magic
+/cast [@self] devour magic
+END
+VER 3 0000000000000020 " PET" "INV_MISC_QUESTIONMARK"
+/cast [@pet,dead] Summon Felhunter; [nopet] Summon Felhunter; Health Funnel
+END
+VER 3 0000000000000019 " SHFT" "INV_MISC_QUESTIONMARK"
+#showtooltip curse of tongues
+/cast [nomodifier] curse of tongues
+/cast [modifier:shift, target=focus] curse of tongues
+END
+VER 3 0000000000000016 " SHFT" "INV_MISC_QUESTIONMARK"
+#showtooltip Spell Lock
+/cast sacrifice
+/cast seduction
+/cast [nomodifier] spell lock
+/cast [modifier:shift, target=focus] spell lock
+/cast fire shield
+END
+VER 3 000000000000001F " spell" "INV_MISC_QUESTIONMARK"
+#showtooltip Master Spellstone
+/equipslot 18 Master Spellstone
+/use Master Spellstone
+/equipslot 18 Gladiator's Touch of Defeat
+END
+VER 3 000000000000002F " TAP" "INV_MISC_QUESTIONMARK"
+#showtooltip escape artist
+/cast [mod:alt] Life Tap(Rank 2);
+/cast [nomod] Life Tap
+END
+VER 3 000000000000001B "ALT" "INV_MISC_QUESTIONMARK"
+/cast Life Tap(Rank 4)
+/cast [modifier:alt] life tap
+END
+VER 3 0000000000000025 "BOLT" "INV_MISC_QUESTIONMARK"
+#showtooltip amplify curse
+/cast shadow bolt
+END
+VER 3 0000000000000028 "DL" "INV_MISC_QUESTIONMARK"
+#showtooltip death coil
+/cast [nochanneling] drain life
+END
+VER 3 0000000000000029 "DM" "INV_MISC_QUESTIONMARK"
+#showtooltip shadow ward
+/cast [nochanneling] drain mana
+END
+VER 3 0000000000000036 "FCS" "INV_MISC_QUESTIONMARK"
+#showtooltip devour magic
+/cast [@focus] devour magic
+END
+VER 3 0000000000000027 "FIRE" "INV_MISC_QUESTIONMARK"
+#showtooltip Death Coil
+/cast Immolate
+END
+VER 3 0000000000000035 "PET" "INV_MISC_QUESTIONMARK"
+#showtooltip devour magic
+/cast [@pet] devour magic
+END
+VER 3 0000000000000030 "Pet@F" "INV_MISC_QUESTIONMARK"
+#showtooltip howl of terror
+/petattack [@focus]
+END
+VER 3 0000000000000034 "ROB" "INV_MISC_QUESTIONMARK"
+#showtooltip devour magic
+/cast [@joeyjoejoe] devour magic
+END
+VER 3 0000000000000018 "SHFT" "INV_MISC_QUESTIONMARK"
+#showtooltip siphon life
+/cast [nomodifier] siphon life
+/cast [modifier:shift, target=focus] siphon life
+END
+VER 3 0000000000000017 "SHFT" "INV_MISC_QUESTIONMARK"
+#showtooltip curse of agony
+/cast [nomodifier] curse of agony
+/cast [modifier:shift, target=focus] curse of agony
+END
+VER 3 0000000000000015 "SHFT" "INV_MISC_QUESTIONMARK"
+#showtooltip corruption
+/cast [nomodifier] corruption
+/cast [modifier:shift, target=focus] corruption
+END
+VER 3 0000000000000014 "SHFT" "INV_MISC_QUESTIONMARK"
+#showtooltip curse of exhaustion
+/cast [nomodifier] curse of exhaustion
+/cast [modifier:shift, target=focus] curse of exhaustion
+END
+VER 3 000000000000001D "TTM" "INV_MISC_QUESTIONMARK"
+#showtooltip shadow ward
+/petattack [target=Windfury Totem]
+END

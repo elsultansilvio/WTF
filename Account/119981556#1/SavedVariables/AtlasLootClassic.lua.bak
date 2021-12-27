@@ -1,0 +1,26 @@
+
+AtlasLootClassicDB = {
+	["profileKeys"] = {
+		["Feretuse - Noggenfogger"] = "Feretuse - Noggenfogger",
+		["Feretuse - Ashbringer"] = "Feretuse - Ashbringer",
+	},
+	["global"] = {
+		["__addonrevision"] = 2040000,
+	},
+	["profiles"] = {
+		["Feretuse - Noggenfogger"] = {
+			["GUI"] = {
+				["selected"] = {
+					nil, -- [1]
+					"TheBlackMorass", -- [2]
+					[5] = 0,
+				},
+			},
+			["minimap"] = {
+				["minimapPos"] = 256.0824918184559,
+			},
+		},
+		["Feretuse - Ashbringer"] = {
+		},
+	},
+}

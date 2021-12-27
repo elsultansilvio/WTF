@@ -1,0 +1,10 @@
+Auctionator: disabled
+TradeSkillMaster: enabled
+ATT: enabled
+OmniBar: enabled
+Plater: enabled
+NameplateCooldowns: enabled
+AtlasLootClassic_Options: disabled
+Details: enabled
+Details_TinyThreat: enabled
+Gladdy: enabled

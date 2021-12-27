@@ -1,0 +1,82 @@
+VER 3 0000000001000012 " " "135814"
+/cast Aquadynamic Fish Attractor
+/use Big Iron Fishing Pole
+END
+VER 3 0000000001000013 " " "132164"
+/console targetNearestDistance 18.000
+/targetenemyplayer [noharm][dead]
+/console targetNearestDistance 50
+/cast [harm,nodead] Curse of Exhaustion
+/cleartarget
+END
+VER 3 0000000001000015 " " "INV_MISC_QUESTIONMARK"
+#showtooltip fear
+/use [nomod, target=target] Fear
+/use [mod:alt, target=focus] Fear
+END
+VER 3 0000000001000016 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Life Tap
+/use [mod:alt] Life Tap(Rank 3);
+/use [nomod] Life Tap
+END
+VER 3 0000000001000018 " " "132135"
+#showtooltip fear
+/cast  Spell lock
+END
+VER 3 0000000001000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nochanneling] drain mana
+END
+VER 3 0000000001000010 " " "132147"
+/target lidle
+/cast devour magic
+/targetlasttarget
+END
+VER 3 0000000001000008 " DL" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nochanneling] drain life
+END
+VER 3 000000000100001E " FOCUS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/target focus
+/petattack
+/cast spell lock
+/targetlasttarget
+END
+VER 3 000000000100001B " ME" "INV_MISC_QUESTIONMARK"
+/target lidl
+/cast devour magic
+/targetlasttarget
+END
+VER 3 000000000100001A "DM" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nochanneling] drain mana
+END
+VER 3 000000000100000A "FEL" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast Fel Domination
+/use [nomod] Summon Felhunter(Summon);
+/use [mod:alt] Summon Voidwalker(Summon)
+END
+VER 3 000000000100001D "FOCUS" "INV_MISC_QUESTIONMARK"
+/target focus
+/cast devour magic
+/targetlasttarget
+END
+VER 3 0000000001000014 "FOCUS" "132130"
+/focus
+END
+VER 3 0000000001000019 "KMJA" "INV_MISC_QUESTIONMARK"
+/target karamja
+/cast devour magic
+/targetlasttarget
+END
+VER 3 000000000100001C "ME" "INV_MISC_QUESTIONMARK"
+END
+VER 3 000000000100000B "PA " "132097"
+/petattack [target=mana tide totem]
+/petattack [target=Earthbind totem]
+/petattack [target=grounding totem]
+/petattack [target=windfury totem]
+/petattack [target=tremor totem]
+END

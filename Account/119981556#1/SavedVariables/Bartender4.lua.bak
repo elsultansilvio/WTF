@@ -1,0 +1,171 @@
+
+Bartender4DB = {
+	["namespaces"] = {
+		["ActionBars"] = {
+			["profiles"] = {
+				["Feretuse - Ashbringer"] = {
+					["actionbars"] = {
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.5,
+								["x"] = -231.4998779296875,
+								["point"] = "CENTER",
+							},
+						}, -- [1]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.5,
+								["x"] = -231.4998779296875,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.5,
+								["x"] = -231.4998779296875,
+								["point"] = "CENTER",
+							},
+						}, -- [3]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.5,
+								["x"] = -231.4998779296875,
+								["point"] = "CENTER",
+							},
+						}, -- [4]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.5,
+								["x"] = -231.4998779296875,
+								["point"] = "CENTER",
+							},
+						}, -- [5]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = -227.5,
+								["x"] = -231.4998779296875,
+								["point"] = "CENTER",
+							},
+						}, -- [6]
+						{
+							["enabled"] = true,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4998779296875,
+								["point"] = "CENTER",
+								["y"] = -227.5,
+							},
+						}, -- [7]
+						{
+							["enabled"] = true,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4998779296875,
+								["point"] = "CENTER",
+								["y"] = -227.5,
+							},
+						}, -- [8]
+						{
+							["enabled"] = true,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4998779296875,
+								["point"] = "CENTER",
+								["y"] = -227.5,
+							},
+						}, -- [9]
+						{
+							["enabled"] = true,
+							["version"] = 3,
+							["position"] = {
+								["x"] = -231.4998779296875,
+								["point"] = "CENTER",
+								["y"] = -227.5,
+							},
+						}, -- [10]
+					},
+				},
+			},
+		},
+		["MicroMenu"] = {
+			["profiles"] = {
+				["Feretuse - Ashbringer"] = {
+					["position"] = {
+						["y"] = 42.80000826716423,
+						["x"] = -161.5999400165347,
+						["point"] = "CENTER",
+						["scale"] = 0.800000011920929,
+					},
+					["version"] = 3,
+				},
+			},
+		},
+		["XPBar"] = {
+		},
+		["BlizzardArt"] = {
+		},
+		["BagBar"] = {
+			["profiles"] = {
+				["Feretuse - Ashbringer"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 5,
+						["x"] = 21.50018310546875,
+						["point"] = "CENTER",
+					},
+				},
+			},
+		},
+		["StanceBar"] = {
+			["profiles"] = {
+				["Feretuse - Ashbringer"] = {
+					["position"] = {
+						["y"] = 14.25012969970703,
+						["x"] = -159.7499389648438,
+						["point"] = "CENTER",
+					},
+					["version"] = 3,
+				},
+			},
+		},
+		["Vehicle"] = {
+			["profiles"] = {
+				["Feretuse - Ashbringer"] = {
+					["position"] = {
+						["y"] = 42.50003051757813,
+						["x"] = 104.500244140625,
+						["point"] = "CENTER",
+					},
+					["version"] = 3,
+				},
+			},
+		},
+		["PetBar"] = {
+			["profiles"] = {
+				["Feretuse - Ashbringer"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 89.5,
+						["x"] = -163.4998168945313,
+						["point"] = "CENTER",
+					},
+				},
+			},
+		},
+		["RepBar"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Feretuse - Ashbringer"] = "Feretuse - Ashbringer",
+	},
+	["profiles"] = {
+		["Feretuse - Ashbringer"] = {
+		},
+	},
+}

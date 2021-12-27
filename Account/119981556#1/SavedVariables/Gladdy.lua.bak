@@ -1,0 +1,11 @@
+
+GladdyXZ = {
+	["profileKeys"] = {
+		["Feretuse - Ashbringer"] = "Feretuse - Ashbringer",
+	},
+	["profiles"] = {
+		["Feretuse - Ashbringer"] = {
+			["locked"] = true,
+		},
+	},
+}

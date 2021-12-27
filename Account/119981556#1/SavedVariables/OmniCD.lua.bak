@@ -1,0 +1,13 @@
+
+OmniCDDB = {
+	["profileKeys"] = {
+		["Feretuse - Ashbringer"] = "Default",
+	},
+	["cooldowns"] = {
+	},
+	["version"] = 2.51,
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

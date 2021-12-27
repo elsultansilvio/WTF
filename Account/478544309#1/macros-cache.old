@@ -1,0 +1,54 @@
+VER 3 0000000000000023 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,nodead,exists,] Dispel Magic; Dispel Magic
+END
+VER 3 0000000000000021 " " "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,harm] Silence; Silence
+END
+VER 3 0000000000000022 " " "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,harm] Shadow word: Pain; Shadow word: Pain
+END
+VER 3 000000000000001C " " "135829"
+/wand [target=mana tide totem]
+/petattack [target=Earthbind totem]
+/petattack [target=grounding totem]
+/petattack [target=windfury totem]
+/wand [target=tremor totem]
+END
+VER 3 0000000000000024 " " "INV_MISC_QUESTIONMARK"
+/cast [@mouseover,harm] Chastise; Chastise
+END
+VER 3 0000000000000015 "  " "136207"
+/use 13
+/cast [@mouseover,harm] Shadow word: Pain; Shadow word: Pain
+END
+VER 3 0000000000000020 " alt" "INV_MISC_QUESTIONMARK"
+/cast [target=player]Pain Suppression
+END
+VER 3 000000000000001F " alt" "INV_MISC_QUESTIONMARK"
+/cast [target=player]Power Infusion
+END
+VER 3 000000000000001D " arena 1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Chastise
+END
+VER 3 0000000000000019 " arena 2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Chastise
+END
+VER 3 000000000000001E " Arena 3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Chastise
+END
+VER 3 0000000000000012 "+LFG" "132097"
+/join lookingforgroup
+END
+VER 3 0000000000000007 "-LFG" "132097"
+/leave lookingforgroup
+END
+VER 3 0000000000000010 "Dispel" "135894"
+/cast [target=player]Dispel Magic
+END
+VER 3 0000000000000001 "power shield" "INV_MISC_QUESTIONMARK"
+/cast [target=player]Power Word: Shield
+END
+VER 3 000000000000000B "ReloadUi" "132130"
+/reload ui
+END

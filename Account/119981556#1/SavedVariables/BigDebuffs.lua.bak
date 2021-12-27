@@ -1,0 +1,10 @@
+
+BigDebuffsDB = {
+	["profileKeys"] = {
+		["Feretuse - Ashbringer"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
